@@ -1,0 +1,7 @@
+cluster_id,cluster_name,n_messages,Code Authoring,Failure Reporting,Inquiry,Context Specification,Validation,Delegation,Workflow Control
+0,Planning & Comprehension,7583,17.06,11.54,49.81,17.00,4.71,15.51,7.94
+1,Failure-Driven Debugging,7391,24.88,52.81,11.74,11.19,3.36,9.07,9.12
+2,Focused Iterative Refinement,8591,60.74,16.94,11.70,13.67,3.11,12.51,7.04
+3,Continuation-Driven Delegation,5097,14.34,9.89,14.40,19.72,4.10,21.76,43.77
+4,Extended Iterative Co-Development,31162,37.28,27.62,18.38,12.19,3.74,12.09,9.91
+5,Toolchain-Oriented Operations,4464,17.23,9.50,14.22,20.68,5.76,55.35,9.41

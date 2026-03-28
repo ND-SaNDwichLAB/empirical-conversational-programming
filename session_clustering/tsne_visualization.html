@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Session Clustering — t-SNE</title>
+    <script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            background: #f5f5f0;
+            color: #1a1a1a;
+            font-family: "JetBrains Mono", "Fira Mono", monospace;
+            display: flex;
+            flex-direction: column;
+            height: 100vh;
+            overflow: hidden;
+        }
+
+        #header {
+            padding: 12px 20px;
+            border-bottom: 1px solid #ddd;
+            display: flex;
+            align-items: center;
+            gap: 20px;
+            flex-shrink: 0;
+            background: #fff;
+        }
+
+        #header h1 {
+            font-size: 14px;
+            font-weight: 600;
+            color: #111;
+            letter-spacing: 0.05em;
+            text-transform: uppercase;
+        }
+
+        #stats {
+            font-size: 12px;
+            color: #999;
+        }
+
+        #main {
+            display: flex;
+            flex: 1;
+            overflow: hidden;
+        }
+
+        #plot {
+            flex: 1;
+            min-width: 0;
+        }
+
+        #sidebar {
+            width: 340px;
+            flex-shrink: 0;
+            border-left: 1px solid #ddd;
+            padding: 16px;
+            overflow-y: auto;
+            font-size: 12px;
+            background: #fff;
+        }
+
+        #sidebar .label {
+            color: #aaa;
+            text-transform: uppercase;
+            font-size: 10px;
+            letter-spacing: 0.1em;
+            margin-bottom: 4px;
+            margin-top: 14px;
+        }
+
+        #sidebar .label:first-child {
+            margin-top: 0;
+        }
+
+        #sidebar .value {
+            color: #222;
+            word-break: break-all;
+            line-height: 1.6;
+        }
+
+        #sidebar .sha-val {
+            color: #2563eb;
+            font-size: 11px;
+        }
+
+        #sidebar .cluster-badge {
+            display: inline-block;
+            padding: 2px 8px;
+            border-radius: 3px;
+            font-size: 11px;
+            font-weight: 700;
+            color: #fff;
+        }
+
+        #sidebar .seq-row {
+            display: flex;
+            gap: 8px;
+            padding: 4px 0;
+            border-bottom: 1px solid #f0f0f0;
+            line-height: 1.5;
+        }
+
+        #sidebar .seq-idx {
+            color: #bbb;
+            min-width: 24px;
+            text-align: right;
+            flex-shrink: 0;
+            font-size: 11px;
+        }
+
+        #sidebar .seq-label {
+            color: #2d7a2d;
+            font-size: 12px;
+        }
+
+        #sidebar .seq-label.multi {
+            color: #b45309;
+        }
+
+        #placeholder {
+            color: #ccc;
+            font-size: 12px;
+            margin-top: 40px;
+            text-align: center;
+            line-height: 2;
+        }
+
+        #medoid-tag {
+            display: inline-block;
+            margin-left: 8px;
+            background: #111;
+            color: #fff;
+            font-size: 10px;
+            font-weight: 700;
+            padding: 1px 5px;
+            border-radius: 2px;
+            letter-spacing: 0.05em;
+            vertical-align: middle;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div id="header">
+        <h1>Conversational Programming — Session Clustering (k-Medoids, k=6)</h1>
+        <span id="stats"></span>
+    </div>
+
+    <div id="main">
+        <div id="plot"></div>
+        <div id="sidebar">
+            <div id="placeholder">← hover a point<br>to inspect session</div>
+            <div id="detail" style="display:none"></div>
+        </div>
+    </div>
+
+    <script>
+        const CLUSTER_COLORS = [
+            "#4C72B0", "#DD8452", "#55A868", "#C44E52",
+            "#8172B3", "#937860", "#DA8BC3", "#8C8C8C",
+        ];
+
+        const CLUSTER_NAMES = [
+            "0 · Planning & Comprehension",
+            "1 · Failure-Driven Debugging",
+            "2 · Focused Iterative Refinement",
+            "3 · Continuation-Driven Delegation",
+            "4 · Extended Iterative Co-Development",
+            "5 · Toolchain-Oriented Operations",
+        ];
+
+        async function loadData() {
+            const paths = [
+                "../data/clusters/tsne_visualization.json",
+                "./tsne_visualization.json",
+            ];
+            for (const path of paths) {
+                try {
+                    const r = await fetch(path);
+                    if (r.ok) return await r.json();
+                } catch { }
+            }
+            throw new Error("Data not found in any known path");
+        }
+
+        loadData().then(records => {
+            document.getElementById("stats").textContent =
+                `${records.length} sessions (# messages > 3) · ${new Set(records.map(r => r.cluster_id)).size} clusters`;
+
+            const nClusters = Math.max(...records.map(r => r.cluster_id)) + 1;
+            const traces = [];
+
+            for (let c = 0; c < nClusters; c++) {
+                const regular = records.filter(r => r.cluster_id === c && !r.is_medoid);
+                const medoids = records.filter(r => r.cluster_id === c && r.is_medoid);
+                const color = CLUSTER_COLORS[c % CLUSTER_COLORS.length];
+                const name = CLUSTER_NAMES[c] ?? `Cluster ${c}`;
+
+                if (regular.length) {
+                    traces.push({
+                        type: "scatter",
+                        mode: "markers",
+                        name: name,
+                        x: regular.map(r => r.x),
+                        y: regular.map(r => r.y),
+                        customdata: regular,
+                        marker: { color, size: 5, opacity: 0.55 },
+                        hovertemplate: "<extra></extra>",
+                        legendgroup: `c${c}`,
+                    });
+                }
+
+                if (medoids.length) {
+                    // Medoid marker: slightly smaller, gray border, English comments
+                    traces.push({
+                        type: "scatter",
+                        mode: "markers",
+                        name: name + " (medoid)",
+                        x: medoids.map(r => r.x),
+                        y: medoids.map(r => r.y),
+                        customdata: medoids,
+                        marker: {
+                            color, // cluster color
+                            size: 18, // slightly smaller medoid marker
+                            opacity: 1,
+                            symbol: "star", // eye-catching symbol
+                            line: { color: "#888", width: 3 }, // gray border, thinner
+                            // Note: Plotly does not support shadow directly
+                        },
+                        hovertemplate: "<extra></extra>",
+                        legendgroup: `c${c}`,
+                        showlegend: false,
+                    });
+                }
+            }
+
+            const layout = {
+                paper_bgcolor: "#f5f5f0",
+                plot_bgcolor: "#f5f5f0",
+                margin: { t: 20, b: 40, l: 40, r: 10 },
+                xaxis: {
+                    title: { text: "t-SNE 1", font: { color: "#888", size: 13 } },
+                    color: "#888", gridcolor: "#e0e0e0", zerolinecolor: "#ccc",
+                },
+                yaxis: {
+                    title: { text: "t-SNE 2", font: { color: "#888", size: 13 } },
+                    color: "#888", gridcolor: "#e0e0e0", zerolinecolor: "#ccc",
+                },
+
+                legend: {
+                    font: { color: "#444", size: 12, family: "JetBrains Mono, monospace" },
+                    bgcolor: "rgba(255,255,255,0.8)",
+                    bordercolor: "#ddd",
+                    borderwidth: 1,
+                    tracegroupgap: 2,
+                    x: 0.8,
+                    y: 0.99,
+                    xanchor: "left",
+                    yanchor: "top",
+                },
+                dragmode: "pan",
+            };
+
+            const config = {
+                scrollZoom: true,
+                displayModeBar: true,
+                modeBarButtonsToRemove: ["select2d", "lasso2d", "autoScale2d"],
+                displaylogo: false,
+            };
+
+            Plotly.newPlot("plot", traces, layout, config);
+
+            // Hover → sidebar
+            document.getElementById("plot").on("plotly_hover", evt => {
+                const pt = evt.points[0];
+                const r = pt.customdata;
+                showDetail(r);
+            });
+        })
+            .catch(err => {
+                document.getElementById("plot").innerHTML =
+                    `<div style="color:#c44;padding:40px;font-size:12px;">
+        Failed to load data: ${err}<br><br>
+        Make sure to open this file from within the repo<br>
+        (e.g. via Live Server or python -m http.server),<br>
+        not by double-clicking (CORS restriction).
+      </div>`;
+            });
+
+        function showDetail(r) {
+            document.getElementById("placeholder").style.display = "none";
+            const el = document.getElementById("detail");
+            el.style.display = "block";
+
+            const c = r.cluster_id;
+            const color = CLUSTER_COLORS[c % CLUSTER_COLORS.length];
+            const clusterName = CLUSTER_NAMES[c] ?? `Cluster ${c}`;
+            const medoidTag = r.is_medoid ? `<span id="medoid-tag">MEDOID</span>` : "";
+
+            const seqRows = r.sequence.map((s, i) => {
+                const isMulti = s.includes(" + ");
+                return `<div class="seq-row">
+      <span class="seq-idx">${i}</span>
+      <span class="seq-label ${isMulti ? "multi" : ""}">${s}</span>
+    </div>`;
+            }).join("");
+
+            el.innerHTML = `
+    <div class="label">SHA</div>
+    <div class="value sha-val">${r.sha}</div>
+
+    <div class="label">Cluster</div>
+    <div class="value">
+      <span class="cluster-badge" style="background:${color}">${clusterName}</span>
+      ${medoidTag}
+    </div>
+
+    <div class="label">Timestamp</div>
+    <div class="value">${r.timestamp}</div>
+
+    <div class="label">Sequence (${r.sequence.length} messages)</div>
+    <div>${seqRows}</div>
+  `;
+        }
+    </script>
+</body>
+
+</html>

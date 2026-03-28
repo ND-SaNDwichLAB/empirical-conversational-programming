@@ -1,0 +1,7 @@
+cluster_id,cluster_name,n_sessions,pct_sessions,n_messages,len_mean,len_median,len_q1,len_q3,len_min,len_max,multi_label_rate
+0,Planning & Comprehension,767,15.77,7583,9.89,8.00,5.00,13.00,4,46,26.31
+1,Failure-Driven Debugging,968,19.90,7391,7.64,7.00,5.00,10.00,4,40,32.20
+2,Focused Iterative Refinement,1158,23.81,8591,7.42,6.00,5.00,9.00,4,31,33.90
+3,Continuation-Driven Delegation,460,9.46,5097,11.08,8.00,5.00,13.00,4,59,30.21
+4,Extended Iterative Co-Development,896,18.42,31162,34.78,27.00,20.00,40.00,5,156,28.53
+5,Toolchain-Oriented Operations,615,12.64,4464,7.26,6.00,4.00,9.00,4,30,34.23

@@ -1,0 +1,1139 @@
+id,sample_category,sha,msg_index,labels_gpt,labels_claude,labels_a1,labels_a2,labels_consensus
+1,1.1 New Implementation,9d07c80fc03a9540e0ee9beae27969308eba3c08,3,1.1 New Implementation,1.1 New Implementation,1.1 New Implementation,1.1 New Implementation,1.1 New Implementation
+2,1.1 New Implementation,6abc1588bbca6de548aded544260951445e914d8,4,"1.1 New Implementation
+3.1 Planning & Consultation","1.1 New Implementation
+3.1 Planning & Consultation","6.1 Documentation
+1.1 New Implementation",3.1 Planning & Consultation,"1.1 New Implementation
+3.1 Planning & Consultation"
+3,1.1 New Implementation,b9b7437fb53ba465f6d534fd7abc476d6e76ee53,0,1.1 New Implementation,1.1 New Implementation,1.1 New Implementation,1.1 New Implementation,1.1 New Implementation
+4,1.1 New Implementation,1ef928df81e12f6a00755c3db36803dee0890ae2,0,1.1 New Implementation,1.1 New Implementation,1.1 New Implementation,1.1 New Implementation,1.1 New Implementation
+5,1.1 New Implementation,f5b17426b3049ecfca30d415a4c8484d05c1c8f0,2,"3.1 Planning & Consultation
+1.1 New Implementation","3.1 Planning & Consultation
+1.1 New Implementation","1.1 New Implementation
+3.1 Planning & Consultation","1.1 New Implementation
+3.1 Planning & Consultation","1.1 New Implementation
+3.1 Planning & Consultation"
+6,1.1 New Implementation,e9fdd97c7f4957753553bd598499c8cac1018b69,1,1.1 New Implementation,"1.1 New Implementation
+4.2 Behavior Specification",1.1 New Implementation,"1.1 New Implementation
+4.2 Behavior Specification",1.1 New Implementation
+7,1.1 New Implementation,666d002c2b9804508bdf9ad82607280abc9a1542,0,1.1 New Implementation,1.1 New Implementation,1.1 New Implementation,1.1 New Implementation,1.1 New Implementation
+8,1.1 New Implementation,bf3b392f8c75d7a1488e181552c8d56e81cb8d54,0,"6.2 Toolchain Operation
+1.1 New Implementation
+4.1 Information Injection","4.1 Information Injection
+1.1 New Implementation",6.2 Toolchain Operation,1.1 New Implementation,"6.2 Toolchain Operation
+1.1 New Implementation
+4.1 Information Injection"
+9,1.1 New Implementation,6e0f66ee8ed1bc0ea5e5a7eb66b27b9ed51742b3,9,"1.1 New Implementation
+4.2 Behavior Specification","1.1 New Implementation
+4.2 Behavior Specification",1.2 Iterative Modification,1.1 New Implementation,"1.1 New Implementation
+4.2 Behavior Specification"
+10,1.1 New Implementation,de26a279a4eb7a8f71fb3d3f1330f87d498cb7c5,0,1.1 New Implementation,1.1 New Implementation,1.1 New Implementation,1.1 New Implementation,1.1 New Implementation
+11,1.1 New Implementation,2e82b11ac59d6de8135db97036237ea35701a275,10,1.1 New Implementation,1.1 New Implementation,1.1 New Implementation,1.1 New Implementation,1.1 New Implementation
+12,1.1 New Implementation,7b210daa0395aee4b2a520d1d8ab27b49bc0386f,45,1.1 New Implementation,1.1 New Implementation,1.1 New Implementation,1.1 New Implementation,1.1 New Implementation
+13,1.1 New Implementation,069d298705471eb02e5b2fd6f013fc087054f16e,43,"6.1 Documentation
+1.1 New Implementation",1.1 New Implementation,1.1 New Implementation,1.1 New Implementation,1.1 New Implementation
+14,1.1 New Implementation,e1a95c039b61baaf3303d8e66cdca0dbb6c0eee7,0,"1.1 New Implementation
+4.1 Information Injection","4.1 Information Injection
+1.1 New Implementation",3.2 Project Comprehension,1.1 New Implementation,"1.1 New Implementation
+4.1 Information Injection"
+15,1.1 New Implementation,d901cb6c785cad9bcb845e601ce86a5606777f9c,0,1.1 New Implementation,1.1 New Implementation,1.1 New Implementation,1.1 New Implementation,1.1 New Implementation
+16,1.1 New Implementation,3b82b288abb2bd5fd97cc8186be358fce618f3d7,0,"6.2 Toolchain Operation
+1.1 New Implementation",1.1 New Implementation,1.1 New Implementation,1.1 New Implementation,1.1 New Implementation
+17,1.1 New Implementation,c82470c4c0c255accb2ebe4e8acd867d4fbe6448,1,1.1 New Implementation,1.1 New Implementation,1.1 New Implementation,1.1 New Implementation,1.1 New Implementation
+18,1.1 New Implementation,c5c48ee1a37fe1ea0aaba25a23561f90cb239732,0,"6.2 Toolchain Operation
+1.1 New Implementation","1.1 New Implementation
+6.2 Toolchain Operation",6.2 Toolchain Operation,6.2 Toolchain Operation,6.2 Toolchain Operation
+19,1.1 New Implementation,63d55d37e2b52ad6248638a838edd6afd02868ba,88,1.1 New Implementation,"1.1 New Implementation
+1.2 Iterative Modification",1.1 New Implementation,1.1 New Implementation,1.1 New Implementation
+20,1.1 New Implementation,055fa3bc4b125544b3704fe86c184512b05f7464,8,"1.1 New Implementation
+6.1 Documentation",1.1 New Implementation,1.1 New Implementation,1.1 New Implementation,1.1 New Implementation
+21,1.2 Iterative Modification,a81e9894d97da0cf2083978587abb7b65afa6343,11,"1.2 Iterative Modification
+4.1 Information Injection","1.1 New Implementation
+4.1 Information Injection",1.1 New Implementation,1.1 New Implementation,"1.1 New Implementation
+4.1 Information Injection"
+22,1.2 Iterative Modification,f0dcfaf6b430cc97ff4fcf1e47400422c6178e11,23,1.2 Iterative Modification,1.2 Iterative Modification,1.2 Iterative Modification,1.2 Iterative Modification,1.2 Iterative Modification
+23,1.2 Iterative Modification,11bfe90dc6cc48d3d6ad8536bf25241a8c55b28c,36,1.2 Iterative Modification,1.2 Iterative Modification,1.2 Iterative Modification,1.2 Iterative Modification,1.2 Iterative Modification
+24,1.2 Iterative Modification,86bbb8d7b5fb4997adcd299bffc8ea5795ba5169,20,1.2 Iterative Modification,1.2 Iterative Modification,1.2 Iterative Modification,1.2 Iterative Modification,1.2 Iterative Modification
+25,1.2 Iterative Modification,0d04262ef344cdf0710a60ab5b11c3ab8f304791,0,1.2 Iterative Modification,7.4 Deferred Implementation,1.2 Iterative Modification,1.2 Iterative Modification,1.2 Iterative Modification
+26,1.2 Iterative Modification,d12e350edf05233cc0df2faea15e9cd3faa52346,2,1.2 Iterative Modification,1.2 Iterative Modification,1.2 Iterative Modification,1.2 Iterative Modification,1.2 Iterative Modification
+27,1.2 Iterative Modification,02f08eff64791af2377bdd933582af58ee40aea5,105,1.2 Iterative Modification,1.2 Iterative Modification,4.1 Information Injection,1.2 Iterative Modification,1.2 Iterative Modification
+28,1.2 Iterative Modification,0ea21319283381a495adc3597eec1b268855ba4e,8,"1.2 Iterative Modification
+1.3 Alignment Correction",1.2 Iterative Modification,1.2 Iterative Modification,"7.5 Sentiment Expression
+1.2 Iterative Modification",1.2 Iterative Modification
+29,1.2 Iterative Modification,cfea28b2c4ebd1d5da7dae9a557de60d8a2e7b85,1,1.2 Iterative Modification,1.2 Iterative Modification,1.2 Iterative Modification,1.2 Iterative Modification,1.2 Iterative Modification
+30,1.2 Iterative Modification,3f9427ff9397868e8a2791d74c53907606b8e5f7,0,1.2 Iterative Modification,1.2 Iterative Modification,1.2 Iterative Modification,1.2 Iterative Modification,1.2 Iterative Modification
+31,1.2 Iterative Modification,b11c8261f8d3ccd1ce99785dab6c2ab37532095d,1,1.2 Iterative Modification,1.1 New Implementation,1.1 New Implementation,1.2 Iterative Modification,1.2 Iterative Modification
+32,1.2 Iterative Modification,3d9016643af2eb62f3feb4a0f051510d02b349b5,0,1.2 Iterative Modification,1.1 New Implementation,1.1 New Implementation,1.2 Iterative Modification,1.1 New Implementation
+33,1.2 Iterative Modification,37f1679597e2562b2856d4c0301719091e620345,0,1.2 Iterative Modification,1.2 Iterative Modification,1.2 Iterative Modification,1.2 Iterative Modification,1.2 Iterative Modification
+34,1.2 Iterative Modification,d12b64f4a66a63c3b94d02ce957ad0d0c64697be,92,1.2 Iterative Modification,1.2 Iterative Modification,1.2 Iterative Modification,1.2 Iterative Modification,1.2 Iterative Modification
+35,1.2 Iterative Modification,a9746d04772f565a158d9e899cf16270636a774f,16,"1.2 Iterative Modification
+2.2 Symptom Description","2.2 Symptom Description
+1.1 New Implementation","2.2 Symptom Description
+1.2 Iterative Modification","2.2 Symptom Description
+1.1 New Implementation","1.2 Iterative Modification
+2.2 Symptom Description"
+36,1.2 Iterative Modification,e4688531945ffc3b79d1acd181bd1a1362de8ef6,5,"1.2 Iterative Modification
+5.1 Code Review
+3.2 Project Comprehension","1.1 New Implementation
+3.3 General Knowledge Query","5.1 Code Review
+3.1 Planning & Consultation","1.1 New Implementation
+3.3 General Knowledge Query","1.1 New Implementation
+5.1 Code Review"
+37,1.2 Iterative Modification,b947cf0e4caf688a99ad2ff275517348f2ef98fb,1,1.2 Iterative Modification,1.2 Iterative Modification,1.2 Iterative Modification,1.2 Iterative Modification,1.2 Iterative Modification
+38,1.2 Iterative Modification,ba60e21d31fbfc3cd7cae8a9e7bf22c74ebe66e9,16,1.2 Iterative Modification,1.1 New Implementation,1.1 New Implementation,1.2 Iterative Modification,1.2 Iterative Modification
+39,1.2 Iterative Modification,7b0c0fed1edbc4603e092859eee2f2947f7d7f78,10,1.2 Iterative Modification,1.2 Iterative Modification,1.2 Iterative Modification,1.2 Iterative Modification,1.2 Iterative Modification
+40,1.2 Iterative Modification,76f244785ee25844cdf1c53af80bd31593892b26,13,"6.1 Documentation
+1.2 Iterative Modification","1.2 Iterative Modification
+6.1 Documentation",1.2 Iterative Modification,"1.2 Iterative Modification
+6.1 Documentation","6.1 Documentation
+1.2 Iterative Modification"
+41,1.3 Alignment Correction,5f42f66902330acbb2cbf4b4dd25d378b5a7517a,1,"1.2 Iterative Modification
+1.3 Alignment Correction","3.1 Planning & Consultation
+2.2 Symptom Description",3.1 Planning & Consultation,3.1 Planning & Consultation,3.1 Planning & Consultation
+42,1.3 Alignment Correction,9f5f16a6ff62f221f918075fae92eea30270d2ef,12,"1.3 Alignment Correction
+1.2 Iterative Modification","1.3 Alignment Correction
+4.1 Information Injection",5.1 Code Review,"1.3 Alignment Correction
+4.1 Information Injection","1.3 Alignment Correction
+4.1 Information Injection"
+43,1.3 Alignment Correction,3bf2c68a0341932243f8e6e3585b4f77bb47892a,109,"4.1 Information Injection
+1.3 Alignment Correction",4.1 Information Injection,4.1 Information Injection,"1.3 Alignment Correction
+4.1 Information Injection","4.1 Information Injection
+1.3 Alignment Correction"
+44,1.3 Alignment Correction,14e4486dea5f4496791fa536a78bebc43819caaf,11,"1.3 Alignment Correction
+1.2 Iterative Modification","1.3 Alignment Correction
+4.1 Information Injection","1.3 Alignment Correction
+1.2 Iterative Modification","1.3 Alignment Correction
+4.1 Information Injection","1.3 Alignment Correction
+1.2 Iterative Modification"
+45,1.3 Alignment Correction,ff034224d4d1854bbff5048a7a1ecab92cd34359,1,"1.3 Alignment Correction
+1.2 Iterative Modification","1.2 Iterative Modification
+2.2 Symptom Description",1.2 Iterative Modification,"1.2 Iterative Modification
+2.2 Symptom Description","1.2 Iterative Modification
+2.2 Symptom Description"
+46,1.3 Alignment Correction,3fb63d9a7c45105b5b175c070786301d3bf53058,4,1.3 Alignment Correction,1.2 Iterative Modification,1.2 Iterative Modification,1.2 Iterative Modification,1.2 Iterative Modification
+47,1.3 Alignment Correction,140bbefed2ad3ef7a935091f3cea18968437dda2,53,"2.2 Symptom Description
+1.3 Alignment Correction","2.2 Symptom Description
+7.5 Sentiment Expression",3.2 Project Comprehension,"2.2 Symptom Description
+7.5 Sentiment Expression","2.2 Symptom Description
+7.5 Sentiment Expression"
+48,1.3 Alignment Correction,480ddd15bdc0f62642503b32d1408c636221cd5b,6,"1.2 Iterative Modification
+1.3 Alignment Correction",1.2 Iterative Modification,1.2 Iterative Modification,1.2 Iterative Modification,1.2 Iterative Modification
+49,1.3 Alignment Correction,f0dcfaf6b430cc97ff4fcf1e47400422c6178e11,43,1.3 Alignment Correction,"2.2 Symptom Description
+7.5 Sentiment Expression",1.2 Iterative Modification,2.2 Symptom Description,2.2 Symptom Description
+50,1.3 Alignment Correction,2ea82bf890f9964fb41a304bf0e1fe66fcc7d9ea,13,"1.2 Iterative Modification
+1.3 Alignment Correction",1.2 Iterative Modification,1.2 Iterative Modification,1.2 Iterative Modification,1.2 Iterative Modification
+51,1.3 Alignment Correction,d7b9ea3ea79281fd60ee47e6478756409c3693f6,15,"2.2 Symptom Description
+1.3 Alignment Correction",2.2 Symptom Description,2.3 Error Persistence,2.2 Symptom Description,"2.2 Symptom Description
+1.3 Alignment Correction"
+52,1.3 Alignment Correction,030742b593464c0861870849a2fea825c1c7dd2f,59,1.3 Alignment Correction,1.3 Alignment Correction,1.2 Iterative Modification,1.3 Alignment Correction,1.3 Alignment Correction
+53,1.3 Alignment Correction,64c193a9eb89e965fa05fbf9189e9bc4d3186210,24,1.3 Alignment Correction,1.3 Alignment Correction,1.3 Alignment Correction,1.3 Alignment Correction,1.3 Alignment Correction
+54,1.3 Alignment Correction,3eed3a2ade57a2dcd382b416a81844168a468b0f,2,"1.3 Alignment Correction
+1.2 Iterative Modification","1.3 Alignment Correction
+1.2 Iterative Modification",3.1 Planning & Consultation,1.3 Alignment Correction,"1.3 Alignment Correction
+1.2 Iterative Modification"
+55,1.3 Alignment Correction,f5772b6c00283ae29e4f17b4c35f58b2c736f3a7,1,1.3 Alignment Correction,2.2 Symptom Description,3.2 Project Comprehension,2.2 Symptom Description,2.2 Symptom Description
+56,1.3 Alignment Correction,839757f24b945e2301f8eb30346beaff167af3c1,3,"4.2 Behavior Specification
+1.3 Alignment Correction","1.3 Alignment Correction
+4.2 Behavior Specification",4.2 Behavior Specification,4.2 Behavior Specification,"4.2 Behavior Specification
+1.3 Alignment Correction"
+57,1.3 Alignment Correction,597ec66c1f3a172a169857561e9a4dcdbe543dc5,1,"1.3 Alignment Correction
+1.2 Iterative Modification",1.3 Alignment Correction,3.2 Project Comprehension,1.3 Alignment Correction,1.3 Alignment Correction
+58,1.3 Alignment Correction,bd21066cdf49d9146f0b87b1a87565a96f54d5c7,12,"2.3 Error Persistence
+1.3 Alignment Correction","2.3 Error Persistence
+1.3 Alignment Correction","2.3 Error Persistence
+1.3 Alignment Correction","2.3 Error Persistence
+1.3 Alignment Correction","2.3 Error Persistence
+1.3 Alignment Correction"
+59,1.3 Alignment Correction,a0d32d294a2c298f728a8c763381ecd2daf19b0f,2,"1.2 Iterative Modification
+1.3 Alignment Correction","1.2 Iterative Modification
+4.2 Behavior Specification",1.2 Iterative Modification,"1.2 Iterative Modification
+4.2 Behavior Specification","1.2 Iterative Modification
+4.2 Behavior Specification"
+60,1.3 Alignment Correction,680b1086f2fe32a6caade46e71fe68e7cbbf0312,3,"1.3 Alignment Correction
+1.2 Iterative Modification",4.2 Behavior Specification,1.2 Iterative Modification,4.2 Behavior Specification,1.2 Iterative Modification
+61,2.1 Log Paste,fe65141f36543bdbf60626001fed90a15d8abc0f,3,2.1 Log Paste,2.1 Log Paste,2.2 Symptom Description,2.1 Log Paste,2.1 Log Paste
+62,2.1 Log Paste,461f58ca1caac1b176ef6513d0540d595cfd9e7e,3,2.1 Log Paste,2.1 Log Paste,2.1 Log Paste,2.1 Log Paste,2.1 Log Paste
+63,2.1 Log Paste,426c8f535a8e867c21e3f2b8d632270b472e5333,7,"2.2 Symptom Description
+2.1 Log Paste","2.1 Log Paste
+2.2 Symptom Description",2.1 Log Paste,"2.1 Log Paste
+2.2 Symptom Description","2.2 Symptom Description
+2.1 Log Paste"
+64,2.1 Log Paste,d95d2b125a1d5e80a49bda7e71e181f5387daae0,0,2.1 Log Paste,"2.1 Log Paste
+2.2 Symptom Description
+4.1 Information Injection",2.2 Symptom Description,"2.1 Log Paste
+2.2 Symptom Description
+4.1 Information Injection","2.1 Log Paste
+2.2 Symptom Description"
+65,2.1 Log Paste,7c64d48018b647f5a05c801bdd2465478db064a5,4,2.1 Log Paste,2.1 Log Paste,2.1 Log Paste,2.1 Log Paste,2.1 Log Paste
+66,2.1 Log Paste,71d7fcf8dc10f652339ab324199d6f19c121174d,26,2.1 Log Paste,2.1 Log Paste,"2.1 Log Paste
+2. Failure Reporting",2.1 Log Paste,2.1 Log Paste
+67,2.1 Log Paste,d3768e8e4bf10c16658c6708ff273925b1d0c802,2,"2.2 Symptom Description
+2.1 Log Paste","2.1 Log Paste
+2.2 Symptom Description","2.1 Log Paste
+3.1 Planning & Consultation","2.1 Log Paste
+4.2 Behavior Specification","2.2 Symptom Description
+2.1 Log Paste"
+68,2.1 Log Paste,3887be09917805930645399b5bc45f17327b7557,23,2.1 Log Paste,2.1 Log Paste,"2.1 Log Paste
+2. Failure Reporting",2.1 Log Paste,2.1 Log Paste
+69,2.1 Log Paste,91ab6dcbb4cf3165d7f9185dbc137fa77c007561,7,"2.1 Log Paste
+2.2 Symptom Description","2.1 Log Paste
+2.2 Symptom Description",2.2 Symptom Description,"2.1 Log Paste
+2.2 Symptom Description","2.1 Log Paste
+2.2 Symptom Description"
+70,2.1 Log Paste,2c780288544a770420efb53926b768f7625cde56,7,2.1 Log Paste,2.1 Log Paste,2.2 Symptom Description,2.1 Log Paste,2.1 Log Paste
+71,2.1 Log Paste,1801c40cf84d6f9d866b7522007125fcbb70a1eb,50,2.1 Log Paste,2.1 Log Paste,8.1 Others,2.1 Log Paste,2.1 Log Paste
+72,2.1 Log Paste,8f242e288ce15e62dfdc457a9796e54588609b10,5,"2.3 Error Persistence
+2.1 Log Paste","2.1 Log Paste
+2.3 Error Persistence","2.3 Error Persistence
+2.1 Log Paste","2.1 Log Paste
+2.3 Error Persistence","2.3 Error Persistence
+2.1 Log Paste"
+73,2.1 Log Paste,ceabee42892516e0a16914d2303b6dba206cc8eb,4,"2.2 Symptom Description
+2.1 Log Paste","2.1 Log Paste
+3.3 General Knowledge Query",2.1 Log Paste,"2.1 Log Paste
+2.2 Symptom Description","2.2 Symptom Description
+2.1 Log Paste"
+74,2.1 Log Paste,c45a8101cf0a628b2c31e73488f72f1643710993,13,"2.1 Log Paste
+2.2 Symptom Description","2.1 Log Paste
+2.2 Symptom Description","2.1 Log Paste
+2.2 Symptom Description","2.1 Log Paste
+2.2 Symptom Description","2.1 Log Paste
+2.2 Symptom Description"
+75,2.1 Log Paste,daa08db61555eadf9680bb8cac920c6036a4a266,0,2.1 Log Paste,2.1 Log Paste,2.1 Log Paste,2.1 Log Paste,2.1 Log Paste
+76,2.1 Log Paste,0ca8f80ada449a27c95421f0b82efe7af822aba6,0,2.1 Log Paste,"2.2 Symptom Description
+3.3 General Knowledge Query",2.2 Symptom Description,2.1 Log Paste,2.1 Log Paste
+77,2.1 Log Paste,7839f561cddd1609dfb6c96520f203605c08c02d,0,2.1 Log Paste,2.1 Log Paste,2.1 Log Paste,2.1 Log Paste,2.1 Log Paste
+78,2.1 Log Paste,6f9bbf12671298c983a8e59209154329141a02cd,103,2.1 Log Paste,2.1 Log Paste,2.1 Log Paste,2.1 Log Paste,2.1 Log Paste
+79,2.1 Log Paste,b09f13c8130cf17205f6b6d5de0675b76c0e8217,0,"6.1 Documentation
+3.1 Planning & Consultation
+2.1 Log Paste","2.1 Log Paste
+1.1 New Implementation
+6.1 Documentation
+3.1 Planning & Consultation
+7.5 Sentiment Expression","2.1 Log Paste
+1.2 Iterative Modification
+6.1 Documentation
+3.1 Planning & Consultation","2.1 Log Paste
+1.1 New Implementation
+6.1 Documentation
+3.1 Planning & Consultation
+7.5 Sentiment Expression","2.1 Log Paste
+1.2 Iterative Modification
+6.1 Documentation
+3.1 Planning & Consultation"
+80,2.1 Log Paste,54a26d5db6d6429e6a2e33008aeb22c6acbff29a,12,"1.1 New Implementation
+2.2 Symptom Description
+2.1 Log Paste","2.1 Log Paste
+2.2 Symptom Description
+1.1 New Implementation","2.2 Symptom Description
+1.2 Iterative Modification","2.1 Log Paste
+2.2 Symptom Description
+1.1 New Implementation","2.1 Log Paste
+2.2 Symptom Description
+1.1 New Implementation"
+81,2.2 Symptom Description,71e3fa2ffc4177be756fb17fc45212cad6da0299,6,2.2 Symptom Description,"2.2 Symptom Description
+2.1 Log Paste",2.2 Symptom Description,"2.1 Log Paste
+2.2 Symptom Description",2.2 Symptom Description
+82,2.2 Symptom Description,85df6c41cfb9ee558d3f38456042096d1bc9e561,7,"1.2 Iterative Modification
+2.2 Symptom Description
+4.2 Behavior Specification","2.2 Symptom Description
+3.2 Project Comprehension
+1.2 Iterative Modification
+4.2 Behavior Specification","2.2 Symptom Description
+3.2 Project Comprehension","2.2 Symptom Description
+3.2 Project Comprehension
+1.2 Iterative Modification
+4.2 Behavior Specification","2.2 Symptom Description
+3.2 Project Comprehension
+1.2 Iterative Modification
+4.2 Behavior Specification"
+83,2.2 Symptom Description,16ac36d36196534e309f1f3e9608b8014a1d6369,13,2.2 Symptom Description,2.2 Symptom Description,2.2 Symptom Description,2.2 Symptom Description,2.2 Symptom Description
+84,2.2 Symptom Description,1c5bf22ff4d3372fe3aca6277dc656f293557de8,49,2.2 Symptom Description,2.2 Symptom Description,2.2 Symptom Description,2.2 Symptom Description,2.2 Symptom Description
+85,2.2 Symptom Description,89441c95c6b2a32968ffdac6e6674da4fa061079,42,2.2 Symptom Description,2.2 Symptom Description,"2.2 Symptom Description
+2 Failure Reporting",2.2 Symptom Description,2.2 Symptom Description
+86,2.2 Symptom Description,4bfa4d793526cdb04d5447f212f3978793a5b5c7,16,2.2 Symptom Description,2.2 Symptom Description,"2.2 Symptom Description
+1.2 Iterative Modification",2.2 Symptom Description,2.2 Symptom Description
+87,2.2 Symptom Description,727e654a6cbaf55fda96ae8e3aefecfe21306b7d,7,2.2 Symptom Description,2.2 Symptom Description,2.2 Symptom Description,2.2 Symptom Description,2.2 Symptom Description
+88,2.2 Symptom Description,72eaae26d9143baeae0542ea908480ab939abe83,11,2.2 Symptom Description,3.3 General Knowledge Query,3.2 Project Comprehension,2.2 Symptom Description,2.2 Symptom Description
+89,2.2 Symptom Description,f765efecfd39e6fd8a03b24a04584120d2e34acf,58,"1.2 Iterative Modification
+2.2 Symptom Description","2.2 Symptom Description
+1.2 Iterative Modification","2.2 Symptom Description
+1.2 Iterative Modification","2.2 Symptom Description
+1.2 Iterative Modification","2.2 Symptom Description
+1.2 Iterative Modification"
+90,2.2 Symptom Description,cf9f4e171a8d506f92e0635145afc2603c44a5c5,6,2.2 Symptom Description,2.2 Symptom Description,2.2 Symptom Description,2.2 Symptom Description,2.2 Symptom Description
+91,2.2 Symptom Description,60520692d5490369ad761a32d5b2659438212f7c,4,"2.2 Symptom Description
+1.2 Iterative Modification","2.2 Symptom Description
+1.2 Iterative Modification",1.2 Iterative Modification,"2.2 Symptom Description
+1.2 Iterative Modification","2.2 Symptom Description
+1.2 Iterative Modification"
+92,2.2 Symptom Description,bf936425b5dcdef93edc0de92869d83fdcca375b,7,2.2 Symptom Description,2.2 Symptom Description,2.2 Symptom Description,2.2 Symptom Description,2.2 Symptom Description
+93,2.2 Symptom Description,643da93888ee1e4bcac0c6bc472409faff7222df,48,2.2 Symptom Description,2.2 Symptom Description,5.1 Code Review,2.2 Symptom Description,2.2 Symptom Description
+94,2.2 Symptom Description,762c4e9e9167c87478785f257eb4abfa4f7d15df,0,"2.2 Symptom Description
+5.1 Code Review","3.2 Project Comprehension
+2.2 Symptom Description",2.1 Log Paste,2.2 Symptom Description,2.2 Symptom Description
+95,2.2 Symptom Description,6124d5ca33acac98c84c849425fd954e8d56d63d,3,"2.2 Symptom Description
+3.3 General Knowledge Query","2.2 Symptom Description
+3.3 General Knowledge Query","2.2 Symptom Description
+3.1 Planning & Consultation",2.2 Symptom Description,"2.2 Symptom Description
+3.1 Planning & Consultation"
+96,2.2 Symptom Description,a6913260af5fbb64f8ef8a5fccc8904045d94ba9,32,"2.2 Symptom Description
+4.2 Behavior Specification","2.2 Symptom Description
+3.1 Planning & Consultation
+4.2 Behavior Specification",2.2 Symptom Description,"2.2 Symptom Description
+4.2 Behavior Specification","2.2 Symptom Description
+4.2 Behavior Specification"
+97,2.2 Symptom Description,f12a4ce77d8b08d9babaa6164aef75b6a3e186a3,61,"2.2 Symptom Description
+5.1 Code Review","2.2 Symptom Description
+5.1 Code Review","2.2 Symptom Description
+5.1 Code Review","2.2 Symptom Description
+5.1 Code Review","2.2 Symptom Description
+5.1 Code Review"
+98,2.2 Symptom Description,81c75044ab9415e5b01aa9e1872291176b6fcbc4,0,2.2 Symptom Description,2.2 Symptom Description,2.2 Symptom Description,2.2 Symptom Description,2.2 Symptom Description
+99,2.2 Symptom Description,0bf9338b9f3ac3364af45cbb3027cb6f9e2b33a0,126,"2.2 Symptom Description
+7.5 Sentiment Expression","7.5 Sentiment Expression
+2.2 Symptom Description
+1.3 Alignment Correction","2.2 Symptom Description
+2.3 Error Persistence","7.5 Sentiment Expression
+2.2 Symptom Description
+1.3 Alignment Correction","7.5 Sentiment Expression
+2.2 Symptom Description"
+100,2.2 Symptom Description,a536870b888206cc66547361db83ebef9bc0f655,21,"2.2 Symptom Description
+1.2 Iterative Modification",2.2 Symptom Description,2.1 Log Paste,2.2 Symptom Description,2.2 Symptom Description
+101,2.3 Error Persistence,0599a24f651f2aea999b5800118712baaafda166,71,"2.3 Error Persistence
+2.2 Symptom Description","2.2 Symptom Description
+7.5 Sentiment Expression","3.3 General Knowledge query
+2.2 Symptom Description ",2.2 Symptom Description,2.2 Symptom Description
+102,2.3 Error Persistence,c0abd31e1e5b61af28c76756d47f4dfd7ad88d00,7,2.3 Error Persistence,2.3 Error Persistence,2.3 Error Persistence,2.3 Error Persistence,2.3 Error Persistence
+103,2.3 Error Persistence,0b21f5d4a02254ebcd4ab1e0d7d0e12bd777dc67,2,2.3 Error Persistence,"5.1 Code Review
+2.3 Error Persistence",5.1 Code Review,2.3 Error Persistence,2.3 Error Persistence
+104,2.3 Error Persistence,9b76925fa9431e68a6451df6c8f9e2724cc00fbe,4,2.3 Error Persistence,"2.3 Error Persistence
+2.2 Symptom Description","2.3 Error Persistence
+2.2 Symptom Description",2.3 Error Persistence,"2.3 Error Persistence
+2.2 Symptom Description"
+105,2.3 Error Persistence,408bd9421d6636352b2e116f9a03dafe9f516b86,3,"1.2 Iterative Modification
+1.3 Alignment Correction
+2.3 Error Persistence","2.3 Error Persistence
+1.3 Alignment Correction
+7.5 Sentiment Expression","2.3 Error Persistence
+7.5 Sentiment Expression",2.3 Error Persistence,"2.3 Error Persistence
+7.5 Sentiment Expression"
+106,2.3 Error Persistence,1f9a2d8547e50c2bfe669d86f258e9d4b32a1080,17,"2.3 Error Persistence
+2.1 Log Paste",2.2 Symptom Description,2.2 Symptom Description,2.3 Error Persistence,"2.3 Error Persistence
+2.2 Symptom Description"
+107,2.3 Error Persistence,8da763ec47b64f17681b672c89e0cde7c5851d29,5,"2.3 Error Persistence
+6.2 Toolchain Operation
+7.5 Sentiment Expression","2.3 Error Persistence
+7.5 Sentiment Expression","2.3 Error Persistence
+3.3 General Knowledge Query",2.3 Error Persistence,2.3 Error Persistence
+108,2.3 Error Persistence,325ffb4741742134e2c6290c413f80a6183cf5ea,5,"2.3 Error Persistence
+1.3 Alignment Correction","1.3 Alignment Correction
+1.2 Iterative Modification","2.2 Symptom Description
+1.3 Alignment Correction","2.3 Error Persistence
+1.2 Iterative Modification","2.3 Error Persistence
+1.3 Alignment Correction"
+109,2.3 Error Persistence,7b6b06e449b516528d1a6080207b6648197d167a,90,"2.3 Error Persistence
+2.2 Symptom Description",2.3 Error Persistence,"2.3 Error Persistence
+2.2 Symptom Description",2.3 Error Persistence,"2.3 Error Persistence
+2.2 Symptom Description"
+110,2.3 Error Persistence,8a62b060db1cf2a9bdac16c23df68e69c88bfd25,7,"2.3 Error Persistence
+2.2 Symptom Description",2.2 Symptom Description,2.2 Symptom Description,2.2 Symptom Description,2.2 Symptom Description
+111,2.3 Error Persistence,c9f20ad6192e900d2e02a0ef4a127969cebccd30,5,"2.3 Error Persistence
+2.2 Symptom Description",4.1 Information Injection,2.3 Error Persistence,2.2 Symptom Description,"2.3 Error Persistence
+2.2 Symptom Description"
+112,2.3 Error Persistence,8da763ec47b64f17681b672c89e0cde7c5851d29,30,"2.3 Error Persistence
+2.1 Log Paste
+7.5 Sentiment Expression","4.2 Behavior Specification
+2.1 Log Paste
+2.3 Error Persistence
+7.5 Sentiment Expression","2.3 Error Persistence
+2.1 Log Paste
+7.2 Continuation","2.3 Error Persistence
+7.5 Sentiment Expression","2.3 Error Persistence
+2.1 Log Paste
+7.5 Sentiment Expression"
+113,2.3 Error Persistence,93981ca1e3b4362ef25daaf65fa9cb4ca077d6e2,58,"2.1 Log Paste
+2.3 Error Persistence",2.1 Log Paste,2.1 Log Paste,2.1 Log Paste,2.1 Log Paste
+114,2.3 Error Persistence,0e2353a1098665379c770464ddf2f68aaaa6f895,19,2.3 Error Persistence,"2.3 Error Persistence
+7.5 Sentiment Expression",2.3 Error Persistence,2.3 Error Persistence,2.3 Error Persistence
+115,2.3 Error Persistence,8a62b060db1cf2a9bdac16c23df68e69c88bfd25,20,"2.3 Error Persistence
+2.1 Log Paste","2.1 Log Paste
+2.3 Error Persistence",2.1 Log Paste,"2.3 Error Persistence
+2.1 Log Paste","2.3 Error Persistence
+2.1 Log Paste"
+116,2.3 Error Persistence,7050ff3af7b4d3f3676b505498863c5d359a366e,27,2.3 Error Persistence,"2.3 Error Persistence
+2.2 Symptom Description",2.3 Error Persistence,2.3 Error Persistence,2.3 Error Persistence
+117,2.3 Error Persistence,5e6107ed2491f06b5937da3c131b91b0030bacb7,1,"2.3 Error Persistence
+2.1 Log Paste","2.3 Error Persistence
+2.1 Log Paste","2.3 Error Persistence
+2.2 Symptom Description","2.3 Error Persistence
+2.1 Log Paste","2.3 Error Persistence
+2.1 Log Paste"
+118,2.3 Error Persistence,65058a57db917d233746b63c825a789cbb8afb37,16,2.3 Error Persistence,2.3 Error Persistence,1.3 Alignment Correction,2.3 Error Persistence,2.3 Error Persistence
+119,2.3 Error Persistence,c8d74b1f7f134a00ae90808908e18361f5f28ead,13,2.3 Error Persistence,2.3 Error Persistence,2.3 Error Persistence,2.3 Error Persistence,2.3 Error Persistence
+120,2.3 Error Persistence,3ee412c3cd9b35850c9872e9746077948a06499c,7,"2.3 Error Persistence
+2.2 Symptom Description","2.2 Symptom Description
+2.3 Error Persistence","2.3 Error Persistence
+2.2 Symptom Description","2.3 Error Persistence
+2.2 Symptom Description","2.3 Error Persistence
+2.2 Symptom Description"
+121,3.1 Planning & Consultation,391e6a1631b91842fc0e071f5a8238596a52a72b,7,3.1 Planning & Consultation,"3.3 General Knowledge Query
+3.1 Planning & Consultation",3.1 Planning & Consultation,3.1 Planning & Consultation,3.1 Planning & Consultation
+122,3.1 Planning & Consultation,ebbfde22e75ec7fb40ab89b1ac278a87ea6c74e6,18,3.1 Planning & Consultation,3.1 Planning & Consultation,3.1 Planning & Consultation,3.1 Planning & Consultation,3.1 Planning & Consultation
+123,3.1 Planning & Consultation,ee512b4d78916ad0aee6af96c6aec72e918333ba,8,3.1 Planning & Consultation,3.1 Planning & Consultation,3.1 Planning & Consultation,3.1 Planning & Consultation,3.1 Planning & Consultation
+124,3.1 Planning & Consultation,210206b52f29f8873d81471702d6c512f3a4bb5e,4,3.1 Planning & Consultation,3.1 Planning & Consultation,3.3 General Knowledge Query,3.1 Planning & Consultation,3.1 Planning & Consultation
+125,3.1 Planning & Consultation,293d30a936c49b4c9a77898fff474d493134d9d9,6,3.1 Planning & Consultation,3.1 Planning & Consultation,3.2 Project Comprehension,3.1 Planning & Consultation,3.1 Planning & Consultation
+126,3.1 Planning & Consultation,d717d09e8b780b0bc5a45bed43ffdac94e43632d,20,3.1 Planning & Consultation,3.1 Planning & Consultation,3.1 Planning & Consultation,3.1 Planning & Consultation,3.1 Planning & Consultation
+127,3.1 Planning & Consultation,98d2a2da5c662048a9e5d461848005adc50d8f89,21,3.1 Planning & Consultation,"3.3 General Knowledge Query
+7.5 Sentiment Expression",3.1 Planning & Consultation,3.1 Planning & Consultation,3.1 Planning & Consultation
+128,3.1 Planning & Consultation,8fde1d8df7ab11d91c7c556fae9b54f40df26989,0,3.1 Planning & Consultation,3.1 Planning & Consultation,3.1 Planning & Consultation,3.1 Planning & Consultation,3.1 Planning & Consultation
+129,3.1 Planning & Consultation,7d35dab12ec7d9e03e2caf4555451583e38b61e6,0,"3.1 Planning & Consultation
+4.1 Information Injection","3.2 Project Comprehension
+3.1 Planning & Consultation",3.1 Planning & Consultation,"3.1 Planning & Consultation
+3.2 Project Comprehension",3.1 Planning & Consultation
+130,3.1 Planning & Consultation,7c0a56f8e3b1a8c8729392b9fa35c6350d712a37,0,"3.1 Planning & Consultation
+4.1 Information Injection","4.1 Information Injection
+3.1 Planning & Consultation",3.1 Planning & Consultation,"4.1 Information Injection
+3.1 Planning & Consultation","3.1 Planning & Consultation
+4.1 Information Injection"
+131,3.1 Planning & Consultation,3a889412e8a1c20d999d0448ae67cd47492ec368,1,3.1 Planning & Consultation,3.3 General Knowledge Query,3.1 Planning & Consultation,3.3 General Knowledge Query,3.1 Planning & Consultation
+132,3.1 Planning & Consultation,7980f95f51eff57c17e5b858792193c31a54b246,12,"3.1 Planning & Consultation
+7.5 Sentiment Expression","7.5 Sentiment Expression
+3.1 Planning & Consultation","6.1 Documentation
+1.1 New Implementation","7.5 Sentiment Expression
+3.1 Planning & Consultation","3.1 Planning & Consultation
+7.5 Sentiment Expression"
+133,3.1 Planning & Consultation,432e7e4d507748f5dfcdc04d63ac9e375c54c3b8,3,3.1 Planning & Consultation,3.1 Planning & Consultation,3.1 Planning & Consultation,3.1 Planning & Consultation,3.1 Planning & Consultation
+134,3.1 Planning & Consultation,b7291281fe98b9852e480437a281847cbcd24847,0,3.1 Planning & Consultation,"3.1 Planning & Consultation
+4.2 Behavior Specification",3.1 Planning & Consultation,3.1 Planning & Consultation,3.1 Planning & Consultation
+135,3.1 Planning & Consultation,a908d1d01cb7aeff52e863c8c2bff69663c06bdb,0,"1.2 Iterative Modification
+3.1 Planning & Consultation","3.1 Planning & Consultation
+1.2 Iterative Modification",3.1 Planning & Consultation,"3.1 Planning & Consultation
+1.2 Iterative Modification","1.2 Iterative Modification
+3.1 Planning & Consultation"
+136,3.1 Planning & Consultation,3fa40a59ac048a51ee7c4ea3750aa07f8b277449,0,3.1 Planning & Consultation,3.1 Planning & Consultation,3.1 Planning & Consultation,3.1 Planning & Consultation,3.1 Planning & Consultation
+137,3.1 Planning & Consultation,113708b7a70d17f4bc104074f115f7f2da54ecb1,31,3.1 Planning & Consultation,3.1 Planning & Consultation,3.1 Planning & Consultation,3.1 Planning & Consultation,3.1 Planning & Consultation
+138,3.1 Planning & Consultation,ce1b1c7ca72dfe5b4b54c0332a67434ab25dae66,2,"6.1 Documentation
+1.1 New Implementation
+3.1 Planning & Consultation","7.5 Sentiment Expression
+1.2 Iterative Modification
+1.1 New Implementation
+6.1 Documentation","1.2 Iterative Modification
+6.1 Documentation","7.5 Sentiment Expression
+1.2 Iterative Modification","7.5 Sentiment Expression
+1.2 Iterative Modification
+6.1 Documentation"
+139,3.1 Planning & Consultation,80ab8281676db4ac61bcedec2d4cd9d0db9c437f,4,3.1 Planning & Consultation,3.1 Planning & Consultation,3.1 Planning & Consultation,3.1 Planning & Consultation,3.1 Planning & Consultation
+140,3.1 Planning & Consultation,d35797751923d36e92cc30a8ede7fcde6bc96a5c,72,3.1 Planning & Consultation,3.1 Planning & Consultation,3.1 Planning & Consultation,3.1 Planning & Consultation,3.1 Planning & Consultation
+141,3.2 Project Comprehension,fbbeab8a97a49a121fcd19d82068f74a4a1640d5,5,"2.3 Error Persistence
+3.2 Project Comprehension","7.5 Sentiment Expression
+2.3 Error Persistence","2.3 Error Persistence
+2.2 Symptom Description","3.1 Planning & Consultation
+2.3 Error Persistence","2.3 Error Persistence
+2.2 Symptom Description"
+142,3.2 Project Comprehension,9cd980814e11dcb9e40c783da8fa932102f54210,8,"3.2 Project Comprehension
+2.2 Symptom Description",3.2 Project Comprehension,5.1 Code Review,"3.2 Project Comprehension
+1.2 Iterative Modification","3.2 Project Comprehension
+1.2 Iterative Modification"
+143,3.2 Project Comprehension,0ebbfdb2a4bf1e387fed55814f6908754ebcebe4,13,3.2 Project Comprehension,3.2 Project Comprehension,3.3 General Knowledge Query,3.2 Project Comprehension,3.2 Project Comprehension
+144,3.2 Project Comprehension,059558b326f9053dd3d9c13796cb676384ef6853,12,"3.1 Planning & Consultation
+3.2 Project Comprehension","3.2 Project Comprehension
+3.1 Planning & Consultation
+4.2 Behavior Specification",3.1 Planning & Consultation,"2.3 Error Persistence
+3.1 Planning & Consultation
+4.2 Behavior Specification",3.1 Planning & Consultation
+145,3.2 Project Comprehension,01252543aac5fe809e0502b5299b26ae555a1d4b,2,3.2 Project Comprehension,3.2 Project Comprehension,3.2 Project Comprehension,3.2 Project Comprehension,3.2 Project Comprehension
+146,3.2 Project Comprehension,777cf64f78ff269c0cfc86b7020456fbe4d021e4,21,3.2 Project Comprehension,3.3 General Knowledge Query,3.3 General Knowledge Query,3.3 General Knowledge Query,3.3 General Knowledge Query
+147,3.2 Project Comprehension,9961d53b33dc60961a3b1959eb7295c38b214cc9,4,3.2 Project Comprehension,3.2 Project Comprehension,1.2 Iterative Modification,4.2 Behavior Specification,3.2 Project Comprehension
+148,3.2 Project Comprehension,80ab8281676db4ac61bcedec2d4cd9d0db9c437f,2,3.2 Project Comprehension,3.2 Project Comprehension,3.2 Project Comprehension,3.2 Project Comprehension,3.2 Project Comprehension
+149,3.2 Project Comprehension,50a71bb45db912bff99643354b808468ed715a4c,25,3.2 Project Comprehension,3.2 Project Comprehension,5.1 Code Review,3.2 Project Comprehension,3.2 Project Comprehension
+150,3.2 Project Comprehension,7e7da26618ce472beeaf698d00d7ea0f9426720b,5,"6.2 Toolchain Operation
+3.2 Project Comprehension
+2.2 Symptom Description","3.2 Project Comprehension
+6.2 Toolchain Operation
+2.2 Symptom Description",3.2 Project Comprehension,"3.2 Project Comprehension
+6.2 Toolchain Operation
+2.2 Symptom Description","6.2 Toolchain Operation
+3.2 Project Comprehension
+2.2 Symptom Description"
+151,3.2 Project Comprehension,2dd569b7922cc74fbc03a893300d771777aac715,20,3.2 Project Comprehension,3.2 Project Comprehension,3.2 Project Comprehension,3.2 Project Comprehension,3.2 Project Comprehension
+152,3.2 Project Comprehension,ae12f0a704c4cc07e5fb60890e4280a01f59fb96,3,3.2 Project Comprehension,"3.2 Project Comprehension
+7.5 Sentiment Expression",3.2 Project Comprehension,3.2 Project Comprehension,3.2 Project Comprehension
+153,3.2 Project Comprehension,48ccd2e7a652b4fb4f6a04616106cd6c8a7d2792,6,3.2 Project Comprehension,"1.3 Alignment Correction
+3.2 Project Comprehension
+7.5 Sentiment Expression",3.1 Planning & Consultation,"3.2 Project Comprehension
+1.3 Alignment Correction","3.2 Project Comprehension
+1.3 Alignment Correction"
+154,3.2 Project Comprehension,16e9ff7b5eed71eabb1458d7fd1d439691f274e5,26,3.2 Project Comprehension,3.2 Project Comprehension,3.2 Project Comprehension,"1.3 Alignment Correction
+1.2 Iterative Modification",3.2 Project Comprehension
+155,3.2 Project Comprehension,8da763ec47b64f17681b672c89e0cde7c5851d29,33,3.2 Project Comprehension,3.3 General Knowledge Query,3.1 Planning & Consultation,3.3 General Knowledge Query,3.3 General Knowledge Query
+156,3.2 Project Comprehension,86a0ed1caeefe745446bc90695f939e0d32b6290,7,3.2 Project Comprehension,3.3 General Knowledge Query,3.2 Project Comprehension,3.3 General Knowledge Query,3.2 Project Comprehension
+157,3.2 Project Comprehension,64ca909e523b8e72b7e5bc78c7c8321e7fb4e781,3,"3.1 Planning & Consultation
+3.2 Project Comprehension",3.2 Project Comprehension,"3.1 Planning & Consultation
+3.2 Project Comprehension",3.2 Project Comprehension,"3.1 Planning & Consultation
+3.2 Project Comprehension"
+158,3.2 Project Comprehension,250d615b228996470ff0fff8bd0d445790ffed12,9,3.2 Project Comprehension,3.2 Project Comprehension,3.2 Project Comprehension,3.2 Project Comprehension,3.2 Project Comprehension
+159,3.2 Project Comprehension,66102c2b73b80d0e147cf513e97d5fa266c8c5fa,18,3.2 Project Comprehension,3.1 Planning & Consultation,3.1 Planning & Consultation,3.2 Project Comprehension,3.2 Project Comprehension
+160,3.2 Project Comprehension,114e93f9b1cdce7ffa5a7c9b917a2212020d1c9f,1,3.2 Project Comprehension,3.2 Project Comprehension,3.2 Project Comprehension,3.2 Project Comprehension,3.2 Project Comprehension
+161,3.3 General Knowledge Query,6ec753db6061ce9e947d37035e352d3e40216749,14,3.3 General Knowledge Query,3.3 General Knowledge Query,3.3 General Knowledge Query,3.3 General Knowledge Query,3.3 General Knowledge Query
+162,3.3 General Knowledge Query,096dfaf8237207b3ee1e4dc5b75734d726e2a1b0,5,3.3 General Knowledge Query,8.1 Others,3.3 General Knowledge Query,3.3 General Knowledge Query,3.3 General Knowledge Query
+163,3.3 General Knowledge Query,728fefef3394d549586dd78c96fbdf160b00a2ce,5,3.3 General Knowledge Query,8.1 Others,3.3 General Knowledge Query,3.3 General Knowledge Query,3.3 General Knowledge Query
+164,3.3 General Knowledge Query,d60454db4bc9add4f0f8de9486568749e5d0db06,4,3.3 General Knowledge Query,3.3 General Knowledge Query,3.3 General Knowledge Query,3.3 General Knowledge Query,3.3 General Knowledge Query
+165,3.3 General Knowledge Query,c9d6660f47c2afed6406948e8e0777d0ef6b4b74,1,3.3 General Knowledge Query,3.3 General Knowledge Query,3.3 General Knowledge Query,3.3 General Knowledge Query,3.3 General Knowledge Query
+166,3.3 General Knowledge Query,aad256a77b7e6d96f6e402336ce657fee17adf22,3,3.3 General Knowledge Query,3.3 General Knowledge Query,3.3 General Knowledge Query,3.3 General Knowledge Query,3.3 General Knowledge Query
+167,3.3 General Knowledge Query,728fefef3394d549586dd78c96fbdf160b00a2ce,24,3.3 General Knowledge Query,3.3 General Knowledge Query,3.3 General Knowledge Query,3.3 General Knowledge Query,3.3 General Knowledge Query
+168,3.3 General Knowledge Query,6a19881f97ad708f90ea7bd775485fce683ae767,1,3.3 General Knowledge Query,3.3 General Knowledge Query,3.3 General Knowledge Query,3.3 General Knowledge Query,3.3 General Knowledge Query
+169,3.3 General Knowledge Query,a9166a38a47d4f42a9a7136c73d59ea45c6dd5c2,1,3.3 General Knowledge Query,3.3 General Knowledge Query,3.2 Project Comprehension,3.3 General Knowledge Query,3.3 General Knowledge Query
+170,3.3 General Knowledge Query,1026f238568f6ed723c112f9ef1eaeaa6c615813,18,3.3 General Knowledge Query,3.3 General Knowledge Query,3.3 General Knowledge Query,3.3 General Knowledge Query,3.3 General Knowledge Query
+171,3.3 General Knowledge Query,741e516e76bcf07ae7025b05d4aa1c69e3458526,15,3.3 General Knowledge Query,3.3 General Knowledge Query,3.3 General Knowledge Query,3.3 General Knowledge Query,3.3 General Knowledge Query
+172,3.3 General Knowledge Query,03a257eb2c5ae381f8dc8b73f2b781c2025994d4,14,3.3 General Knowledge Query,3.3 General Knowledge Query,3.1 Planning & Consultation,3.3 General Knowledge Query,3.3 General Knowledge Query
+173,3.3 General Knowledge Query,172f92237bd299dafc728468a40c36e05b85ddc7,4,3.3 General Knowledge Query,3.3 General Knowledge Query,3.1 Planning & Consultation,3.3 General Knowledge Query,3.3 General Knowledge Query
+174,3.3 General Knowledge Query,a0da6fc8b7be9ba0e17521d2b294e97e41585769,31,3.3 General Knowledge Query,3.3 General Knowledge Query,3.3 General Knowledge Query,3.3 General Knowledge Query,3.3 General Knowledge Query
+175,3.3 General Knowledge Query,4bece028fe321340e78f5cbe19315df48df5aeec,0,3.3 General Knowledge Query,3.3 General Knowledge Query,3.3 General Knowledge Query,3.3 General Knowledge Query,3.3 General Knowledge Query
+176,3.3 General Knowledge Query,6c6ecf40e8710ef1dbc6ab3a6d076e02494f1d34,33,3.3 General Knowledge Query,"2.2 Symptom Description
+1.2 Iterative Modification",3.3 General Knowledge Query,3.3 General Knowledge Query,3.3 General Knowledge Query
+177,3.3 General Knowledge Query,7b6b06e449b516528d1a6080207b6648197d167a,71,3.3 General Knowledge Query,3.3 General Knowledge Query,3.3 General Knowledge Query,3.3 General Knowledge Query,3.3 General Knowledge Query
+178,3.3 General Knowledge Query,cede884d9f7d3c57506e8151d4d4f80972ca522f,8,"2.3 Error Persistence
+5.1 Code Review
+3.3 General Knowledge Query","2.3 Error Persistence
+2.2 Symptom Description
+3.1 Planning & Consultation
+5.1 Code Review
+7.5 Sentiment Expression","2.2 Symptom Description
+5.1 Code Review","2.3 Error Persistence
+2.2 Symptom Description
+3.1 Planning & Consultation
+5.1 Code Review","2.3 Error Persistence
+2.2 Symptom Description
+5.1 Code Review"
+179,3.3 General Knowledge Query,8bc3efd8b56415aad849467578f71edc84b502f2,1,3.3 General Knowledge Query,3.3 General Knowledge Query,3.1 Planning & Consultation,1.3 Alignment Correction,3.1 Planning & Consultation
+180,3.3 General Knowledge Query,5bfddaa0a893e8f2b815eda43860ee131451b404,6,3.3 General Knowledge Query,3.3 General Knowledge Query,3.3 General Knowledge Query,3.3 General Knowledge Query,3.3 General Knowledge Query
+181,4.1 Information Injection,2ca366a2dc96f47be7bc76cac512024e6bae6d86,3,"6.2 Toolchain Operation
+4.1 Information Injection",4.1 Information Injection,5.1 Code Review,4.1 Information Injection,4.1 Information Injection
+182,4.1 Information Injection,00ae0440c2a518a0130c74acc1b9975d2590d96a,6,4.1 Information Injection,8.1 Others,3.3 General Knowledge Query,8.1 Others,3.3 General Knowledge Query
+183,4.1 Information Injection,9d0cbe31238c8e5bf7b4c90cb9fdcb58ee4e35a5,21,"1.2 Iterative Modification
+4.1 Information Injection",1.2 Iterative Modification,1.2 Iterative Modification,"1.2 Iterative Modification
+4.1 Information Injection","1.2 Iterative Modification
+4.1 Information Injection"
+184,4.1 Information Injection,58fe56fa686938611ec5caae70783b2b5abc5d44,14,"6.2 Toolchain Operation
+4.1 Information Injection","4.1 Information Injection
+6.1 Documentation
+7.2 Continuation",7.2 Continuation,"4.1 Information Injection
+6.1 Documentation
+7.2 Continuation","4.1 Information Injection
+7.2 Continuation"
+185,4.1 Information Injection,43da8482559ea81236b055714b786f4e455fd134,12,"4.2 Behavior Specification
+4.1 Information Injection",4.1 Information Injection,1.2 Iterative Modification,4.1 Information Injection,4.1 Information Injection
+186,4.1 Information Injection,225920ea8a8456e34883f7a234747b8568bde802,0,"3.1 Planning & Consultation
+6.2 Toolchain Operation
+4.1 Information Injection","3.1 Planning & Consultation
+3.2 Project Comprehension",3.1 Planning & Consultation,"3.1 Planning & Consultation
+3.2 Project Comprehension",3.1 Planning & Consultation
+187,4.1 Information Injection,9c50e015a106e8ce8a7522c492153b8f9caca30d,35,4.1 Information Injection,4.1 Information Injection,1.1 New Implementation,4.1 Information Injection,4.1 Information Injection
+188,4.1 Information Injection,a07eb4a5a5a638be74e040fe04ca7f69cf901ce3,22,4.1 Information Injection,4.1 Information Injection,4.1 Information Injection,4.1 Information Injection,4.1 Information Injection
+189,4.1 Information Injection,4f42b2d6c6350c2b81fc66080e0fe860724dd8f8,2,"4.2 Behavior Specification
+4.1 Information Injection","1.2 Iterative Modification
+6.1 Documentation","4.2 Behavior Specification
+6.1 Documentation","1.2 Iterative Modification
+6.1 Documentation","4.2 Behavior Specification
+6.1 Documentation"
+190,4.1 Information Injection,3acd1497ad1137f9041ed1706d619c0892571df0,6,4.1 Information Injection,8.1 Others,3.3 General Knowledge Query,3.3 General Knowledge Query,3.3 General Knowledge Query
+191,4.1 Information Injection,02c177807c64be8b1c4861645c8dafc77fe677a2,0,"3.1 Planning & Consultation
+4.1 Information Injection",3.2 Project Comprehension,3.3 General Knowledge Query,3.2 Project Comprehension,3.2 Project Comprehension
+192,4.1 Information Injection,05d7d61bdb84a88c6d064c8676a42f02ad0f13b2,7,"6.1 Documentation
+4.1 Information Injection","6.1 Documentation
+4.1 Information Injection",6.1 Documentation,"6.1 Documentation
+4.1 Information Injection","6.1 Documentation
+4.1 Information Injection"
+193,4.1 Information Injection,1c3ac39aef7cbd4204a0f3eeb559eba0fb589002,12,"1.3 Alignment Correction
+4.1 Information Injection","1.2 Iterative Modification
+4.1 Information Injection","1.2 Iterative Modification
+4.1 Information Injection","1.2 Iterative Modification
+4.1 Information Injection","1.2 Iterative Modification
+4.1 Information Injection"
+194,4.1 Information Injection,b37a0662c0e3d5e371319fedbd144b337705076c,1,4.1 Information Injection,"1.3 Alignment Correction
+1.2 Iterative Modification",4.1 Information Injection,4.1 Information Injection,4.1 Information Injection
+195,4.1 Information Injection,a32f2e9bc17dfd040b7c5330b4a6434972cda2e8,0,"1.2 Iterative Modification
+4.1 Information Injection",1.2 Iterative Modification,1.2 Iterative Modification,1.2 Iterative Modification,1.2 Iterative Modification
+196,4.1 Information Injection,275aaa3a771f565b9c91c3c922bc209dacb55386,0,"1.1 New Implementation
+4.2 Behavior Specification
+4.1 Information Injection",1.1 New Implementation,1.1 New Implementation,1.1 New Implementation,1.1 New Implementation
+197,4.1 Information Injection,c97117616e2bf7efe550259ecef7aa2bbd1a3b3f,4,"1.2 Iterative Modification
+4.1 Information Injection","1.2 Iterative Modification
+4.1 Information Injection
+7.2 Continuation",1.2 Iterative Modification,"1.2 Iterative Modification
+4.1 Information Injection
+7.2 Continuation","1.2 Iterative Modification
+4.1 Information Injection"
+198,4.1 Information Injection,111bce6411418344ac902cb88b2058fd20b6f63c,19,4.1 Information Injection,8.1 Others,3.3 General Knowledge Query,8.1 Others,8.1 Others
+199,4.1 Information Injection,5470fc4a9cf1768e657bdae4ed0a6b16745ec314,10,"4.1 Information Injection
+7.1 Confirmation",4.1 Information Injection,7.1 Confirmation,4.1 Information Injection,"4.1 Information Injection
+7.1 Confirmation"
+200,4.1 Information Injection,c06db3ddc73f4980a7af3765a0a0b15fe47bfb6d,11,"4.1 Information Injection
+7.1 Confirmation","2.2 Symptom Description
+4.1 Information Injection",2.2 Symptom Description,"4.1 Information Injection
+2.2 Symptom Description","4.1 Information Injection
+2.2 Symptom Description"
+201,4.2 Behavior Specification,a222f900e591c7a9a5bd16a50777241bd7bad5b5,6,"3.3 General Knowledge Query
+4.1 Information Injection
+4.2 Behavior Specification","4.1 Information Injection
+6.2 Toolchain Operation",3.3 General Knowledge Query,"4.1 Information Injection
+6.2 Toolchain Operation","4.1 Information Injection
+6.2 Toolchain Operation"
+202,4.2 Behavior Specification,02d5e0103e8a60024e2132d3f109dcba6a5f3fa3,6,"4.2 Behavior Specification
+1.3 Alignment Correction",1.3 Alignment Correction,1.2 Iterative Modification,4.2 Behavior Specification,4.2 Behavior Specification
+203,4.2 Behavior Specification,0fd5180a4dcee4feb0b6fb77124eaf1f80b98ef3,7,4.2 Behavior Specification,4.2 Behavior Specification,1.1 New Implementation,4.2 Behavior Specification,4.2 Behavior Specification
+204,4.2 Behavior Specification,0702bd75a73ce9c7e6d091286f94b65fc6bcb30d,1,"2.2 Symptom Description
+4.2 Behavior Specification",7.3 Deferred Debugging,2.2 Symptom Description,4.2 Behavior Specification,4.2 Behavior Specification
+205,4.2 Behavior Specification,1054024d46f18a144c4dcb00ea3226a96552b142,11,4.2 Behavior Specification,4.2 Behavior Specification,4.2 Behavior Specification,4.2 Behavior Specification,4.2 Behavior Specification
+206,4.2 Behavior Specification,1c8b671ce4a2d5a2da37997c6ec677d0de632857,1,"6.2 Toolchain Operation
+3.1 Planning & Consultation
+4.2 Behavior Specification","3.2 Project Comprehension
+3.1 Planning & Consultation
+7.4 Deferred Implementation","3.2 Project Comprehension
+3.1 Planning & Consultation","4.2 Behavior Specification
+3.1 Planning & Consultation","4.2 Behavior Specification
+3.1 Planning & Consultation"
+207,4.2 Behavior Specification,3ab00d35db9f54d3ff088ed50a1b676adf095c96,10,"4.2 Behavior Specification
+7.1 Confirmation","7.1 Confirmation
+6.1 Documentation","4.2 Behavior Specification
+7.1 Confirmation","7.1 Confirmation
+6.1 Documentation","4.2 Behavior Specification
+7.1 Confirmation"
+208,4.2 Behavior Specification,76f244785ee25844cdf1c53af80bd31593892b26,7,"6.1 Documentation
+4.2 Behavior Specification","1.3 Alignment Correction
+1.2 Iterative Modification","1.3 Alignment Correction
+1.2 Iterative Modification","1.3 Alignment Correction
+1.2 Iterative Modification","1.3 Alignment Correction
+1.2 Iterative Modification"
+209,4.2 Behavior Specification,39c6af2b74eafa9a43b1e6a3df2d705041187ab1,3,"6.1 Documentation
+4.2 Behavior Specification","6.1 Documentation
+4.2 Behavior Specification",6.1 Documentation,"6.1 Documentation
+4.2 Behavior Specification","6.1 Documentation
+4.2 Behavior Specification"
+210,4.2 Behavior Specification,544aa9604c1ba2a66ed337a25600d9bdc2149cb6,0,"5.1 Code Review
+4.1 Information Injection
+4.2 Behavior Specification","5.1 Code Review
+4.2 Behavior Specification
+4.1 Information Injection","5.1 Code Review
+4.2 Behavior Specification","5.1 Code Review
+4.1 Information Injection
+4.2 Behavior Specification","5.1 Code Review
+4.1 Information Injection
+4.2 Behavior Specification"
+211,4.2 Behavior Specification,c35706556727e686b4598d8e5c1a00fe70e99ae4,1,"6.1 Documentation
+4.2 Behavior Specification","6.1 Documentation
+4.2 Behavior Specification",6.1 Documentation,"6.1 Documentation
+4.2 Behavior Specification","6.1 Documentation
+4.2 Behavior Specification"
+212,4.2 Behavior Specification,ed90b3e8355c2527b06e696ee7a7ca6e0fea38c9,0,4.2 Behavior Specification,4.2 Behavior Specification,4.2 Behavior Specification,4.2 Behavior Specification,4.2 Behavior Specification
+213,4.2 Behavior Specification,7af3c0c68cae9758a491a0f2de9f0a904d5cd14e,0,"1.2 Iterative Modification
+4.2 Behavior Specification","1.2 Iterative Modification
+4.2 Behavior Specification",1.2 Iterative Modification,"1.2 Iterative Modification
+4.2 Behavior Specification","1.2 Iterative Modification
+4.2 Behavior Specification"
+214,4.2 Behavior Specification,e5c0829f64eaf68154e8c3b44c7b3a69104a80df,0,"1.1 New Implementation
+4.2 Behavior Specification","1.1 New Implementation
+4.2 Behavior Specification",6.1 Documentation,4.2 Behavior Specification,"1.1 New Implementation
+4.2 Behavior Specification"
+215,4.2 Behavior Specification,7eac52d26238957fcbf5bec07506388d0bf75739,19,4.2 Behavior Specification,6.2 Toolchain Operation,4.2 Behavior Specification,4.2 Behavior Specification,4.2 Behavior Specification
+216,4.2 Behavior Specification,39cfcf97833437d7b03c75c62e73b81731bf21ec,14,"4.2 Behavior Specification
+7.2 Continuation",7.4 Deferred Implementation,7.2 Continuation,7.2 Continuation,7.2 Continuation
+217,4.2 Behavior Specification,e0dfa71fdb97a6dc566da9792d6f2fc75be045ca,33,"4.2 Behavior Specification
+6.2 Toolchain Operation","4.2 Behavior Specification
+7.5 Sentiment Expression
+1.3 Alignment Correction",3.2 Project Comprehension,"4.2 Behavior Specification
+1.3 Alignment Correction
+7.5 Sentiment Expression","4.2 Behavior Specification
+1.3 Alignment Correction
+7.5 Sentiment Expression"
+218,4.2 Behavior Specification,035dcb5a7aa29bd4730e602630adf897577265e9,29,"3.1 Planning & Consultation
+4.2 Behavior Specification
+7.5 Sentiment Expression","5.1 Code Review
+7.5 Sentiment Expression",3.1 Planning & Consultation,"5.1 Code Review
+7.5 Sentiment Expression","3.1 Planning & Consultation
+7.5 Sentiment Expression"
+219,4.2 Behavior Specification,00d34d12df650aec4aef76a421fe960f10caffb5,5,"1.2 Iterative Modification
+4.2 Behavior Specification","7.5 Sentiment Expression
+1.3 Alignment Correction
+4.2 Behavior Specification
+1.2 Iterative Modification",1.2 Iterative Modification,"7.5 Sentiment Expression
+1.3 Alignment Correction
+4.2 Behavior Specification
+1.2 Iterative Modification","1.2 Iterative Modification
+4.2 Behavior Specification"
+220,4.2 Behavior Specification,8ad9c5c2e404f0bdcf4e2b331b82f5f23cbf053d,2,4.2 Behavior Specification,"4.2 Behavior Specification
+7.2 Continuation",1.2 Iterative Modification,4.2 Behavior Specification,4.2 Behavior Specification
+221,5.1 Code Review,092ae23b25eee3eb842b8dd1cf7358b468cbdebf,33,"1.2 Iterative Modification
+5.1 Code Review","5.1 Code Review
+1.2 Iterative Modification",1.2 Iterative Modification,"1.2 Iterative Modification
+5.1 Code Review","1.2 Iterative Modification
+5.1 Code Review"
+222,5.1 Code Review,0651eff1637f37bdd4eb5c0a95883c22d1a0b632,4,"1.2 Iterative Modification
+5.1 Code Review","5.1 Code Review
+1.2 Iterative Modification","1.2 Iterative Modification
+5.1 Code Review","1.2 Iterative Modification
+5.1 Code Review","1.2 Iterative Modification
+5.1 Code Review"
+223,5.1 Code Review,6ec753db6061ce9e947d37035e352d3e40216749,17,5.1 Code Review,5.1 Code Review,5.1 Code Review,5.1 Code Review,5.1 Code Review
+224,5.1 Code Review,86bbb8d7b5fb4997adcd299bffc8ea5795ba5169,13,5.1 Code Review,3.2 Project Comprehension,3.2 Project Comprehension,3.2 Project Comprehension,3.2 Project Comprehension
+225,5.1 Code Review,837b5429be576c32f3161fb717e72ee47fe6f203,79,"5.1 Code Review
+7.5 Sentiment Expression","7.5 Sentiment Expression
+5.1 Code Review
+4.1 Information Injection",7.5 Sentiment Expression,"7.5 Sentiment Expression
+5.1 Code Review
+4.1 Information Injection","5.1 Code Review
+7.5 Sentiment Expression"
+226,5.1 Code Review,9d6a86e4f7d5e8462e88e16ceff5afb81351492a,3,"2.2 Symptom Description
+5.1 Code Review","2.2 Symptom Description
+5.1 Code Review",5.1 Code Review,"2.2 Symptom Description
+5.1 Code Review","2.2 Symptom Description
+5.1 Code Review"
+227,5.1 Code Review,2ff4d76dc20df52220438ae6cbd8b5ddb2d13f57,1,5.1 Code Review,5.1 Code Review,5.1 Code Review,5.1 Code Review,5.1 Code Review
+228,5.1 Code Review,512948a03d0362125c4ef2ed5197b0ac1bdf68cf,12,"1.2 Iterative Modification
+5.1 Code Review","1.3 Alignment Correction
+5.1 Code Review",1.3 Alignment Correction,1.3 Alignment Correction,1.3 Alignment Correction
+229,5.1 Code Review,ce9261153e6200152185684270d6a2e028f4d6d1,1,5.1 Code Review,3.2 Project Comprehension,5.1 Code Review,5.1 Code Review,5.1 Code Review
+230,5.1 Code Review,61a835db2a190c1e2dd3abaec65acc524a50527e,6,5.1 Code Review,5.1 Code Review,5.1 Code Review,5.1 Code Review,5.1 Code Review
+231,5.1 Code Review,989796f60063c6ce225a2131e2c7983ad947a9c8,6,5.1 Code Review,5.1 Code Review,5.1 Code Review,5.1 Code Review,5.1 Code Review
+232,5.1 Code Review,1d19199de5570d4284ac13a5f973d3114389803c,0,5.1 Code Review,5.1 Code Review,5.1 Code Review,5.1 Code Review,5.1 Code Review
+233,5.1 Code Review,8a9a72a4b2ce7461763cc1642255c636b7d6b558,0,"1.2 Iterative Modification
+5.1 Code Review
+6.1 Documentation","1.2 Iterative Modification
+5.1 Code Review",5.1 Code Review,"5.1 Code Review
+1.2 Iterative Modification","5.1 Code Review
+1.2 Iterative Modification"
+234,5.1 Code Review,a823aaaa71c775d0809c964f794d6a70d3e98fd4,10,"1.2 Iterative Modification
+5.1 Code Review","3.2 Project Comprehension
+1.2 Iterative Modification","1.2 Iterative Modification
+5.1 Code Review","5.1 Code Review
+1.2 Iterative Modification","1.2 Iterative Modification
+5.1 Code Review"
+235,5.1 Code Review,35314dfc9ca70bb7265f7889713c4d6435b6ea8c,36,"5.1 Code Review
+6.1 Documentation","5.1 Code Review
+3.2 Project Comprehension",5.1 Code Review,"5.1 Code Review
+3.2 Project Comprehension",5.1 Code Review
+236,5.1 Code Review,7381c26a3044a67729ff9d312c88cfa2e9a2e629,0,"5.1 Code Review
+3.2 Project Comprehension",3.2 Project Comprehension,3.2 Project Comprehension,3.2 Project Comprehension,3.2 Project Comprehension
+237,5.1 Code Review,7b210daa0395aee4b2a520d1d8ab27b49bc0386f,32,"7.2 Continuation
+5.1 Code Review",3.2 Project Comprehension,7.2 Continuation,7.2 Continuation,7.2 Continuation
+238,5.1 Code Review,7ba272265e28ddb5766129d9ce798c76e4d4e13e,0,"2.2 Symptom Description
+5.1 Code Review","3.2 Project Comprehension
+2.2 Symptom Description",5.1 Code Review,"3.2 Project Comprehension
+2.2 Symptom Description","2.2 Symptom Description
+5.1 Code Review"
+239,5.1 Code Review,d6d36791c944e547ec14cf330d9f8d9caa184c0d,34,5.1 Code Review,"7.5 Sentiment Expression
+5.1 Code Review","5.1 Code Review
+7.5 Sentiment Expression","5.1 Code Review
+7.5 Sentiment Expression","5.1 Code Review
+7.5 Sentiment Expression"
+240,5.1 Code Review,8da54818c54d97f078b9e9907d862d3963133185,14,"1.2 Iterative Modification
+5.1 Code Review","2.2 Symptom Description
+1.2 Iterative Modification","2.2 Symptom Description
+1.2 Iterative Modification","1.2 Iterative Modification
+5.1 Code Review","1.2 Iterative Modification
+5.1 Code Review"
+241,5.2 Runtime Inspection,f5a796b8724265e0ebe5cced4e6cb1d69cba6bb4,21,5.2 Runtime Inspection,3.2 Project Comprehension,3.2 Project Comprehension,3.2 Project Comprehension,3.2 Project Comprehension
+242,5.2 Runtime Inspection,140ebccac99185251e34f3bf677e1bda4fc5c7bf,7,"6.2 Toolchain Operation
+5.2 Runtime Inspection",5.1 Code Review,7.2 Continuation,"5.1 Code Review
+7.2 Continuation","5.1 Code Review
+7.2 Continuation"
+243,5.2 Runtime Inspection,cdb268ccdb6689786ac1df89a63f1eae0081fc5d,6,"2.2 Symptom Description
+5.2 Runtime Inspection",5.2 Runtime Inspection,3.1 Planning & Consultation,5.2 Runtime Inspection,5.2 Runtime Inspection
+244,5.2 Runtime Inspection,ddb92dd035e1c667b799d40c24b806c69a1c64aa,22,"6.2 Toolchain Operation
+5.2 Runtime Inspection","6.2 Toolchain Operation
+5.2 Runtime Inspection",6.2 Toolchain Operation,"5.2 Runtime Inspection
+6.2 Toolchain Operation","6.2 Toolchain Operation
+5.2 Runtime Inspection"
+245,5.2 Runtime Inspection,7050ff3af7b4d3f3676b505498863c5d359a366e,3,5.2 Runtime Inspection,7.2 Continuation,7.3 Deferred Debugging,7.3 Deferred Debugging,7.3 Deferred Debugging
+246,5.2 Runtime Inspection,f01efbeb6cad57d23e0fc550b75ec85a32c2bde8,23,5.2 Runtime Inspection,5.2 Runtime Inspection,5.2 Runtime Inspection,5.2 Runtime Inspection,5.2 Runtime Inspection
+247,5.2 Runtime Inspection,89a754a15e9ad76d35da0676ede91db2e356c287,1,"6.2 Toolchain Operation
+5.2 Runtime Inspection","6.2 Toolchain Operation
+5.2 Runtime Inspection",6.2 Toolchain Operation,"6.2 Toolchain Operation
+5.2 Runtime Inspection","6.2 Toolchain Operation
+5.2 Runtime Inspection"
+248,5.2 Runtime Inspection,a4ff07369f625d16bfa45054edc946f3401567be,0,"1.2 Iterative Modification
+2.1 Log Paste
+5.2 Runtime Inspection","2.1 Log Paste
+2.2 Symptom Description
+5.1 Code Review",2.1 Log Paste,"2.1 Log Paste
+2.2 Symptom Description
+5.1 Code Review","2.1 Log Paste
+2.2 Symptom Description"
+249,5.2 Runtime Inspection,b374b540996790d3338b163df0af8fa87f4cf1be,2,"3.2 Project Comprehension
+5.2 Runtime Inspection
+6.2 Toolchain Operation","3.1 Planning & Consultation
+3.2 Project Comprehension
+5.2 Runtime Inspection","5.2 Runtime Inspection
+3.2 Project Comprehension","3.1 Planning & Consultation
+5.2 Runtime Inspection","3.2 Project Comprehension
+5.2 Runtime Inspection"
+250,5.2 Runtime Inspection,9129d28c78f4d5b3dba788dd1aed361bbf6d70bb,19,5.2 Runtime Inspection,5.2 Runtime Inspection,5.2 Runtime Inspection,5.2 Runtime Inspection,5.2 Runtime Inspection
+251,5.2 Runtime Inspection,6c6ecf40e8710ef1dbc6ab3a6d076e02494f1d34,28,5.2 Runtime Inspection,3.2 Project Comprehension,5.2 Runtime Inspection,5.2 Runtime Inspection,5.2 Runtime Inspection
+252,5.2 Runtime Inspection,01c1a8ac5d36e5d726dc54274867009d42aa9bea,0,5.2 Runtime Inspection,5.2 Runtime Inspection,5.2 Runtime Inspection,5.2 Runtime Inspection,5.2 Runtime Inspection
+253,5.2 Runtime Inspection,f7698ad980f8f7490a1d9af13bc81e6214c06de4,0,"6.2 Toolchain Operation
+1.2 Iterative Modification
+5.2 Runtime Inspection","1.2 Iterative Modification
+6.1 Documentation
+6.2 Toolchain Operation","1.2 Iterative Modification
+2.2 Symptom Description","1.2 Iterative Modification
+6.1 Documentation
+6.2 Toolchain Operation","1.2 Iterative Modification
+6.2 Toolchain Operation"
+254,5.2 Runtime Inspection,ac8960caa49c91d753e91695b771599a789b7c73,0,"5.2 Runtime Inspection
+6.2 Toolchain Operation",5.2 Runtime Inspection,5.2 Runtime Inspection,5.2 Runtime Inspection,5.2 Runtime Inspection
+255,5.2 Runtime Inspection,b46c95e3c3179ddd834af1daa9ef5b4c6458358c,3,"6.1 Documentation
+4.2 Behavior Specification
+6.2 Toolchain Operation
+5.2 Runtime Inspection","6.1 Documentation
+6.2 Toolchain Operation
+4.2 Behavior Specification",6.1 Documentation,"6.1 Documentation
+6.2 Toolchain Operation
+4.2 Behavior Specification","6.1 Documentation
+6.2 Toolchain Operation
+4.2 Behavior Specification"
+256,5.2 Runtime Inspection,8da763ec47b64f17681b672c89e0cde7c5851d29,45,5.2 Runtime Inspection,"3.2 Project Comprehension
+2.1 Log Paste",3.2 Project Comprehension,3.2 Project Comprehension,3.2 Project Comprehension
+257,5.2 Runtime Inspection,75e45942ac9a22da86d1f7d47f74fe84edf32957,4,5.2 Runtime Inspection,5.2 Runtime Inspection,5.2 Runtime Inspection,5.2 Runtime Inspection,5.2 Runtime Inspection
+258,5.2 Runtime Inspection,a6daedc5a9ac827e78be6e1ce2390c1a19e8d521,2,"6.2 Toolchain Operation
+5.2 Runtime Inspection","1.3 Alignment Correction
+7.5 Sentiment Expression",1.3 Alignment Correction,1.3 Alignment Correction,1.3 Alignment Correction
+259,5.2 Runtime Inspection,a002adbf30b31fcf728ff09cede2c48e3e21d954,0,5.2 Runtime Inspection,"5.2 Runtime Inspection
+4.1 Information Injection",5.2 Runtime Inspection,5.2 Runtime Inspection,5.2 Runtime Inspection
+260,5.2 Runtime Inspection,cb9f329f105efc3adc6e30d4dfc65f9204b05fef,13,"6.2 Toolchain Operation
+5.2 Runtime Inspection","6.2 Toolchain Operation
+5.2 Runtime Inspection",6.2 Toolchain Operation,"6.2 Toolchain Operation
+5.2 Runtime Inspection","6.2 Toolchain Operation
+5.2 Runtime Inspection"
+261,6.1 Documentation,909a3719c461e981f2f82311d00f70528571a3d5,7,6.1 Documentation,1.2 Iterative Modification,4.2 Behavior Specification,4.2 Behavior Specification,4.2 Behavior Specification
+262,6.1 Documentation,23e7b3a16fcd9c092f0f206f211a64b01f3e7f25,11,6.1 Documentation,6.1 Documentation,6.1 Documentation,6.1 Documentation,6.1 Documentation
+263,6.1 Documentation,1c9dd00cd1f58bfb3c720fe75f2e2871bab37bdb,0,6.1 Documentation,6.1 Documentation,6.1 Documentation,6.1 Documentation,6.1 Documentation
+264,6.1 Documentation,c2abbf3f85ec70259b67c6cdaa5da9eeeb52b008,1,"6.1 Documentation
+3.1 Planning & Consultation","6.1 Documentation
+4.2 Behavior Specification",6.1 Documentation,6.1 Documentation,6.1 Documentation
+265,6.1 Documentation,abb0f72bffd774bc6312b3428369d0d2bb0c18f0,8,6.1 Documentation,6.1 Documentation,6.1 Documentation,6.1 Documentation,6.1 Documentation
+266,6.1 Documentation,5c869d21fbf61355b349c3cd334c7ac4544a4a51,0,"2.2 Symptom Description
+2.1 Log Paste
+6.1 Documentation","2.1 Log Paste
+2.2 Symptom Description
+3.1 Planning & Consultation
+6.1 Documentation","5.1 Code Review
+6.1 Documentation","2.1 Log Paste
+3.1 Planning & Consultation
+6.1 Documentation","2.1 Log Paste
+6.1 Documentation"
+267,6.1 Documentation,aefb17ba87e19bb60767eaa3fa9ae4ecbd101791,6,"6.2 Toolchain Operation
+6.1 Documentation","6.2 Toolchain Operation
+6.1 Documentation",6.1 Documentation,"6.2 Toolchain Operation
+6.1 Documentation","6.2 Toolchain Operation
+6.1 Documentation"
+268,6.1 Documentation,19f80fb1b94900472095e2cbca7042667b90fcd4,30,"1.1 New Implementation
+6.1 Documentation","1.1 New Implementation
+6.1 Documentation",1.1 New Implementation,"1.1 New Implementation
+6.1 Documentation","1.1 New Implementation
+6.1 Documentation"
+269,6.1 Documentation,c4d5a18a275cb244c84b027677826591745eff33,3,"6.1 Documentation
+3.1 Planning & Consultation",6.1 Documentation,6.1 Documentation,6.1 Documentation,6.1 Documentation
+270,6.1 Documentation,a0d32d294a2c298f728a8c763381ecd2daf19b0f,0,"6.1 Documentation
+4.1 Information Injection",1.2 Iterative Modification,1.2 Iterative Modification,"6.1 Documentation
+4.1 Information Injection","6.1 Documentation
+4.1 Information Injection"
+271,6.1 Documentation,456c4bcd89e09b84183f021075ab32a82685d18a,0,6.1 Documentation,"6.1 Documentation
+3.2 Project Comprehension",6.1 Documentation,6.1 Documentation,6.1 Documentation
+272,6.1 Documentation,8ad9c5c2e404f0bdcf4e2b331b82f5f23cbf053d,3,"6.1 Documentation
+4.1 Information Injection","4.1 Information Injection
+3.1 Planning & Consultation",4.1 Information Injection,4.1 Information Injection,4.1 Information Injection
+273,6.1 Documentation,f95d1cb538a1e33eb08f29324075ed466e418839,4,"6.1 Documentation
+1.2 Iterative Modification","6.1 Documentation
+6.2 Toolchain Operation","6.1 Documentation
+6.2 Toolchain Operation","6.1 Documentation
+6.2 Toolchain Operation","6.1 Documentation
+6.2 Toolchain Operation"
+274,6.1 Documentation,e7d0ccf22331cdf95332d489d48243b105ecdb52,1,6.1 Documentation,"5.1 Code Review
+3.1 Planning & Consultation",3.1 Planning & Consultation,3.1 Planning & Consultation,3.1 Planning & Consultation
+275,6.1 Documentation,50f22d4e3d7420215bfdf8dadde7337fda659919,5,"6.1 Documentation
+3.2 Project Comprehension","3.2 Project Comprehension
+6.1 Documentation",3.2 Project Comprehension,"3.2 Project Comprehension
+6.1 Documentation","6.1 Documentation
+3.2 Project Comprehension"
+276,6.1 Documentation,8a65223e5dcb3a6cf18792c4828b60b58dc1748e,2,6.1 Documentation,"6.1 Documentation
+3.2 Project Comprehension",6.1 Documentation,6.1 Documentation,6.1 Documentation
+277,6.1 Documentation,7624902c98b76d9db68c3a670f0344ddeac9591b,1,"6.2 Toolchain Operation
+6.1 Documentation","6.1 Documentation
+6.2 Toolchain Operation",6.2 Toolchain Operation,"6.2 Toolchain Operation
+6.1 Documentation","6.2 Toolchain Operation
+6.1 Documentation"
+278,6.1 Documentation,0aa302eb99efd23f3c16e3f67b0726a2e97b7ae8,0,"6.1 Documentation
+3.3 General Knowledge Query","3.3 General Knowledge Query
+6.1 Documentation",1.1 New Implementation,6.1 Documentation,6.1 Documentation
+279,6.1 Documentation,a2aa325669063c22f64d6132cc05daf9f279b964,2,"6.1 Documentation
+3.1 Planning & Consultation","6.1 Documentation
+3.1 Planning & Consultation","6.1 Documentation
+3.1 Planning & Consultation","6.1 Documentation
+3.1 Planning & Consultation","6.1 Documentation
+3.1 Planning & Consultation"
+280,6.1 Documentation,8b567d037cb64bc96f9817576d45cc9540afbf6c,4,"6.1 Documentation
+1.2 Iterative Modification",6.1 Documentation,1.2 Iterative Modification,6.1 Documentation,"6.1 Documentation
+1.2 Iterative Modification"
+281,6.2 Toolchain Operation,3c7dd82d4b14874a17144c156a6418fe15ab17fd,0,6.2 Toolchain Operation,6.2 Toolchain Operation,6.2 Toolchain Operation,6.2 Toolchain Operation,6.2 Toolchain Operation
+282,6.2 Toolchain Operation,bd6fb8d595e248d58ab7f35b065fcfdb716a7724,0,6.2 Toolchain Operation,6.2 Toolchain Operation,6.2 Toolchain Operation,6.2 Toolchain Operation,6.2 Toolchain Operation
+283,6.2 Toolchain Operation,98960bced3dd0b640a8ea0e2547c327d765c6c39,0,6.2 Toolchain Operation,5.2 Runtime Inspection,5.2 Runtime Inspection,5.2 Runtime Inspection,5.2 Runtime Inspection
+284,6.2 Toolchain Operation,bf6ff4ee55d7433955c7636ea4a240fd9f0c4cee,42,6.2 Toolchain Operation,6.2 Toolchain Operation,5.1 Code Review,6.2 Toolchain Operation,6.2 Toolchain Operation
+285,6.2 Toolchain Operation,24dd2f8413da1a56623ebd660cf5058fe7fbc7eb,108,"6.2 Toolchain Operation
+4.2 Behavior Specification",3.1 Planning & Consultation,6.2 Toolchain Operation,6.2 Toolchain Operation,6.2 Toolchain Operation
+286,6.2 Toolchain Operation,5634e5abdcde8cee05a00aa39cef85ef41b1c0b5,19,"6.2 Toolchain Operation
+1.2 Iterative Modification",7.4 Deferred Implementation,6.2 Toolchain Operation,6.2 Toolchain Operation,6.2 Toolchain Operation
+287,6.2 Toolchain Operation,07b55bb651bd7a161742da43f1ccb251b7b18a19,2,"6.2 Toolchain Operation
+4.1 Information Injection",6.2 Toolchain Operation,6.2 Toolchain Operation,6.2 Toolchain Operation,6.2 Toolchain Operation
+288,6.2 Toolchain Operation,34bafcb53fdf433cdb8964faa05751357fec35e0,10,"2.3 Error Persistence
+6.2 Toolchain Operation","2.3 Error Persistence
+5.2 Runtime Inspection","2.3 Error Persistence
+5.2 Runtime Inspection","2.3 Error Persistence
+5.2 Runtime Inspection","2.3 Error Persistence
+5.2 Runtime Inspection"
+289,6.2 Toolchain Operation,58fb278b70e99b814899e076da0c7776154eb05f,11,"6.2 Toolchain Operation
+6.1 Documentation","7.1 Confirmation
+6.2 Toolchain Operation
+6.1 Documentation","7.1 Confirmation
+6.2 Toolchain Operation","7.1 Confirmation
+6.2 Toolchain Operation
+6.1 Documentation","7.1 Confirmation
+6.2 Toolchain Operation
+6.1 Documentation"
+290,6.2 Toolchain Operation,15f347b142d7ece926b05f204adf250a12278459,2,"6.2 Toolchain Operation
+1.1 New Implementation",1.1 New Implementation,6.1 Documentation,1.1 New Implementation,1.1 New Implementation
+291,6.2 Toolchain Operation,53ba04be19fe7f25dd4c199ed5385911b8c24903,1,6.2 Toolchain Operation,6.2 Toolchain Operation,6.2 Toolchain Operation,6.2 Toolchain Operation,6.2 Toolchain Operation
+292,6.2 Toolchain Operation,713aea91d018124e689804c1816ce01a91994048,3,"1.2 Iterative Modification
+6.2 Toolchain Operation",1.2 Iterative Modification,1.2 Iterative Modification,1.2 Iterative Modification,1.2 Iterative Modification
+293,6.2 Toolchain Operation,8cc81a0c46274768f9df85bf6cda01eda53375b3,11,"6.2 Toolchain Operation
+4.1 Information Injection","1.3 Alignment Correction
+6.1 Documentation","1.2 Iterative Modification
+5.1 Code Review","1.3 Alignment Correction
+6.1 Documentation","1.3 Alignment Correction
+6.1 Documentation"
+294,6.2 Toolchain Operation,2baf7f4f3e17ca7929cc835759adbd3d628471f2,28,6.2 Toolchain Operation,3.2 Project Comprehension,3.2 Project Comprehension,3.2 Project Comprehension,3.2 Project Comprehension
+295,6.2 Toolchain Operation,d717d09e8b780b0bc5a45bed43ffdac94e43632d,23,"6.2 Toolchain Operation
+7.1 Confirmation",7.1 Confirmation,7.1 Confirmation,7.1 Confirmation,7.1 Confirmation
+296,6.2 Toolchain Operation,5cf2e7c01c3136be49fa85b2f1dbfe60551c0067,22,6.2 Toolchain Operation,1.2 Iterative Modification,4.2 Behavior Specification,4.2 Behavior Specification,4.2 Behavior Specification
+297,6.2 Toolchain Operation,bee6c7ca2cd4bf4f29e4b2b08738754a36f0e858,1,6.2 Toolchain Operation,6.2 Toolchain Operation,6.2 Toolchain Operation,6.2 Toolchain Operation,6.2 Toolchain Operation
+298,6.2 Toolchain Operation,aecc1bd8e2b6d3b86f9bcf293e25fd5a145843a0,6,"6.1 Documentation
+6.2 Toolchain Operation","6.1 Documentation
+3.2 Project Comprehension","1.2 Iterative Modification
+4.1 Information Injection","3.2 Project Comprehension
+6.1 Documentation","3.2 Project Comprehension
+6.1 Documentation"
+299,6.2 Toolchain Operation,d05544c14fe9cecea462d1d86bf55f4d91145a37,0,6.2 Toolchain Operation,6.2 Toolchain Operation,6.2 Toolchain Operation,6.2 Toolchain Operation,6.2 Toolchain Operation
+300,6.2 Toolchain Operation,26a1ed4bbc3a3b6e4850728fbca67f4f8a24b2e7,18,6.2 Toolchain Operation,7.2 Continuation,6.2 Toolchain Operation,6.2 Toolchain Operation,6.2 Toolchain Operation
+301,7.1 Confirmation,f8c7e85f8d1e63b536b79ff5bc21a51ca276ddf9,2,7.1 Confirmation,7.1 Confirmation,7.1 Confirmation,7.1 Confirmation,7.1 Confirmation
+302,7.1 Confirmation,496f6bbb7c89c02721dc600aaad4f3540d489516,37,7.1 Confirmation,7.1 Confirmation,7.1 Confirmation,7.1 Confirmation,7.1 Confirmation
+303,7.1 Confirmation,fcb799c4f14988f8fe37b6b209eff5b3845cd7aa,81,7.1 Confirmation,3.2 Project Comprehension,3.2 Project Comprehension,3.2 Project Comprehension,3.2 Project Comprehension
+304,7.1 Confirmation,883ae4fbddb7a6a121ce5caa5f6fe328d646ebb7,13,7.1 Confirmation,7.1 Confirmation,7.1 Confirmation,7.1 Confirmation,7.1 Confirmation
+305,7.1 Confirmation,0b21f5d4a02254ebcd4ab1e0d7d0e12bd777dc67,12,7.1 Confirmation,7.1 Confirmation,7.1 Confirmation,7.1 Confirmation,7.1 Confirmation
+306,7.1 Confirmation,04c473f13e2ce861ada8a56b106bfe3b9d7706de,4,7.1 Confirmation,4.1 Information Injection,7.1 Confirmation,7.1 Confirmation,7.1 Confirmation
+307,7.1 Confirmation,a32f3b44be51e4b241d583ef76f7e768f499d3c5,16,7.1 Confirmation,7.1 Confirmation,7.1 Confirmation,7.1 Confirmation,7.1 Confirmation
+308,7.1 Confirmation,3b9532f697239c7644f79950a331eb6ddc670f4a,8,7.1 Confirmation,7.1 Confirmation,7.1 Confirmation,7.1 Confirmation,7.1 Confirmation
+309,7.1 Confirmation,461f58ca1caac1b176ef6513d0540d595cfd9e7e,4,7.1 Confirmation,7.1 Confirmation,7.1 Confirmation,7.1 Confirmation,7.1 Confirmation
+310,7.1 Confirmation,a002adbf30b31fcf728ff09cede2c48e3e21d954,27,7.1 Confirmation,7.1 Confirmation,7.1 Confirmation,7.1 Confirmation,7.1 Confirmation
+311,7.1 Confirmation,9ecdf29a8ded233cce07384a5a6dd2cbfaa696f6,4,7.1 Confirmation,7.2 Continuation,7.2 Continuation,7.2 Continuation,7.2 Continuation
+312,7.1 Confirmation,af405d4ce82e599d9316ec55f33c0929a0a6fc3a,5,"2.1 Log Paste
+7.1 Confirmation","7.1 Confirmation
+2.1 Log Paste
+2.2 Symptom Description",2.2 Symptom Description,"7.1 Confirmation
+2.1 Log Paste
+2.2 Symptom Description
+7.5 Sentiment Expression","7.1 Confirmation
+2.1 Log Paste
+2.2 Symptom Description"
+313,7.1 Confirmation,15604fd8f27ef64cb05860ba571a20bafe774caf,16,7.1 Confirmation,7.1 Confirmation,7.1 Confirmation,7.1 Confirmation,7.1 Confirmation
+314,7.1 Confirmation,ddcd0aeaf55b1135d3d174978b05ddb634fdab56,6,7.1 Confirmation,7.1 Confirmation,7.1 Confirmation,7.1 Confirmation,7.1 Confirmation
+315,7.1 Confirmation,58a6dc94cb12742f0876a0605866996605a3672a,5,7.1 Confirmation,7.1 Confirmation,7.1 Confirmation,7.1 Confirmation,7.1 Confirmation
+316,7.1 Confirmation,7ab26f3d7f2e8b5e7c8701b5ff5625172992bb8b,3,"6.2 Toolchain Operation
+7.1 Confirmation","6.2 Toolchain Operation
+7.1 Confirmation",6.2 Toolchain Operation,"6.2 Toolchain Operation
+7.1 Confirmation","6.2 Toolchain Operation
+7.1 Confirmation"
+317,7.1 Confirmation,c4e51d66d402daf7d670b8059e30b7620834eb4c,2,7.1 Confirmation,8.1 Others,8.1 Others,8.1 Others,8.1 Others
+318,7.1 Confirmation,a0131edd6f9369d9f668cb3a96b5fc027c46a75a,4,7.1 Confirmation,7.1 Confirmation,7.1 Confirmation,7.1 Confirmation,7.1 Confirmation
+319,7.1 Confirmation,a18c561e7ec2e8391285bdd177adc927a2919ec4,9,7.1 Confirmation,7.1 Confirmation,7.1 Confirmation,7.1 Confirmation,7.1 Confirmation
+320,7.1 Confirmation,ade19ba57e2c70a1c9c3b333bc3432fd9cdb1bbb,19,"7.1 Confirmation
+7.5 Sentiment Expression","7.1 Confirmation
+7.5 Sentiment Expression",7.5 Sentiment Expression,"7.1 Confirmation
+7.5 Sentiment Expression","7.1 Confirmation
+7.5 Sentiment Expression"
+321,7.2 Continuation,50cbce59c70403dc48f2eea59d1777bc278fc73a,6,7.2 Continuation,7.2 Continuation,7.2 Continuation,7.2 Continuation,7.2 Continuation
+322,7.2 Continuation,acfb82916699e207407b634b7b214aa41ab8b1c4,1,7.2 Continuation,7.2 Continuation,7.2 Continuation,7.2 Continuation,7.2 Continuation
+323,7.2 Continuation,9b76a743d00be15ca14547ca25e702031c88b66f,15,7.2 Continuation,7.2 Continuation,7.2 Continuation,7.2 Continuation,7.2 Continuation
+324,7.2 Continuation,98b8cfe14c72387ab8cef15f634ae3afe677772d,0,7.2 Continuation,7.2 Continuation,7.2 Continuation,7.2 Continuation,7.2 Continuation
+325,7.2 Continuation,c51e56d3eba6f8489250fc250627253aa5542734,1,"1.1 New Implementation
+7.2 Continuation",7.4 Deferred Implementation,6.1 Documentation,7.1 Confirmation,7.1 Confirmation
+326,7.2 Continuation,edf285d62c28aefc03261aa491b72431d9bac83e,25,7.2 Continuation,7.2 Continuation,7.2 Continuation,7.2 Continuation,7.2 Continuation
+327,7.2 Continuation,f7ef9a670c2ed99e51d24870855e138933da6665,1,7.2 Continuation,7.2 Continuation,7.2 Continuation,7.2 Continuation,7.2 Continuation
+328,7.2 Continuation,8d7ef1cdea781f8e0fbe0723c3b20ad87cd6e7b6,27,7.2 Continuation,7.2 Continuation,7.2 Continuation,7.2 Continuation,7.2 Continuation
+329,7.2 Continuation,4e9f366579e2179f83268ef02e99390708e7294e,8,7.2 Continuation,7.2 Continuation,7.2 Continuation,7.2 Continuation,7.2 Continuation
+330,7.2 Continuation,8cc81a0c46274768f9df85bf6cda01eda53375b3,7,7.2 Continuation,7.2 Continuation,7.2 Continuation,7.2 Continuation,7.2 Continuation
+331,7.2 Continuation,3b82b288abb2bd5fd97cc8186be358fce618f3d7,2,7.2 Continuation,7.2 Continuation,7.1 Confirmation,7.2 Continuation,7.2 Continuation
+332,7.2 Continuation,c9553ffe9a81ad9e2084152a1dc1afc3b92b415d,7,7.2 Continuation,7.2 Continuation,7.2 Continuation,7.2 Continuation,7.2 Continuation
+333,7.2 Continuation,6087cf7e3ab4f687d454b9b3bfc423d680248871,7,"3.1 Planning & Consultation
+7.2 Continuation","3.1 Planning & Consultation
+7.5 Sentiment Expression",3.1 Planning & Consultation,3.1 Planning & Consultation,3.1 Planning & Consultation
+334,7.2 Continuation,566d4ca1fcfc59bec9fdd1c4ea090927153bdde3,3,7.2 Continuation,7.2 Continuation,7.2 Continuation,7.2 Continuation,7.2 Continuation
+335,7.2 Continuation,71896f7aeb7705d7d773f0750ba96f03f9928672,1,"4.1 Information Injection
+7.2 Continuation","7.2 Continuation
+4.1 Information Injection","4.1 Information Injection
+7.2 Continuation","4.1 Information Injection
+7.2 Continuation","4.1 Information Injection
+7.2 Continuation"
+336,7.2 Continuation,c4e98a215669b58b5ac82f0ae9b86a978fdc96c2,4,7.2 Continuation,7.2 Continuation,7.2 Continuation,7.2 Continuation,7.2 Continuation
+337,7.2 Continuation,2130ef7b82075e1c4c35649fa721731c409b3d71,1,7.2 Continuation,7.2 Continuation,7.2 Continuation,7.2 Continuation,7.2 Continuation
+338,7.2 Continuation,f2ff054748ca73317f3807a724b94dd1953f91cd,0,7.2 Continuation,7.2 Continuation,7.2 Continuation,7.2 Continuation,7.2 Continuation
+339,7.2 Continuation,e4c98a937d1148cc1a358c991065d0218c65b7cf,1,7.2 Continuation,7.2 Continuation,7.2 Continuation,7.2 Continuation,7.2 Continuation
+340,7.2 Continuation,750c08aaf406f271d8c5e955c93a39cf60c2ba98,1,7.2 Continuation,7.4 Deferred Implementation,7.4 Deferred Implementation,7.4 Deferred Implementation,7.4 Deferred Implementation
+341,7.3 Deferred Debugging,8f1b0d082020e7f0ae6c499b1609dcd3b68fca95,0,7.3 Deferred Debugging,7.3 Deferred Debugging,7.4 Deferred Implementation,7.3 Deferred Debugging,7.3 Deferred Debugging
+342,7.3 Deferred Debugging,30e5b498371de97e3fadd1c8791ab2713a3654b8,20,7.3 Deferred Debugging,7.3 Deferred Debugging,"1.2 Iterative Modification
+7.3 Deferred Debugging","1.2 Iterative Modification
+7.3 Deferred Debugging","1.2 Iterative Modification
+7.3 Deferred Debugging"
+343,7.3 Deferred Debugging,27fa735f44b5633c0e1518783a4942ab8d6ebf3a,0,7.3 Deferred Debugging,7.3 Deferred Debugging,7.3 Deferred Debugging,7.3 Deferred Debugging,7.3 Deferred Debugging
+344,7.3 Deferred Debugging,b697ee449e6e06733e5d92ee9a8fcd9140ffb461,16,7.3 Deferred Debugging,7.3 Deferred Debugging,7.3 Deferred Debugging,7.3 Deferred Debugging,7.3 Deferred Debugging
+345,7.3 Deferred Debugging,2b4b58ecb71e2b81ea561e025496be49af5e5cd3,0,7.3 Deferred Debugging,7.3 Deferred Debugging,7.3 Deferred Debugging,7.3 Deferred Debugging,7.3 Deferred Debugging
+346,7.3 Deferred Debugging,22c9c989fc695efc511cf21bb36548526260d1b8,17,7.3 Deferred Debugging,2.2 Symptom Description,2.2 Symptom Description,7.3 Deferred Debugging,"2.2 Symptom Description
+7.3 Deferred Debugging"
+347,7.3 Deferred Debugging,60bc604fca48e06b48c66929244d14c16d99b288,0,7.3 Deferred Debugging,7.3 Deferred Debugging,7.3 Deferred Debugging,7.3 Deferred Debugging,7.3 Deferred Debugging
+348,7.3 Deferred Debugging,f701dd118be370e7f99e1e6d7bd9ceb6879c593f,0,7.3 Deferred Debugging,7.3 Deferred Debugging,7.3 Deferred Debugging,7.3 Deferred Debugging,7.3 Deferred Debugging
+349,7.3 Deferred Debugging,309002ef08969c4d9b0f39cc680ad182798a3c79,18,7.3 Deferred Debugging,7.3 Deferred Debugging,7.3 Deferred Debugging,7.3 Deferred Debugging,7.3 Deferred Debugging
+350,7.3 Deferred Debugging,ec38e9cf4204606c3a4f51e637e3ca99acf4a3ff,0,7.3 Deferred Debugging,7.3 Deferred Debugging,7.3 Deferred Debugging,7.3 Deferred Debugging,7.3 Deferred Debugging
+351,7.3 Deferred Debugging,c8bce14bca543b06f12f1e57b56c387a05ac4ac0,0,7.3 Deferred Debugging,7.3 Deferred Debugging,7.3 Deferred Debugging,7.3 Deferred Debugging,7.3 Deferred Debugging
+352,7.3 Deferred Debugging,0d91a58dbd3754974248bdf9d332a60bafd1c1ae,0,7.3 Deferred Debugging,7.3 Deferred Debugging,7.3 Deferred Debugging,7.3 Deferred Debugging,7.3 Deferred Debugging
+353,7.3 Deferred Debugging,f2a846a03f789087cc1348ea1c1089624bec7258,3,7.3 Deferred Debugging,7.3 Deferred Debugging,7.3 Deferred Debugging,7.3 Deferred Debugging,7.3 Deferred Debugging
+354,7.3 Deferred Debugging,545570096a527a69c958b12b73c7cbda6dfb895b,1,7.3 Deferred Debugging,7.3 Deferred Debugging,7.3 Deferred Debugging,7.3 Deferred Debugging,7.3 Deferred Debugging
+355,7.3 Deferred Debugging,5dc9718754d1a0cd5d3568fdc3a4079176b15161,6,7.3 Deferred Debugging,2.2 Symptom Description,1.2 Iterative Modification,"7.3 Deferred Debugging
+2.2 Symptom Description","7.3 Deferred Debugging
+2.2 Symptom Description"
+356,7.3 Deferred Debugging,eae62ea3aef5e38d51305c6f7676008025cdb420,2,"7.3 Deferred Debugging
+1.2 Iterative Modification",7.3 Deferred Debugging,1.2 Iterative Modification,7.3 Deferred Debugging,"7.3 Deferred Debugging
+1.2 Iterative Modification"
+357,7.3 Deferred Debugging,892e77d7eb480ba1a9ff04246cb6600af1bdb152,0,7.3 Deferred Debugging,7.3 Deferred Debugging,7.3 Deferred Debugging,7.3 Deferred Debugging,7.3 Deferred Debugging
+358,7.3 Deferred Debugging,1ebe9009d1db967377afae12a131103fc4f275e7,12,7.3 Deferred Debugging,7.3 Deferred Debugging,7.4 Deferred Implementation,7.3 Deferred Debugging,7.3 Deferred Debugging
+359,7.3 Deferred Debugging,a2028a0c0327509c63967b1b3474bed82d26786d,0,7.3 Deferred Debugging,7.3 Deferred Debugging,7.3 Deferred Debugging,7.3 Deferred Debugging,7.3 Deferred Debugging
+360,7.3 Deferred Debugging,d668dab08a844bfad64ada4e5528654a449c3b92,5,7.3 Deferred Debugging,7.3 Deferred Debugging,7.3 Deferred Debugging,7.3 Deferred Debugging,7.3 Deferred Debugging
+361,7.4 Deferred Implementation,a6293b7be0f8b5f9feff93c62e39c7f336ecd033,0,"7.4 Deferred Implementation
+1.2 Iterative Modification",7.4 Deferred Implementation,7.4 Deferred Implementation,7.4 Deferred Implementation,7.4 Deferred Implementation
+362,7.4 Deferred Implementation,a908d1d01cb7aeff52e863c8c2bff69663c06bdb,4,7.4 Deferred Implementation,4.1 Information Injection,7.2 Continuation,4.1 Information Injection,7.2 Continuation
+363,7.4 Deferred Implementation,ddb7bf9caf87ccd2b1e585cefa0c095da2662de8,2,7.4 Deferred Implementation,7.4 Deferred Implementation,7.4 Deferred Implementation,7.4 Deferred Implementation,7.4 Deferred Implementation
+364,7.4 Deferred Implementation,966be6467e09a52abc5b46eb5b9a5e7ad57623b4,7,7.4 Deferred Implementation,4.1 Information Injection,7.2 Continuation,4.1 Information Injection,7.2 Continuation
+365,7.4 Deferred Implementation,7b4644eb45fc4e87b4dbf87516bf3f3499bc49b2,10,7.4 Deferred Implementation,7.4 Deferred Implementation,1.2 Iterative Modification,7.4 Deferred Implementation,7.4 Deferred Implementation
+366,7.4 Deferred Implementation,8c98e9927d9a363cd4f205113e5abcb08a2b3d54,0,7.4 Deferred Implementation,7.4 Deferred Implementation,7.4 Deferred Implementation,7.4 Deferred Implementation,7.4 Deferred Implementation
+367,7.4 Deferred Implementation,cafe0c9daed8939c063c5259676aa24b265a225e,6,"1.2 Iterative Modification
+7.4 Deferred Implementation",7.3 Deferred Debugging,7.3 Deferred Debugging,7.3 Deferred Debugging,7.3 Deferred Debugging
+368,7.4 Deferred Implementation,06d74ada45c8839991d2b37eb7bf1e58ad8d0445,20,7.4 Deferred Implementation,7.4 Deferred Implementation,7.4 Deferred Implementation,7.4 Deferred Implementation,7.4 Deferred Implementation
+369,7.4 Deferred Implementation,aecb91c25ae099a33c7b01a28d42dd76bc0815d0,3,"6.2 Toolchain Operation
+7.4 Deferred Implementation",6.1 Documentation,7.4 Deferred Implementation,7.4 Deferred Implementation,7.4 Deferred Implementation
+370,7.4 Deferred Implementation,644d0ed9990641adb8456d39398e8b90e7681d1e,5,"7.4 Deferred Implementation
+7.1 Confirmation","7.5 Sentiment Expression
+7.2 Continuation",7.2 Continuation,7.2 Continuation,7.2 Continuation
+371,7.4 Deferred Implementation,d86cc43ee83c5afcbfb1b9adc8f926965b9170cd,17,7.4 Deferred Implementation,7.4 Deferred Implementation,7.4 Deferred Implementation,7.4 Deferred Implementation,7.4 Deferred Implementation
+372,7.4 Deferred Implementation,a521517fcf908710ea3fc4a2f77d7fc32372a91c,0,7.4 Deferred Implementation,7.4 Deferred Implementation,6.2 Toolchain Operation,7.4 Deferred Implementation,7.4 Deferred Implementation
+373,7.4 Deferred Implementation,adfff3df4eafe3691978f8bc33860c9180699d48,9,7.4 Deferred Implementation,7.2 Continuation,7.2 Continuation,7.2 Continuation,7.2 Continuation
+374,7.4 Deferred Implementation,9b76925fa9431e68a6451df6c8f9e2724cc00fbe,34,7.4 Deferred Implementation,7.4 Deferred Implementation,7.4 Deferred Implementation,7.4 Deferred Implementation,7.4 Deferred Implementation
+375,7.4 Deferred Implementation,599103b047b5159e826c97696241d9d76b55df95,2,7.4 Deferred Implementation,7.4 Deferred Implementation,7.4 Deferred Implementation,7.4 Deferred Implementation,7.4 Deferred Implementation
+376,7.4 Deferred Implementation,3887be09917805930645399b5bc45f17327b7557,17,7.4 Deferred Implementation,7.3 Deferred Debugging,7.3 Deferred Debugging,7.3 Deferred Debugging,7.3 Deferred Debugging
+377,7.4 Deferred Implementation,7b4644eb45fc4e87b4dbf87516bf3f3499bc49b2,8,7.4 Deferred Implementation,7.4 Deferred Implementation,7.2 Continuation,7.4 Deferred Implementation,7.4 Deferred Implementation
+378,7.4 Deferred Implementation,edbada33d9d2d95c0d28f21d74f23999a647ec5e,0,7.4 Deferred Implementation,1.1 New Implementation,1.1 New Implementation,1.1 New Implementation,1.1 New Implementation
+379,7.4 Deferred Implementation,f64252976d50b442053f64c822610fa8ccadb0a8,0,7.4 Deferred Implementation,7.4 Deferred Implementation,7.4 Deferred Implementation,7.4 Deferred Implementation,7.4 Deferred Implementation
+380,7.4 Deferred Implementation,33cd545c77893dfde31c09804bdaf0f0b5382cda,0,7.4 Deferred Implementation,3.2 Project Comprehension,3.3 General Knowledge Query,3.3 General Knowledge Query,3.3 General Knowledge Query
+381,7.5 Sentiment Expression,d780a6be57d235ab0b26a7132a1f8b2b07bc7c10,1,"7.2 Continuation
+7.5 Sentiment Expression",7.5 Sentiment Expression,7.5 Sentiment Expression,7.5 Sentiment Expression,7.5 Sentiment Expression
+382,7.5 Sentiment Expression,f0f66a5b8daeb5900014180c61937e1d02752107,9,7.5 Sentiment Expression,7.5 Sentiment Expression,7.5 Sentiment Expression,7.5 Sentiment Expression,7.5 Sentiment Expression
+383,7.5 Sentiment Expression,ca02d52e63fae845e900c3174f996caa02f57434,3,"2.1 Log Paste
+7.5 Sentiment Expression","7.5 Sentiment Expression
+7.1 Confirmation
+2.1 Log Paste",2.1 Log Paste,"2.1 Log Paste
+7.5 Sentiment Expression","2.1 Log Paste
+7.5 Sentiment Expression"
+384,7.5 Sentiment Expression,e540c417ba9526bd861209e6926b91f5dd574e18,11,7.5 Sentiment Expression,7.5 Sentiment Expression,7.5 Sentiment Expression,7.5 Sentiment Expression,7.5 Sentiment Expression
+385,7.5 Sentiment Expression,c86de63f1a60d0481236d004962a83918d7044ce,9,7.5 Sentiment Expression,7.5 Sentiment Expression,7.5 Sentiment Expression,7.5 Sentiment Expression,7.5 Sentiment Expression
+386,7.5 Sentiment Expression,a9166a38a47d4f42a9a7136c73d59ea45c6dd5c2,32,"6.2 Toolchain Operation
+7.5 Sentiment Expression","5.1 Code Review
+7.5 Sentiment Expression","1.3 Alignment Correction
+5.1 Code Review","5.1 Code Review
+7.5 Sentiment Expression",5.1 Code Review
+387,7.5 Sentiment Expression,31e1f12f5b98fb75dee33f8e542ce2734c70f805,8,7.5 Sentiment Expression,7.5 Sentiment Expression,7.5 Sentiment Expression,7.5 Sentiment Expression,7.5 Sentiment Expression
+388,7.5 Sentiment Expression,67e647ab2fa8af4f65692b304f2cabb5826c0289,11,"2.3 Error Persistence
+7.5 Sentiment Expression
+4.1 Information Injection","2.3 Error Persistence
+4.1 Information Injection
+7.5 Sentiment Expression","2.3 Error Persistence
+4.1 Information Injection","2.3 Error Persistence
+7.5 Sentiment Expression
+4.1 Information Injection","2.3 Error Persistence
+7.5 Sentiment Expression
+4.1 Information Injection"
+389,7.5 Sentiment Expression,a50db13ff0a23e9bfe1ee152df80aa3d1721e596,14,7.5 Sentiment Expression,"7.5 Sentiment Expression
+8.1 Others","2.3 Error Persistence
+2.2 Symptom Description","2.3 Error Persistence
+2.2 Symptom Description","2.3 Error Persistence
+2.2 Symptom Description"
+390,7.5 Sentiment Expression,d6a6aeb409655411ab3b91b229c0d98decbee711,54,7.5 Sentiment Expression,7.5 Sentiment Expression,7.5 Sentiment Expression,7.5 Sentiment Expression,7.5 Sentiment Expression
+391,7.5 Sentiment Expression,83fd1e35d284d002444a33fac61dcaee4f19760e,8,"6.1 Documentation
+4.2 Behavior Specification
+7.5 Sentiment Expression","6.1 Documentation
+4.2 Behavior Specification
+7.5 Sentiment Expression",6.1 Documentation,"6.1 Documentation
+4.2 Behavior Specification
+7.5 Sentiment Expression","6.1 Documentation
+4.2 Behavior Specification
+7.5 Sentiment Expression"
+392,7.5 Sentiment Expression,76ea8d2cb6e3706562612dd2718a2301c9550af4,8,"6.2 Toolchain Operation
+5.2 Runtime Inspection
+7.5 Sentiment Expression","7.5 Sentiment Expression
+2.3 Error Persistence
+5.1 Code Review","2.2 Symptom Description
+2.3 Error Persistence
+5.1 Code Review
+7.5 Sentiment Expression","7.5 Sentiment Expression
+2.3 Error Persistence
+5.1 Code Review","7.5 Sentiment Expression
+2.3 Error Persistence
+5.1 Code Review"
+393,7.5 Sentiment Expression,6a688b9b60149649fa676abad54b30406efcccd2,3,"1.3 Alignment Correction
+7.5 Sentiment Expression","7.5 Sentiment Expression
+1.3 Alignment Correction","1.3 Alignment Correction
+7.5 Sentiment Expression","1.3 Alignment Correction
+7.5 Sentiment Expression","1.3 Alignment Correction
+7.5 Sentiment Expression"
+394,7.5 Sentiment Expression,44766ec31afe13a540bebfccc8528187485b90f3,4,"1.2 Iterative Modification
+7.5 Sentiment Expression","7.5 Sentiment Expression
+2.3 Error Persistence
+1.2 Iterative Modification","2.3 Error Persistence
+1.2 Iterative Modification
+7.5 Sentiment Expression","2.3 Error Persistence
+1.2 Iterative Modification
+7.5 Sentiment Expression","2.3 Error Persistence
+1.2 Iterative Modification
+7.5 Sentiment Expression"
+395,7.5 Sentiment Expression,7a43dc8550d25b7a4ac339c14ffe087fd13535a5,13,"2.2 Symptom Description
+7.5 Sentiment Expression","7.5 Sentiment Expression
+2.2 Symptom Description","2.2 Symptom Description
+7.5 Sentiment Expression","2.2 Symptom Description
+7.5 Sentiment Expression","2.2 Symptom Description
+7.5 Sentiment Expression"
+396,7.5 Sentiment Expression,adbc65337cccd963d6b45aadb3905b16b8c8f5d9,0,"4.2 Behavior Specification
+7.5 Sentiment Expression","7.5 Sentiment Expression
+4.1 Information Injection",7.2 Continuation,"7.5 Sentiment Expression
+4.1 Information Injection","7.5 Sentiment Expression
+4.1 Information Injection"
+397,7.5 Sentiment Expression,062ddcf62c2f4202f7f21bcc591af60cdcbbaa9f,14,"1.3 Alignment Correction
+1.2 Iterative Modification
+7.5 Sentiment Expression","1.2 Iterative Modification
+7.5 Sentiment Expression","1.2 Iterative Modification
+7.5 Sentiment Expression","1.2 Iterative Modification
+7.5 Sentiment Expression","1.2 Iterative Modification
+7.5 Sentiment Expression"
+398,7.5 Sentiment Expression,7f9461c012fad0ded6b54ca8038b86c07a147d5b,8,"3.2 Project Comprehension
+7.5 Sentiment Expression","7.5 Sentiment Expression
+3.3 General Knowledge Query","3.3 General Knowledge Query
+7.5 Sentiment Expression","3.2 Project Comprehension
+7.5 Sentiment Expression","3.2 Project Comprehension
+7.5 Sentiment Expression"
+399,7.5 Sentiment Expression,076183fae6acef577cefb7464d2dd1b2bb03c15e,34,7.5 Sentiment Expression,7.5 Sentiment Expression,7.5 Sentiment Expression,7.5 Sentiment Expression,7.5 Sentiment Expression
+400,7.5 Sentiment Expression,553c31d00799bd79575031f961e5f728e04d755a,2,7.5 Sentiment Expression,7.5 Sentiment Expression,7.5 Sentiment Expression,7.5 Sentiment Expression,7.5 Sentiment Expression

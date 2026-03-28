@@ -1,0 +1,2290 @@
+
+================================================================================
+CLUSTER 0  |  767 sessions  |  medoid: fdfe99c76903...
+================================================================================
+
+  Example 1  (dist to medoid: 0.0000)
+  SHA: fdfe99c7690321bfb9bac771cd50fb55e725b421
+  Sequence length: 5
+    [0] 3.1 Planning & Decision Consultation
+    [1] 3.1 Planning & Decision Consultation
+    [2] 3.2 Project Comprehension
+    [3] 3.1 Planning & Decision Consultation
+    [4] 3.2 Project Comprehension
+
+  Example 2  (dist to medoid: 0.2000)
+  SHA: f8425e0bb7e80649b8f15ade282669979703f61f
+  Sequence length: 4
+    [0] 3.1 Planning & Decision Consultation
+    [1] 3.1 Planning & Decision Consultation
+    [2] 3.2 Project Comprehension
+    [3] 3.1 Planning & Decision Consultation
+
+  Example 3  (dist to medoid: 0.2917)
+  SHA: 530fb53c0139b9d84fde09b5dd963c48dec6bade
+  Sequence length: 6
+    [0] 3.1 Planning & Decision Consultation
+    [1] 3.1 Planning & Decision Consultation
+    [2] 6.1 Documentation + 3.1 Planning & Decision Consultation
+    [3] 3.2 Project Comprehension
+    [4] 3.1 Planning & Decision Consultation
+    [5] 6.1 Documentation + 3.1 Planning & Decision Consultation
+
+  Example 4  (dist to medoid: 0.3000)
+  SHA: ddbe5d42579a74ed73eaa9519ca29ddba41fab9c
+  Sequence length: 4
+    [0] 3.1 Planning & Decision Consultation
+    [1] 3.1 Planning & Decision Consultation
+    [2] 3.3 General Knowledge Query
+    [3] 3.1 Planning & Decision Consultation
+
+  Example 5  (dist to medoid: 0.3000)
+  SHA: 2729b76b791b50ac4ceaecc1147bb65dc34ca312
+  Sequence length: 4
+    [0] 3.2 Project Comprehension
+    [1] 3.2 Project Comprehension
+    [2] 3.1 Planning & Decision Consultation
+    [3] 3.2 Project Comprehension
+
+  Example 6  (dist to medoid: 0.3000)
+  SHA: 2dbe81a21ccb2c767d424bcf658c4dc0898a79ac
+  Sequence length: 4
+    [0] 3.3 General Knowledge Query
+    [1] 3.1 Planning & Decision Consultation
+    [2] 3.2 Project Comprehension
+    [3] 3.2 Project Comprehension
+
+  Example 7  (dist to medoid: 0.3000)
+  SHA: 863000bb5f365ffb2db72d2002df2a9b383ccfd8
+  Sequence length: 5
+    [0] 3.2 Project Comprehension
+    [1] 3.1 Planning & Decision Consultation
+    [2] 3.3 General Knowledge Query
+    [3] 3.3 General Knowledge Query
+    [4] 3.2 Project Comprehension
+
+  Example 8  (dist to medoid: 0.3333)
+  SHA: 854060b681cbf8757164a0b2a59a83ebb2e51570
+  Sequence length: 6
+    [0] 3.1 Planning & Decision Consultation + 2.2 Symptom Description
+    [1] 3.1 Planning & Decision Consultation
+    [2] 3.1 Planning & Decision Consultation + 7.1 Confirmation
+    [3] 3.2 Project Comprehension
+    [4] 3.1 Planning & Decision Consultation
+    [5] 3.1 Planning & Decision Consultation
+
+  Example 9  (dist to medoid: 0.3333)
+  SHA: 7106735ffd8df8452e6c101c6bca73a2b95b28d4
+  Sequence length: 6
+    [0] 3.1 Planning & Decision Consultation
+    [1] 3.2 Project Comprehension
+    [2] 3.2 Project Comprehension
+    [3] 3.2 Project Comprehension
+    [4] 1.2 Iterative Modification
+    [5] 3.2 Project Comprehension
+
+  Example 10  (dist to medoid: 0.3333)
+  SHA: 561fb64ca89e6d4938d86621d53776e96c5f054c
+  Sequence length: 4
+    [0] 3.1 Planning & Decision Consultation + 6.1 Documentation + 4.2 Behavior Specification
+    [1] 3.1 Planning & Decision Consultation
+    [2] 3.2 Project Comprehension
+    [3] 3.2 Project Comprehension
+
+  Example 11  (dist to medoid: 0.3500)
+  SHA: 546e2dfa208ae74e0634828f4a0474cb4cadc7e3
+  Sequence length: 4
+    [0] 3.1 Planning & Decision Consultation + 3.2 Project Comprehension
+    [1] 6.2 Toolchain Operation + 3.1 Planning & Decision Consultation
+    [2] 3.2 Project Comprehension
+    [3] 3.2 Project Comprehension
+
+  Example 12  (dist to medoid: 0.3571)
+  SHA: 37555a275b63ef77bb2d5a6003f61bc9fddb8ac9
+  Sequence length: 7
+    [0] 3.3 General Knowledge Query
+    [1] 3.1 Planning & Decision Consultation
+    [2] 3.1 Planning & Decision Consultation
+    [3] 3.1 Planning & Decision Consultation
+    [4] 3.1 Planning & Decision Consultation
+    [5] 3.2 Project Comprehension
+    [6] 1.1 New Implementation + 4.1 Information Injection
+
+  Example 13  (dist to medoid: 0.3750)
+  SHA: 8d61a916284fb6be726487a00c68f295d8005b0c
+  Sequence length: 6
+    [0] 3.1 Planning & Decision Consultation
+    [1] 3.1 Planning & Decision Consultation
+    [2] 3.2 Project Comprehension + 3.1 Planning & Decision Consultation
+    [3] 3.1 Planning & Decision Consultation + 6.1 Documentation
+    [4] 3.1 Planning & Decision Consultation
+    [5] 6.2 Toolchain Operation + 4.2 Behavior Specification
+
+  Example 14  (dist to medoid: 0.4000)
+  SHA: 803f14982941e8ab43288eaa84f6ad50896f2705
+  Sequence length: 4
+    [0] 3.2 Project Comprehension
+    [1] 3.2 Project Comprehension
+    [2] 3.2 Project Comprehension
+    [3] 3.2 Project Comprehension
+
+  Example 15  (dist to medoid: 0.4000)
+  SHA: 825d66df742009472ec8113854e5c49551bd5caa
+  Sequence length: 4
+    [0] 3.1 Planning & Decision Consultation
+    [1] 3.1 Planning & Decision Consultation
+    [2] 6.1 Documentation
+    [3] 3.2 Project Comprehension
+
+  Example 16  (dist to medoid: 0.4000)
+  SHA: 1f5e2f966fcdb703211510a277db81daca31f761
+  Sequence length: 5
+    [0] 3.1 Planning & Decision Consultation
+    [1] 2.3 Error Persistence
+    [2] 3.1 Planning & Decision Consultation
+    [3] 3.1 Planning & Decision Consultation
+    [4] 3.1 Planning & Decision Consultation
+
+  Example 17  (dist to medoid: 0.4000)
+  SHA: 0dfbb69c46b77ebc4c3ca2042846043144d1fa1a
+  Sequence length: 4
+    [0] 2.2 Symptom Description
+    [1] 3.2 Project Comprehension
+    [2] 3.1 Planning & Decision Consultation
+    [3] 3.2 Project Comprehension
+
+  Example 18  (dist to medoid: 0.4000)
+  SHA: 1381b0d9cb29699d3e39df2ee701e51637c4f1b6
+  Sequence length: 4
+    [0] 3.2 Project Comprehension
+    [1] 3.2 Project Comprehension
+    [2] 3.2 Project Comprehension
+    [3] 3.2 Project Comprehension
+
+  Example 19  (dist to medoid: 0.4000)
+  SHA: bbb597d5a82a54a5449c23cd03d911eeb0348205
+  Sequence length: 4
+    [0] 3.3 General Knowledge Query
+    [1] 3.1 Planning & Decision Consultation
+    [2] 3.1 Planning & Decision Consultation
+    [3] 3.3 General Knowledge Query
+
+  Example 20  (dist to medoid: 0.4000)
+  SHA: cfe6c475a932d6dd3ee5ffb0da6c08ae9ad80f50
+  Sequence length: 5
+    [0] 3.2 Project Comprehension
+    [1] 3.1 Planning & Decision Consultation
+    [2] 3.3 General Knowledge Query
+    [3] 3.2 Project Comprehension
+    [4] 3.3 General Knowledge Query
+
+  Example 21  (dist to medoid: 0.4000)
+  SHA: 3fa40a59ac048a51ee7c4ea3750aa07f8b277449
+  Sequence length: 5
+    [0] 3.1 Planning & Decision Consultation
+    [1] 2.1 Log Paste + 2.2 Symptom Description
+    [2] 3.2 Project Comprehension
+    [3] 3.1 Planning & Decision Consultation
+    [4] 6.1 Documentation
+
+  Example 22  (dist to medoid: 0.4000)
+  SHA: 3a889412e8a1c20d999d0448ae67cd47492ec368
+  Sequence length: 4
+    [0] 3.1 Planning & Decision Consultation
+    [1] 3.1 Planning & Decision Consultation
+    [2] 3.1 Planning & Decision Consultation
+    [3] 4.1 Information Injection
+
+  Example 23  (dist to medoid: 0.4000)
+  SHA: e18e7dbb772ae7a1e29cd5a6cd126a537a962514
+  Sequence length: 5
+    [0] 3.3 General Knowledge Query
+    [1] 3.2 Project Comprehension
+    [2] 3.2 Project Comprehension
+    [3] 3.2 Project Comprehension
+    [4] 3.3 General Knowledge Query
+
+  Example 24  (dist to medoid: 0.4000)
+  SHA: 1ac16f1b61e0ffc8efec4d0cefe1b98f8482c242
+  Sequence length: 5
+    [0] 4.1 Information Injection
+    [1] 3.2 Project Comprehension
+    [2] 3.2 Project Comprehension
+    [3] 3.2 Project Comprehension
+    [4] 3.2 Project Comprehension
+
+  Example 25  (dist to medoid: 0.4167)
+  SHA: ee75b8238fdc1d4f96f9ff030be29a65ccb002e8
+  Sequence length: 5
+    [0] 3.2 Project Comprehension
+    [1] 3.1 Planning & Decision Consultation
+    [2] 3.1 Planning & Decision Consultation + 1.3 Alignment Correction
+    [3] 3.1 Planning & Decision Consultation
+    [4] 1.2 Iterative Modification + 6.1 Documentation + 3.1 Planning & Decision Consultation
+
+  Example 26  (dist to medoid: 0.4167)
+  SHA: 2ee43066ff771142e58c761ae556392545692957
+  Sequence length: 6
+    [0] 3.1 Planning & Decision Consultation
+    [1] 1.2 Iterative Modification + 4.1 Information Injection
+    [2] 1.3 Alignment Correction + 1.2 Iterative Modification
+    [3] 3.2 Project Comprehension
+    [4] 3.1 Planning & Decision Consultation
+    [5] 3.1 Planning & Decision Consultation
+
+  Example 27  (dist to medoid: 0.4286)
+  SHA: 6ae2b15cf60a78a4a0c6da78836058b6819936e2
+  Sequence length: 7
+    [0] 3.1 Planning & Decision Consultation
+    [1] 4.1 Information Injection
+    [2] 3.2 Project Comprehension
+    [3] 2.2 Symptom Description
+    [4] 3.1 Planning & Decision Consultation
+    [5] 3.2 Project Comprehension
+    [6] 1.2 Iterative Modification
+
+  Example 28  (dist to medoid: 0.4500)
+  SHA: e28187736391f8a832bdbde2763fbff3388f5813
+  Sequence length: 5
+    [0] 3.1 Planning & Decision Consultation
+    [1] 1.1 New Implementation
+    [2] 3.2 Project Comprehension + 3.1 Planning & Decision Consultation
+    [3] 2.2 Symptom Description
+    [4] 3.2 Project Comprehension
+
+  Example 29  (dist to medoid: 0.4500)
+  SHA: 0551ccda1ac3d2c151643a753a728f4ba99a1bfa
+  Sequence length: 4
+    [0] 3.1 Planning & Decision Consultation + 3.2 Project Comprehension
+    [1] 3.1 Planning & Decision Consultation
+    [2] 1.3 Alignment Correction
+    [3] 3.2 Project Comprehension
+
+  Example 30  (dist to medoid: 0.4500)
+  SHA: 61726b3f7d0bb00220a4d7723716c1e68ecc94bc
+  Sequence length: 4
+    [0] 3.3 General Knowledge Query
+    [1] 3.1 Planning & Decision Consultation + 3.3 General Knowledge Query
+    [2] 3.1 Planning & Decision Consultation
+    [3] 3.1 Planning & Decision Consultation
+
+================================================================================
+CLUSTER 1  |  968 sessions  |  medoid: ce8fb51ed307...
+================================================================================
+
+  Example 1  (dist to medoid: 0.0000)
+  SHA: ce8fb51ed3071e0ccda84f0a3f355974bc00db8f
+  Sequence length: 5
+    [0] 1.2 Iterative Modification
+    [1] 2.2 Symptom Description
+    [2] 2.1 Log Paste
+    [3] 2.2 Symptom Description
+    [4] 2.1 Log Paste + 2.2 Symptom Description
+
+  Example 2  (dist to medoid: 0.2000)
+  SHA: 9fd1bde5a284bf148f59cd430d92a2ccbdd62c83
+  Sequence length: 5
+    [0] 1.2 Iterative Modification
+    [1] 2.2 Symptom Description
+    [2] 2.1 Log Paste
+    [3] 2.3 Error Persistence
+    [4] 2.3 Error Persistence
+
+  Example 3  (dist to medoid: 0.2500)
+  SHA: 963b41a4b931bb6b490ffd8620dd65a7188e6a50
+  Sequence length: 4
+    [0] 2.2 Symptom Description
+    [1] 2.1 Log Paste + 2.2 Symptom Description
+    [2] 2.2 Symptom Description
+    [3] 2.1 Log Paste + 2.2 Symptom Description
+
+  Example 4  (dist to medoid: 0.2500)
+  SHA: 19d9389a21ec049e99266032d38bcda321734c60
+  Sequence length: 4
+    [0] 1.2 Iterative Modification
+    [1] 2.2 Symptom Description
+    [2] 2.1 Log Paste
+    [3] 2.1 Log Paste
+
+  Example 5  (dist to medoid: 0.2500)
+  SHA: 2012fb6a4dd897505ffb852ef36e3019d345b48d
+  Sequence length: 4
+    [0] 1.2 Iterative Modification
+    [1] 2.2 Symptom Description
+    [2] 2.2 Symptom Description
+    [3] 2.2 Symptom Description
+
+  Example 6  (dist to medoid: 0.2500)
+  SHA: c85d0c0d70a8bf75dd8a569795e4e2661f83504f
+  Sequence length: 4
+    [0] 1.2 Iterative Modification
+    [1] 2.2 Symptom Description
+    [2] 2.1 Log Paste
+    [3] 2.1 Log Paste
+
+  Example 7  (dist to medoid: 0.2500)
+  SHA: 72e618f7bc4b838c1ba9f2e1549081b63e577f5d
+  Sequence length: 5
+    [0] 2.1 Log Paste
+    [1] 2.2 Symptom Description
+    [2] 2.1 Log Paste
+    [3] 2.2 Symptom Description
+    [4] 2.1 Log Paste
+
+  Example 8  (dist to medoid: 0.2500)
+  SHA: d19ff7eac242dc15ed015733a537074d14e8b532
+  Sequence length: 4
+    [0] 1.2 Iterative Modification
+    [1] 2.2 Symptom Description
+    [2] 2.2 Symptom Description
+    [3] 2.2 Symptom Description
+
+  Example 9  (dist to medoid: 0.2750)
+  SHA: 4988b785219a97740505c36a402360e495349674
+  Sequence length: 5
+    [0] 1.1 New Implementation + 4.1 Information Injection
+    [1] 2.2 Symptom Description
+    [2] 2.1 Log Paste
+    [3] 2.2 Symptom Description
+    [4] 2.1 Log Paste + 1.2 Iterative Modification
+
+  Example 10  (dist to medoid: 0.3000)
+  SHA: 13681b892c07e50068d7c122ef33f82c8cd709fa
+  Sequence length: 5
+    [0] 2.2 Symptom Description + 3.1 Planning & Decision Consultation
+    [1] 2.1 Log Paste + 2.2 Symptom Description
+    [2] 2.1 Log Paste
+    [3] 2.2 Symptom Description
+    [4] 2.2 Symptom Description
+
+  Example 11  (dist to medoid: 0.3000)
+  SHA: 338de0106a4cfee6f9a32c895aa42d91fecfc877
+  Sequence length: 4
+    [0] 1.2 Iterative Modification
+    [1] 2.2 Symptom Description
+    [2] 2.2 Symptom Description + 2.3 Error Persistence
+    [3] 2.2 Symptom Description
+
+  Example 12  (dist to medoid: 0.3000)
+  SHA: fc1842d1e9831d3513f7261a2b1af2e77dcd5c20
+  Sequence length: 5
+    [0] 1.2 Iterative Modification
+    [1] 2.2 Symptom Description
+    [2] 2.3 Error Persistence + 2.2 Symptom Description
+    [3] 2.2 Symptom Description
+    [4] 1.2 Iterative Modification
+
+  Example 13  (dist to medoid: 0.3000)
+  SHA: 81fe9bc3731b23d7d0d0a791de4f11f5809f14ad
+  Sequence length: 4
+    [0] 1.2 Iterative Modification
+    [1] 2.2 Symptom Description
+    [2] 2.1 Log Paste + 2.2 Symptom Description
+    [3] 2.1 Log Paste
+
+  Example 14  (dist to medoid: 0.3214)
+  SHA: 4cbbad7596c58d88b4da4c052a733e8472a7c7aa
+  Sequence length: 7
+    [0] 2.2 Symptom Description + 1.2 Iterative Modification
+    [1] 1.2 Iterative Modification
+    [2] 2.2 Symptom Description
+    [3] 2.1 Log Paste + 2.2 Symptom Description
+    [4] 2.2 Symptom Description
+    [5] 2.2 Symptom Description
+    [6] 2.2 Symptom Description + 2.1 Log Paste
+
+  Example 15  (dist to medoid: 0.3250)
+  SHA: 5725faf468b96dbbc369dce33e84f83ecbb41d36
+  Sequence length: 5
+    [0] 1.2 Iterative Modification
+    [1] 2.1 Log Paste + 1.2 Iterative Modification
+    [2] 2.1 Log Paste + 2.2 Symptom Description
+    [3] 2.2 Symptom Description
+    [4] 2.2 Symptom Description + 1.2 Iterative Modification
+
+  Example 16  (dist to medoid: 0.3500)
+  SHA: 6ca3d1eda59b2b39b262ac0bc3828b3336b68fed
+  Sequence length: 5
+    [0] 1.2 Iterative Modification + 1.3 Alignment Correction
+    [1] 1.2 Iterative Modification + 2.2 Symptom Description
+    [2] 2.1 Log Paste
+    [3] 2.2 Symptom Description
+    [4] 6.2 Toolchain Operation
+
+  Example 17  (dist to medoid: 0.3500)
+  SHA: 3ec61d75f11e11c6c1cbf1c479793b13c8d3ce49
+  Sequence length: 5
+    [0] 1.2 Iterative Modification + 4.1 Information Injection
+    [1] 2.2 Symptom Description
+    [2] 1.2 Iterative Modification
+    [3] 2.2 Symptom Description
+    [4] 2.2 Symptom Description
+
+  Example 18  (dist to medoid: 0.3500)
+  SHA: acffcb97c645f3218aa47bf083b25ae7178a879b
+  Sequence length: 5
+    [0] 1.2 Iterative Modification
+    [1] 2.1 Log Paste + 2.2 Symptom Description
+    [2] 2.1 Log Paste + 2.2 Symptom Description
+    [3] 2.2 Symptom Description + 2.1 Log Paste
+    [4] 1.2 Iterative Modification
+
+  Example 19  (dist to medoid: 0.3500)
+  SHA: d326056dae4261a7669a6ca2f0c82ae11f1b304e
+  Sequence length: 4
+    [0] 1.1 New Implementation
+    [1] 2.2 Symptom Description
+    [2] 2.2 Symptom Description
+    [3] 2.2 Symptom Description
+
+  Example 20  (dist to medoid: 0.3500)
+  SHA: 29b34feb5cc3d31879676afa943c43b3e6eb00a8
+  Sequence length: 4
+    [0] 2.1 Log Paste + 2.2 Symptom Description
+    [1] 2.2 Symptom Description
+    [2] 2.2 Symptom Description
+    [3] 2.2 Symptom Description + 2.1 Log Paste
+
+  Example 21  (dist to medoid: 0.3500)
+  SHA: 8b54a279b469ae93069079b772143c5e69dd90fe
+  Sequence length: 5
+    [0] 1.1 New Implementation
+    [1] 2.2 Symptom Description
+    [2] 2.1 Log Paste
+    [3] 3.2 Project Comprehension
+    [4] 2.1 Log Paste
+
+  Example 22  (dist to medoid: 0.3500)
+  SHA: b1f0d85a0da2a36c6dcc160f6fc8c4093af334dc
+  Sequence length: 5
+    [0] 1.2 Iterative Modification
+    [1] 2.2 Symptom Description
+    [2] 4.1 Information Injection + 7.1 Confirmation
+    [3] 2.2 Symptom Description + 7.1 Confirmation
+    [4] 2.2 Symptom Description
+
+  Example 23  (dist to medoid: 0.3500)
+  SHA: 193a7dbba1534731abdb2269a60bae6a1a4c2013
+  Sequence length: 5
+    [0] 2.1 Log Paste + 1.2 Iterative Modification
+    [1] 2.1 Log Paste
+    [2] 2.1 Log Paste
+    [3] 2.1 Log Paste + 2.3 Error Persistence
+    [4] 2.1 Log Paste
+
+  Example 24  (dist to medoid: 0.3500)
+  SHA: fa3cd7495e90007bb8ecefba2d36606336fb55e0
+  Sequence length: 4
+    [0] 1.2 Iterative Modification
+    [1] 2.1 Log Paste
+    [2] 2.1 Log Paste
+    [3] 2.1 Log Paste
+
+  Example 25  (dist to medoid: 0.3500)
+  SHA: 1b4bd1f787a1fa1c47e9a506fdadb9c75520e75f
+  Sequence length: 4
+    [0] 1.2 Iterative Modification
+    [1] 2.1 Log Paste
+    [2] 2.1 Log Paste
+    [3] 2.1 Log Paste
+
+  Example 26  (dist to medoid: 0.3571)
+  SHA: e545a1ef4b2394dc3d941a0e56dccb89977f988a
+  Sequence length: 7
+    [0] 1.2 Iterative Modification
+    [1] 2.2 Symptom Description
+    [2] 2.2 Symptom Description + 1.2 Iterative Modification
+    [3] 2.1 Log Paste + 1.2 Iterative Modification
+    [4] 2.2 Symptom Description
+    [5] 2.1 Log Paste + 2.2 Symptom Description
+    [6] 1.2 Iterative Modification
+
+  Example 27  (dist to medoid: 0.3750)
+  SHA: 30cb823ad77b5bdcba8ddd9204510378d9baeb86
+  Sequence length: 6
+    [0] 2.2 Symptom Description
+    [1] 2.2 Symptom Description
+    [2] 2.1 Log Paste + 1.2 Iterative Modification
+    [3] 2.1 Log Paste
+    [4] 2.2 Symptom Description
+    [5] 2.1 Log Paste
+
+  Example 28  (dist to medoid: 0.3750)
+  SHA: 3506e9f7c40471489f4dc494bdd5dca0ffd1aac3
+  Sequence length: 6
+    [0] 2.2 Symptom Description + 2.1 Log Paste
+    [1] 2.2 Symptom Description
+    [2] 2.1 Log Paste
+    [3] 2.2 Symptom Description
+    [4] 2.2 Symptom Description
+    [5] 2.1 Log Paste
+
+  Example 29  (dist to medoid: 0.3750)
+  SHA: 9d7033dd073903755628fa7dea60431924cc7dea
+  Sequence length: 5
+    [0] 1.2 Iterative Modification + 6.2 Toolchain Operation
+    [1] 2.2 Symptom Description
+    [2] 2.3 Error Persistence
+    [3] 2.3 Error Persistence
+    [4] 2.3 Error Persistence + 2.2 Symptom Description
+
+  Example 30  (dist to medoid: 0.3750)
+  SHA: 27e5537b37ea85207d0ba3b19133e3bfb6807531
+  Sequence length: 6
+    [0] 1.2 Iterative Modification
+    [1] 2.3 Error Persistence
+    [2] 2.3 Error Persistence + 4.1 Information Injection
+    [3] 2.2 Symptom Description
+    [4] 2.3 Error Persistence
+    [5] 2.2 Symptom Description + 2.1 Log Paste
+
+================================================================================
+CLUSTER 2  |  1158 sessions  |  medoid: 4552a17d6d5b...
+================================================================================
+
+  Example 1  (dist to medoid: 0.0000)
+  SHA: dc218075c02300f542d140c6f522b7c3d48279dd
+  Sequence length: 5
+    [0] 1.2 Iterative Modification
+    [1] 1.2 Iterative Modification
+    [2] 1.2 Iterative Modification
+    [3] 1.2 Iterative Modification
+    [4] 1.2 Iterative Modification
+
+  Example 2  (dist to medoid: 0.0000)
+  SHA: f32d5424b08a90052749b2b89522ea99c2456208
+  Sequence length: 5
+    [0] 1.2 Iterative Modification
+    [1] 1.2 Iterative Modification
+    [2] 1.2 Iterative Modification
+    [3] 1.2 Iterative Modification
+    [4] 1.2 Iterative Modification
+
+  Example 3  (dist to medoid: 0.0000)
+  SHA: 4552a17d6d5bd8b2cbc0f4fdcc45ddc7e098a085
+  Sequence length: 5
+    [0] 1.2 Iterative Modification
+    [1] 1.2 Iterative Modification
+    [2] 1.2 Iterative Modification
+    [3] 1.2 Iterative Modification
+    [4] 1.2 Iterative Modification
+
+  Example 4  (dist to medoid: 0.0000)
+  SHA: b0c89c231b2bec8388d30035b2266fed6698b777
+  Sequence length: 5
+    [0] 1.2 Iterative Modification
+    [1] 1.2 Iterative Modification
+    [2] 1.2 Iterative Modification
+    [3] 1.2 Iterative Modification
+    [4] 1.2 Iterative Modification
+
+  Example 5  (dist to medoid: 0.0500)
+  SHA: 4b13b171d28bd7a84145acaf807a4f9173395439
+  Sequence length: 5
+    [0] 1.2 Iterative Modification
+    [1] 1.2 Iterative Modification
+    [2] 1.2 Iterative Modification
+    [3] 1.3 Alignment Correction + 1.2 Iterative Modification
+    [4] 1.2 Iterative Modification
+
+  Example 6  (dist to medoid: 0.1000)
+  SHA: 6a70d499f68cf7a362f8c767e67df9d4b84a963e
+  Sequence length: 5
+    [0] 1.2 Iterative Modification
+    [1] 1.2 Iterative Modification + 4.1 Information Injection
+    [2] 1.2 Iterative Modification
+    [3] 1.2 Iterative Modification
+    [4] 1.2 Iterative Modification
+
+  Example 7  (dist to medoid: 0.1500)
+  SHA: b79bbf9726629575fb1aaf12d64216ce53ae2164
+  Sequence length: 5
+    [0] 1.1 New Implementation
+    [1] 1.2 Iterative Modification
+    [2] 1.2 Iterative Modification
+    [3] 1.1 New Implementation + 1.2 Iterative Modification
+    [4] 1.2 Iterative Modification
+
+  Example 8  (dist to medoid: 0.1667)
+  SHA: 6fea99032fbb9abfca1bbdaeb293b8323a2d797b
+  Sequence length: 6
+    [0] 1.2 Iterative Modification
+    [1] 1.2 Iterative Modification
+    [2] 1.2 Iterative Modification
+    [3] 1.2 Iterative Modification
+    [4] 1.2 Iterative Modification
+    [5] 1.2 Iterative Modification
+
+  Example 9  (dist to medoid: 0.1667)
+  SHA: c82ff89945771847bdeab3a1e8c71bdc05de411a
+  Sequence length: 6
+    [0] 1.2 Iterative Modification
+    [1] 1.2 Iterative Modification
+    [2] 2.1 Log Paste
+    [3] 1.2 Iterative Modification
+    [4] 1.2 Iterative Modification
+    [5] 1.2 Iterative Modification
+
+  Example 10  (dist to medoid: 0.1667)
+  SHA: b11c8261f8d3ccd1ce99785dab6c2ab37532095d
+  Sequence length: 6
+    [0] 1.2 Iterative Modification
+    [1] 1.2 Iterative Modification
+    [2] 1.2 Iterative Modification
+    [3] 1.2 Iterative Modification
+    [4] 1.2 Iterative Modification
+    [5] 2.2 Symptom Description
+
+  Example 11  (dist to medoid: 0.1667)
+  SHA: 30bc1d3a70f70469a3921d11a8e5e5e5a4a3a441
+  Sequence length: 6
+    [0] 1.2 Iterative Modification
+    [1] 1.2 Iterative Modification
+    [2] 1.2 Iterative Modification
+    [3] 1.2 Iterative Modification
+    [4] 7.2 Continuation
+    [5] 1.2 Iterative Modification
+
+  Example 12  (dist to medoid: 0.1667)
+  SHA: 904c175761112eac809d6411ac61be69ded621ab
+  Sequence length: 6
+    [0] 4.1 Information Injection
+    [1] 1.2 Iterative Modification
+    [2] 1.2 Iterative Modification
+    [3] 1.2 Iterative Modification
+    [4] 1.2 Iterative Modification
+    [5] 1.2 Iterative Modification
+
+  Example 13  (dist to medoid: 0.1667)
+  SHA: 1b0df0f3293c2c45c705d1c672b2f4b21f900093
+  Sequence length: 6
+    [0] 1.2 Iterative Modification
+    [1] 1.2 Iterative Modification
+    [2] 1.2 Iterative Modification
+    [3] 2.2 Symptom Description
+    [4] 1.2 Iterative Modification
+    [5] 1.2 Iterative Modification
+
+  Example 14  (dist to medoid: 0.1667)
+  SHA: d170a08094769d806d181b92bcea1c874d0a1f02
+  Sequence length: 6
+    [0] 1.2 Iterative Modification
+    [1] 1.2 Iterative Modification
+    [2] 1.2 Iterative Modification
+    [3] 1.2 Iterative Modification
+    [4] 1.2 Iterative Modification
+    [5] 1.2 Iterative Modification
+
+  Example 15  (dist to medoid: 0.1667)
+  SHA: b6d00067ec94c741ab51731bf378d97b526652c9
+  Sequence length: 6
+    [0] 1.2 Iterative Modification
+    [1] 1.2 Iterative Modification
+    [2] 6.2 Toolchain Operation + 1.2 Iterative Modification
+    [3] 1.2 Iterative Modification
+    [4] 1.2 Iterative Modification
+    [5] 1.2 Iterative Modification
+
+  Example 16  (dist to medoid: 0.2000)
+  SHA: 889c39bd68041df7595d95bab6bee34651bbc4f4
+  Sequence length: 5
+    [0] 1.2 Iterative Modification
+    [1] 1.2 Iterative Modification
+    [2] 1.2 Iterative Modification
+    [3] 1.2 Iterative Modification
+    [4] 6.2 Toolchain Operation
+
+  Example 17  (dist to medoid: 0.2000)
+  SHA: 8ed7354dc58a644c29ab3b1620b0f65dc45e8570
+  Sequence length: 5
+    [0] 1.2 Iterative Modification
+    [1] 1.2 Iterative Modification
+    [2] 1.2 Iterative Modification + 6.2 Toolchain Operation
+    [3] 1.2 Iterative Modification + 4.2 Behavior Specification
+    [4] 1.2 Iterative Modification
+
+  Example 18  (dist to medoid: 0.2000)
+  SHA: 1c186083ace14fe94dbc5a4e10a1b9b0ead5bc58
+  Sequence length: 5
+    [0] 1.2 Iterative Modification
+    [1] 1.2 Iterative Modification
+    [2] 3.2 Project Comprehension
+    [3] 1.2 Iterative Modification
+    [4] 1.2 Iterative Modification
+
+  Example 19  (dist to medoid: 0.2000)
+  SHA: df6453f8cbf8d7dc034640af4537a5e2a69acdef
+  Sequence length: 4
+    [0] 1.2 Iterative Modification
+    [1] 1.2 Iterative Modification
+    [2] 1.2 Iterative Modification
+    [3] 1.2 Iterative Modification
+
+  Example 20  (dist to medoid: 0.2000)
+  SHA: e69b690209df43ed5910ca89dbc950ae90054843
+  Sequence length: 4
+    [0] 1.2 Iterative Modification
+    [1] 1.2 Iterative Modification
+    [2] 1.2 Iterative Modification
+    [3] 1.2 Iterative Modification
+
+  Example 21  (dist to medoid: 0.2000)
+  SHA: 988618ff039f5c9279f6ee0d2e73714532d05231
+  Sequence length: 4
+    [0] 1.2 Iterative Modification
+    [1] 1.2 Iterative Modification
+    [2] 1.2 Iterative Modification
+    [3] 1.2 Iterative Modification
+
+  Example 22  (dist to medoid: 0.2000)
+  SHA: c7819aa4e07146621070a9d39c3255338a2b7719
+  Sequence length: 5
+    [0] 1.2 Iterative Modification
+    [1] 1.2 Iterative Modification
+    [2] 1.2 Iterative Modification
+    [3] 1.2 Iterative Modification
+    [4] 6.2 Toolchain Operation
+
+  Example 23  (dist to medoid: 0.2000)
+  SHA: f19f9285d2daa2b1fda3c459840f28f3176fe094
+  Sequence length: 5
+    [0] 1.1 New Implementation
+    [1] 1.2 Iterative Modification
+    [2] 1.2 Iterative Modification
+    [3] 4.2 Behavior Specification + 1.2 Iterative Modification
+    [4] 1.2 Iterative Modification
+
+  Example 24  (dist to medoid: 0.2000)
+  SHA: f00f669214a30365461b3b78d5a9697562a86c92
+  Sequence length: 5
+    [0] 1.2 Iterative Modification
+    [1] 1.2 Iterative Modification
+    [2] 1.2 Iterative Modification
+    [3] 1.2 Iterative Modification
+    [4] 2.3 Error Persistence + 7.2 Continuation
+
+  Example 25  (dist to medoid: 0.2000)
+  SHA: 6a902840fd3d32ee57ce26d41477ae07eef2831f
+  Sequence length: 5
+    [0] 1.2 Iterative Modification
+    [1] 1.2 Iterative Modification
+    [2] 1.2 Iterative Modification
+    [3] 2.2 Symptom Description
+    [4] 1.2 Iterative Modification
+
+  Example 26  (dist to medoid: 0.2000)
+  SHA: 57d2bfbc22112b23ce2c196615fe0f9e7831ccc8
+  Sequence length: 4
+    [0] 1.2 Iterative Modification
+    [1] 1.2 Iterative Modification
+    [2] 1.2 Iterative Modification
+    [3] 1.2 Iterative Modification
+
+  Example 27  (dist to medoid: 0.2000)
+  SHA: 782e16b39b41efcf42128f5eaa39402f574240a8
+  Sequence length: 5
+    [0] 1.2 Iterative Modification
+    [1] 1.2 Iterative Modification
+    [2] 1.2 Iterative Modification
+    [3] 1.2 Iterative Modification
+    [4] 2.1 Log Paste + 2.2 Symptom Description
+
+  Example 28  (dist to medoid: 0.2083)
+  SHA: af5465383532c36e3f095f240e01664cf9cbedef
+  Sequence length: 6
+    [0] 1.2 Iterative Modification
+    [1] 1.2 Iterative Modification
+    [2] 1.1 New Implementation + 7.5 Sentiment Expression
+    [3] 1.3 Alignment Correction + 1.2 Iterative Modification
+    [4] 1.2 Iterative Modification
+    [5] 1.2 Iterative Modification
+
+  Example 29  (dist to medoid: 0.2500)
+  SHA: 756eb662f1ce9ff4dfce92670eb7b4faffe98019
+  Sequence length: 6
+    [0] 1.2 Iterative Modification
+    [1] 7.5 Sentiment Expression
+    [2] 1.2 Iterative Modification + 7.5 Sentiment Expression
+    [3] 1.2 Iterative Modification
+    [4] 1.2 Iterative Modification
+    [5] 1.2 Iterative Modification
+
+  Example 30  (dist to medoid: 0.2500)
+  SHA: e64c6f963e6f34cdb894915a4bbeecb5a242659d
+  Sequence length: 6
+    [0] 1.2 Iterative Modification
+    [1] 2.2 Symptom Description
+    [2] 1.2 Iterative Modification
+    [3] 1.2 Iterative Modification
+    [4] 1.2 Iterative Modification
+    [5] 1.3 Alignment Correction
+
+================================================================================
+CLUSTER 3  |  460 sessions  |  medoid: 0ddc1bee7f1d...
+================================================================================
+
+  Example 1  (dist to medoid: 0.0000)
+  SHA: 0ddc1bee7f1dae67a9b0854f31f297cffaad2282
+  Sequence length: 6
+    [0] 6.2 Toolchain Operation + 6.1 Documentation
+    [1] 7.2 Continuation
+    [2] 7.2 Continuation
+    [3] 7.2 Continuation
+    [4] 7.2 Continuation
+    [5] 7.2 Continuation
+
+  Example 2  (dist to medoid: 0.0833)
+  SHA: 4beca279193667955946de34469dc5271a610287
+  Sequence length: 6
+    [0] 6.2 Toolchain Operation + 6.1 Documentation + 4.2 Behavior Specification
+    [1] 7.2 Continuation
+    [2] 7.2 Continuation
+    [3] 7.2 Continuation
+    [4] 7.2 Continuation
+    [5] 7.2 Continuation
+
+  Example 3  (dist to medoid: 0.1667)
+  SHA: 901eddd72952f25f52dd381aee8f50280146ae3d
+  Sequence length: 6
+    [0] 7.4 Deferred Implementation
+    [1] 7.2 Continuation
+    [2] 7.2 Continuation
+    [3] 7.2 Continuation
+    [4] 7.2 Continuation
+    [5] 7.2 Continuation
+
+  Example 4  (dist to medoid: 0.2500)
+  SHA: 20fe241e7a1e464f5c9e5bab7a2df200971c8198
+  Sequence length: 5
+    [0] 7.2 Continuation
+    [1] 7.1 Confirmation
+    [2] 7.2 Continuation
+    [3] 7.2 Continuation
+    [4] 7.2 Continuation
+
+  Example 5  (dist to medoid: 0.2500)
+  SHA: 2e7a640df727b1510b862eae298646e830807f47
+  Sequence length: 5
+    [0] 7.3 Deferred Debugging
+    [1] 7.2 Continuation
+    [2] 7.2 Continuation
+    [3] 7.2 Continuation
+    [4] 7.2 Continuation
+
+  Example 6  (dist to medoid: 0.2857)
+  SHA: 860c202f46dee5cdb5444b94d43cfe8e41cc6261
+  Sequence length: 7
+    [0] 2.1 Log Paste + 7.3 Deferred Debugging
+    [1] 7.2 Continuation
+    [2] 7.2 Continuation
+    [3] 7.2 Continuation
+    [4] 7.2 Continuation
+    [5] 7.2 Continuation
+    [6] 7.2 Continuation
+
+  Example 7  (dist to medoid: 0.3333)
+  SHA: 3765670705dd54cd4053e8561c6e8f656b87944e
+  Sequence length: 6
+    [0] 1.1 New Implementation + 4.2 Behavior Specification + 4.1 Information Injection
+    [1] 7.2 Continuation
+    [2] 7.2 Continuation
+    [3] 7.2 Continuation
+    [4] 7.2 Continuation
+    [5] 6.1 Documentation
+
+  Example 8  (dist to medoid: 0.3333)
+  SHA: d1610c7f93f8dea15a5ebc3dd91f96b4015d2609
+  Sequence length: 4
+    [0] 7.2 Continuation
+    [1] 7.2 Continuation
+    [2] 7.2 Continuation
+    [3] 7.2 Continuation
+
+  Example 9  (dist to medoid: 0.3333)
+  SHA: efcbf34182a6e26546b9b96880019cad4156bae2
+  Sequence length: 4
+    [0] 7.2 Continuation
+    [1] 7.2 Continuation
+    [2] 7.2 Continuation
+    [3] 7.2 Continuation
+
+  Example 10  (dist to medoid: 0.3333)
+  SHA: 11d324e4ee9a129122a37b50fbc9ee98589a5f5b
+  Sequence length: 6
+    [0] 4.1 Information Injection
+    [1] 7.2 Continuation
+    [2] 7.2 Continuation
+    [3] 7.2 Continuation
+    [4] 4.1 Information Injection + 1.2 Iterative Modification
+    [5] 7.2 Continuation
+
+  Example 11  (dist to medoid: 0.3333)
+  SHA: 2bd5d49c446cb054e7a40c178a315d103ccb8be4
+  Sequence length: 4
+    [0] 7.2 Continuation
+    [1] 7.2 Continuation
+    [2] 7.2 Continuation
+    [3] 7.2 Continuation
+
+  Example 12  (dist to medoid: 0.3438)
+  SHA: 4145e27c511f45b4b158d76e45ca9683344a9d39
+  Sequence length: 8
+    [0] 6.1 Documentation
+    [1] 3.2 Project Comprehension
+    [2] 7.2 Continuation
+    [3] 1.2 Iterative Modification
+    [4] 4.2 Behavior Specification + 7.2 Continuation
+    [5] 7.2 Continuation
+    [6] 7.2 Continuation
+    [7] 7.2 Continuation
+
+  Example 13  (dist to medoid: 0.3571)
+  SHA: 78a884eba29d1a6945f0608710cba1a3dc3d9cf5
+  Sequence length: 7
+    [0] 1.2 Iterative Modification
+    [1] 7.2 Continuation
+    [2] 7.2 Continuation
+    [3] 7.2 Continuation
+    [4] 7.2 Continuation
+    [5] 1.2 Iterative Modification
+    [6] 7.4 Deferred Implementation
+
+  Example 14  (dist to medoid: 0.3571)
+  SHA: 97d2cc9f85b53c9ad2eef57f778def1e31e8501d
+  Sequence length: 7
+    [0] 1.2 Iterative Modification
+    [1] 7.2 Continuation
+    [2] 7.4 Deferred Implementation
+    [3] 7.2 Continuation
+    [4] 7.2 Continuation
+    [5] 7.2 Continuation
+    [6] 2.2 Symptom Description
+
+  Example 15  (dist to medoid: 0.3571)
+  SHA: 5cfef8d902a1d57c9c1a966b22188b7e03dc4417
+  Sequence length: 7
+    [0] 3.1 Planning & Decision Consultation
+    [1] 7.2 Continuation
+    [2] 7.2 Continuation
+    [3] 1.2 Iterative Modification
+    [4] 7.2 Continuation
+    [5] 7.2 Continuation
+    [6] 7.2 Continuation + 3.1 Planning & Decision Consultation
+
+  Example 16  (dist to medoid: 0.3571)
+  SHA: ee086cdcf2cbbd8f744f826c506b7712786e9002
+  Sequence length: 7
+    [0] 1.2 Iterative Modification
+    [1] 7.2 Continuation
+    [2] 7.2 Continuation
+    [3] 1.2 Iterative Modification + 7.2 Continuation
+    [4] 7.2 Continuation
+    [5] 7.2 Continuation
+    [6] 1.2 Iterative Modification
+
+  Example 17  (dist to medoid: 0.3750)
+  SHA: f9e966c1d6195d30617e8f5c06428f69ea2af7ae
+  Sequence length: 6
+    [0] 6.2 Toolchain Operation
+    [1] 6.2 Toolchain Operation + 4.2 Behavior Specification
+    [2] 7.2 Continuation
+    [3] 7.2 Continuation
+    [4] 2.1 Log Paste
+    [5] 7.2 Continuation
+
+  Example 18  (dist to medoid: 0.3750)
+  SHA: ffd4a0736a92c0a69da880a1176e1882ddce107a
+  Sequence length: 8
+    [0] 2.2 Symptom Description
+    [1] 7.2 Continuation
+    [2] 7.2 Continuation
+    [3] 2.1 Log Paste + 2.2 Symptom Description
+    [4] 7.2 Continuation
+    [5] 7.2 Continuation
+    [6] 7.2 Continuation
+    [7] 7.2 Continuation
+
+  Example 19  (dist to medoid: 0.3750)
+  SHA: 2a9288ddd21aeaf2efd1521e64ecfa0e3542e60b
+  Sequence length: 4
+    [0] 6.1 Documentation
+    [1] 7.2 Continuation
+    [2] 7.2 Continuation
+    [3] 7.2 Continuation
+
+  Example 20  (dist to medoid: 0.3750)
+  SHA: d948855010d43e2f1b2d066f6081ca88b56081dd
+  Sequence length: 6
+    [0] 6.2 Toolchain Operation
+    [1] 7.2 Continuation
+    [2] 7.2 Continuation
+    [3] 7.2 Continuation
+    [4] 1.2 Iterative Modification
+    [5] 6.2 Toolchain Operation
+
+  Example 21  (dist to medoid: 0.3929)
+  SHA: 6d79b188185b3a8fabf272bef1d347d0eb7ff0c4
+  Sequence length: 7
+    [0] 7.4 Deferred Implementation
+    [1] 7.2 Continuation
+    [2] 7.2 Continuation
+    [3] 7.2 Continuation
+    [4] 6.2 Toolchain Operation + 7.4 Deferred Implementation
+    [5] 7.2 Continuation
+    [6] 6.1 Documentation + 3.2 Project Comprehension + 3.1 Planning & Decision Consultation
+
+  Example 22  (dist to medoid: 0.4062)
+  SHA: dcc8b047a7a28f9d05e44e7dd28651a9ae6b7c29
+  Sequence length: 8
+    [0] 7.2 Continuation + 3.2 Project Comprehension
+    [1] 6.2 Toolchain Operation
+    [2] 7.2 Continuation
+    [3] 7.3 Deferred Debugging
+    [4] 4.1 Information Injection
+    [5] 7.2 Continuation
+    [6] 7.1 Confirmation
+    [7] 7.2 Continuation
+
+  Example 23  (dist to medoid: 0.4167)
+  SHA: 5249ef326c5d5937157a27f5a860ed5a8f55a39d
+  Sequence length: 4
+    [0] 7.2 Continuation
+    [1] 7.2 Continuation
+    [2] 7.1 Confirmation
+    [3] 7.2 Continuation
+
+  Example 24  (dist to medoid: 0.4167)
+  SHA: 8b40ccd0c5b902d8c93fa74d886ed05c90fe201f
+  Sequence length: 6
+    [0] 1.2 Iterative Modification + 4.2 Behavior Specification
+    [1] 7.3 Deferred Debugging
+    [2] 7.1 Confirmation
+    [3] 7.2 Continuation
+    [4] 7.1 Confirmation
+    [5] 7.2 Continuation
+
+  Example 25  (dist to medoid: 0.4286)
+  SHA: 248d872370ece2abbae8465a08c669edd23c4f47
+  Sequence length: 7
+    [0] 4.2 Behavior Specification
+    [1] 7.2 Continuation
+    [2] 7.2 Continuation
+    [3] 7.2 Continuation
+    [4] 4.2 Behavior Specification + 7.2 Continuation
+    [5] 4.2 Behavior Specification + 7.2 Continuation
+    [6] 4.2 Behavior Specification + 7.2 Continuation
+
+  Example 26  (dist to medoid: 0.4286)
+  SHA: 2e5b5478dcd70792691b1418ed62c0c2337a8b49
+  Sequence length: 7
+    [0] 1.1 New Implementation
+    [1] 7.2 Continuation
+    [2] 7.2 Continuation
+    [3] 1.2 Iterative Modification + 4.1 Information Injection
+    [4] 1.1 New Implementation
+    [5] 7.2 Continuation
+    [6] 7.2 Continuation
+
+  Example 27  (dist to medoid: 0.4286)
+  SHA: 7d6cbc8d970b2b4a20f25ee927a903bfbfd7a262
+  Sequence length: 7
+    [0] 4.2 Behavior Specification
+    [1] 7.2 Continuation
+    [2] 7.4 Deferred Implementation
+    [3] 3.1 Planning & Decision Consultation
+    [4] 2.1 Log Paste + 7.2 Continuation
+    [5] 7.2 Continuation
+    [6] 7.2 Continuation
+
+  Example 28  (dist to medoid: 0.4286)
+  SHA: d3cf9a09fdafcb32edee69b21528d9512d718b0f
+  Sequence length: 7
+    [0] 2.1 Log Paste + 2.2 Symptom Description
+    [1] 7.2 Continuation
+    [2] 7.2 Continuation
+    [3] 7.2 Continuation
+    [4] 7.2 Continuation
+    [5] 2.1 Log Paste + 2.2 Symptom Description
+    [6] 1.2 Iterative Modification + 3.2 Project Comprehension
+
+  Example 29  (dist to medoid: 0.4286)
+  SHA: f5eecb3412af743af8879cc1d08e79491f8876e9
+  Sequence length: 7
+    [0] 6.2 Toolchain Operation
+    [1] 1.2 Iterative Modification
+    [2] 7.4 Deferred Implementation
+    [3] 7.2 Continuation
+    [4] 7.1 Confirmation
+    [5] 7.2 Continuation + 7.1 Confirmation
+    [6] 7.1 Confirmation
+
+  Example 30  (dist to medoid: 0.4375)
+  SHA: 8b3cf7d847e6155e47094ab23929829b869ebede
+  Sequence length: 8
+    [0] 1.1 New Implementation + 4.1 Information Injection
+    [1] 1.3 Alignment Correction
+    [2] 2.2 Symptom Description + 7.2 Continuation
+    [3] 7.2 Continuation
+    [4] 1.2 Iterative Modification
+    [5] 7.2 Continuation
+    [6] 7.2 Continuation
+    [7] 7.2 Continuation
+
+================================================================================
+CLUSTER 4  |  896 sessions  |  medoid: 0dd1320d7a34...
+================================================================================
+
+  Example 1  (dist to medoid: 0.0000)
+  SHA: 0dd1320d7a34e727a2520796d94efc294ff73f33
+  Sequence length: 30
+    [0] 3.1 Planning & Decision Consultation
+    [1] 1.3 Alignment Correction + 1.2 Iterative Modification
+    [2] 6.2 Toolchain Operation
+    [3] 2.2 Symptom Description
+    [4] 1.2 Iterative Modification
+    [5] 1.2 Iterative Modification + 1.3 Alignment Correction
+    [6] 1.2 Iterative Modification
+    [7] 2.2 Symptom Description
+    [8] 1.2 Iterative Modification
+    [9] 2.2 Symptom Description
+    [10] 2.2 Symptom Description
+    [11] 1.2 Iterative Modification
+    [12] 2.3 Error Persistence + 2.2 Symptom Description
+    [13] 1.1 New Implementation
+    [14] 1.2 Iterative Modification
+    [15] 6.1 Documentation
+    [16] 1.2 Iterative Modification
+    [17] 1.2 Iterative Modification
+    [18] 2.2 Symptom Description + 2.3 Error Persistence
+    [19] 1.2 Iterative Modification
+    [20] 2.2 Symptom Description
+    [21] 7.1 Confirmation
+    [22] 1.3 Alignment Correction
+    [23] 1.2 Iterative Modification
+    [24] 2.2 Symptom Description
+    [25] 1.3 Alignment Correction + 1.2 Iterative Modification
+    [26] 1.2 Iterative Modification
+    [27] 1.2 Iterative Modification
+    [28] 1.3 Alignment Correction + 1.2 Iterative Modification
+    [29] 2.2 Symptom Description
+
+  Example 2  (dist to medoid: 0.4597)
+  SHA: 19ae2436ec105abf20f97b29ecc753e48106dfa5
+  Sequence length: 31
+    [0] 4.1 Information Injection
+    [1] 3.2 Project Comprehension
+    [2] 1.2 Iterative Modification
+    [3] 1.2 Iterative Modification + 1.3 Alignment Correction
+    [4] 2.2 Symptom Description + 1.3 Alignment Correction
+    [5] 1.2 Iterative Modification
+    [6] 1.3 Alignment Correction + 1.2 Iterative Modification
+    [7] 1.2 Iterative Modification
+    [8] 2.2 Symptom Description
+    [9] 1.2 Iterative Modification
+    [10] 1.2 Iterative Modification
+    [11] 1.2 Iterative Modification + 4.1 Information Injection
+    [12] 1.2 Iterative Modification
+    [13] 1.2 Iterative Modification
+    [14] 1.2 Iterative Modification
+    [15] 1.2 Iterative Modification
+    [16] 1.2 Iterative Modification
+    [17] 2.2 Symptom Description
+    [18] 1.3 Alignment Correction + 1.2 Iterative Modification
+    [19] 1.2 Iterative Modification + 1.3 Alignment Correction
+    [20] 2.2 Symptom Description
+    [21] 4.2 Behavior Specification
+    [22] 2.2 Symptom Description
+    [23] 1.2 Iterative Modification
+    [24] 1.2 Iterative Modification
+    [25] 1.2 Iterative Modification
+    [26] 1.3 Alignment Correction + 1.2 Iterative Modification
+    [27] 1.2 Iterative Modification + 1.3 Alignment Correction
+    [28] 1.2 Iterative Modification
+    [29] 1.2 Iterative Modification
+    [30] 1.2 Iterative Modification
+
+  Example 3  (dist to medoid: 0.4875)
+  SHA: b3129fcb22614f22b769ac79439d2c5cc6c9ffba
+  Sequence length: 19
+    [0] 4.1 Information Injection
+    [1] 1.2 Iterative Modification
+    [2] 1.2 Iterative Modification
+    [3] 1.2 Iterative Modification
+    [4] 1.2 Iterative Modification
+    [5] 1.2 Iterative Modification
+    [6] 2.2 Symptom Description
+    [7] 2.3 Error Persistence + 2.2 Symptom Description
+    [8] 1.2 Iterative Modification
+    [9] 2.3 Error Persistence
+    [10] 1.2 Iterative Modification
+    [11] 1.2 Iterative Modification
+    [12] 1.2 Iterative Modification
+    [13] 1.2 Iterative Modification
+    [14] 1.2 Iterative Modification
+    [15] 1.2 Iterative Modification
+    [16] 1.2 Iterative Modification
+    [17] 2.2 Symptom Description
+    [18] 2.3 Error Persistence + 1.3 Alignment Correction
+
+  Example 4  (dist to medoid: 0.4917)
+  SHA: 48ab70d7ab7e66082f59d2ce6a0c1ce1134d8bcc
+  Sequence length: 24
+    [0] 1.2 Iterative Modification
+    [1] 1.2 Iterative Modification
+    [2] 1.2 Iterative Modification
+    [3] 1.2 Iterative Modification
+    [4] 1.2 Iterative Modification
+    [5] 1.2 Iterative Modification
+    [6] 6.2 Toolchain Operation
+    [7] 1.2 Iterative Modification
+    [8] 1.2 Iterative Modification
+    [9] 1.2 Iterative Modification
+    [10] 1.2 Iterative Modification
+    [11] 1.1 New Implementation + 1.2 Iterative Modification
+    [12] 1.2 Iterative Modification + 1.3 Alignment Correction
+    [13] 1.2 Iterative Modification
+    [14] 1.2 Iterative Modification
+    [15] 1.2 Iterative Modification
+    [16] 1.2 Iterative Modification
+    [17] 1.2 Iterative Modification
+    [18] 1.2 Iterative Modification
+    [19] 1.2 Iterative Modification
+    [20] 1.3 Alignment Correction + 1.2 Iterative Modification
+    [21] 1.2 Iterative Modification
+    [22] 1.2 Iterative Modification
+    [23] 1.2 Iterative Modification
+
+  Example 5  (dist to medoid: 0.4958)
+  SHA: a089a4db692755ad0c80f834d3e1d00e4e37f6dc
+  Sequence length: 28
+    [0] 1.2 Iterative Modification
+    [1] 1.3 Alignment Correction + 1.2 Iterative Modification
+    [2] 1.2 Iterative Modification + 1.3 Alignment Correction
+    [3] 2.2 Symptom Description + 1.3 Alignment Correction
+    [4] 1.2 Iterative Modification
+    [5] 1.2 Iterative Modification
+    [6] 1.2 Iterative Modification
+    [7] 1.2 Iterative Modification
+    [8] 2.2 Symptom Description
+    [9] 1.3 Alignment Correction + 1.2 Iterative Modification
+    [10] 1.2 Iterative Modification
+    [11] 1.2 Iterative Modification
+    [12] 1.2 Iterative Modification
+    [13] 1.2 Iterative Modification
+    [14] 1.2 Iterative Modification
+    [15] 1.3 Alignment Correction + 2.2 Symptom Description
+    [16] 3.3 General Knowledge Query
+    [17] 1.2 Iterative Modification
+    [18] 1.2 Iterative Modification
+    [19] 1.2 Iterative Modification
+    [20] 1.2 Iterative Modification
+    [21] 3.1 Planning & Decision Consultation
+    [22] 1.2 Iterative Modification
+    [23] 1.2 Iterative Modification
+    [24] 4.1 Information Injection
+    [25] 1.2 Iterative Modification
+    [26] 1.2 Iterative Modification
+    [27] 1.2 Iterative Modification + 4.1 Information Injection
+
+  Example 6  (dist to medoid: 0.5000)
+  SHA: 36e7a62cdd5d0020052fd27eec360edf5a76ed19
+  Sequence length: 26
+    [0] 3.1 Planning & Decision Consultation
+    [1] 1.2 Iterative Modification
+    [2] 1.3 Alignment Correction
+    [3] 1.3 Alignment Correction + 1.2 Iterative Modification
+    [4] 1.2 Iterative Modification
+    [5] 1.2 Iterative Modification
+    [6] 2.2 Symptom Description
+    [7] 1.2 Iterative Modification
+    [8] 1.3 Alignment Correction + 1.2 Iterative Modification
+    [9] 1.3 Alignment Correction
+    [10] 1.2 Iterative Modification
+    [11] 1.3 Alignment Correction
+    [12] 1.3 Alignment Correction
+    [13] 2.2 Symptom Description + 1.3 Alignment Correction
+    [14] 2.1 Log Paste
+    [15] 2.3 Error Persistence
+    [16] 1.2 Iterative Modification
+    [17] 1.1 New Implementation
+    [18] 1.3 Alignment Correction + 1.2 Iterative Modification
+    [19] 2.3 Error Persistence
+    [20] 1.2 Iterative Modification
+    [21] 1.2 Iterative Modification
+    [22] 1.2 Iterative Modification
+    [23] 2.2 Symptom Description + 1.3 Alignment Correction
+    [24] 2.3 Error Persistence
+    [25] 1.2 Iterative Modification
+
+  Example 7  (dist to medoid: 0.5042)
+  SHA: 3bc63f5bcd80b2a9d02a945623a708c52ec34a63
+  Sequence length: 23
+    [0] 1.1 New Implementation + 4.1 Information Injection
+    [1] 1.2 Iterative Modification
+    [2] 1.2 Iterative Modification
+    [3] 2.2 Symptom Description
+    [4] 2.2 Symptom Description + 1.3 Alignment Correction
+    [5] 1.2 Iterative Modification + 4.1 Information Injection
+    [6] 1.2 Iterative Modification
+    [7] 1.2 Iterative Modification
+    [8] 1.2 Iterative Modification
+    [9] 2.2 Symptom Description
+    [10] 2.2 Symptom Description
+    [11] 1.2 Iterative Modification
+    [12] 1.2 Iterative Modification
+    [13] 1.2 Iterative Modification
+    [14] 1.1 New Implementation
+    [15] 1.2 Iterative Modification
+    [16] 1.2 Iterative Modification
+    [17] 1.2 Iterative Modification
+    [18] 2.2 Symptom Description + 1.2 Iterative Modification
+    [19] 1.2 Iterative Modification
+    [20] 1.2 Iterative Modification
+    [21] 6.1 Documentation
+    [22] 6.1 Documentation
+
+  Example 8  (dist to medoid: 0.5083)
+  SHA: 9b0fc0b82d2648d5f1a3aa9c09424924786e0172
+  Sequence length: 20
+    [0] 1.1 New Implementation
+    [1] 1.2 Iterative Modification
+    [2] 6.2 Toolchain Operation + 5.2 Runtime Inspection
+    [3] 1.2 Iterative Modification
+    [4] 1.3 Alignment Correction + 1.2 Iterative Modification
+    [5] 1.2 Iterative Modification
+    [6] 1.2 Iterative Modification
+    [7] 1.2 Iterative Modification + 4.2 Behavior Specification
+    [8] 1.2 Iterative Modification + 4.2 Behavior Specification
+    [9] 1.2 Iterative Modification
+    [10] 1.1 New Implementation
+    [11] 1.2 Iterative Modification
+    [12] 2.2 Symptom Description
+    [13] 1.1 New Implementation
+    [14] 1.2 Iterative Modification
+    [15] 1.1 New Implementation + 6.2 Toolchain Operation
+    [16] 1.2 Iterative Modification
+    [17] 1.2 Iterative Modification
+    [18] 1.2 Iterative Modification
+    [19] 1.2 Iterative Modification
+
+  Example 9  (dist to medoid: 0.5083)
+  SHA: e4667a8bcd80fea127137618fa258c328091d893
+  Sequence length: 25
+    [0] 2.2 Symptom Description
+    [1] 2.2 Symptom Description
+    [2] 2.1 Log Paste
+    [3] 1.2 Iterative Modification
+    [4] 2.2 Symptom Description + 2.1 Log Paste + 1.2 Iterative Modification
+    [5] 2.2 Symptom Description + 1.2 Iterative Modification
+    [6] 3.2 Project Comprehension
+    [7] 1.3 Alignment Correction + 1.2 Iterative Modification
+    [8] 1.2 Iterative Modification + 7.1 Confirmation
+    [9] 2.2 Symptom Description
+    [10] 2.2 Symptom Description
+    [11] 1.2 Iterative Modification
+    [12] 1.2 Iterative Modification
+    [13] 1.2 Iterative Modification
+    [14] 1.2 Iterative Modification
+    [15] 1.2 Iterative Modification
+    [16] 1.2 Iterative Modification
+    [17] 1.2 Iterative Modification
+    [18] 1.2 Iterative Modification
+    [19] 1.2 Iterative Modification
+    [20] 1.3 Alignment Correction + 1.2 Iterative Modification
+    [21] 1.2 Iterative Modification
+    [22] 1.2 Iterative Modification
+    [23] 1.2 Iterative Modification
+    [24] 1.2 Iterative Modification
+
+  Example 10  (dist to medoid: 0.5083)
+  SHA: f0598747b4b888400d7716773b597ade1584c26d
+  Sequence length: 20
+    [0] 1.1 New Implementation + 4.2 Behavior Specification
+    [1] 1.2 Iterative Modification
+    [2] 1.2 Iterative Modification + 1.3 Alignment Correction
+    [3] 1.2 Iterative Modification
+    [4] 1.2 Iterative Modification
+    [5] 4.1 Information Injection
+    [6] 1.2 Iterative Modification
+    [7] 1.1 New Implementation
+    [8] 1.2 Iterative Modification
+    [9] 6.1 Documentation
+    [10] 1.2 Iterative Modification
+    [11] 2.2 Symptom Description
+    [12] 1.2 Iterative Modification
+    [13] 4.2 Behavior Specification
+    [14] 1.2 Iterative Modification
+    [15] 6.1 Documentation
+    [16] 1.1 New Implementation
+    [17] 1.2 Iterative Modification
+    [18] 1.1 New Implementation
+    [19] 1.2 Iterative Modification
+
+  Example 11  (dist to medoid: 0.5125)
+  SHA: a6902456b54fd83513a66090a8166d64a68c70b4
+  Sequence length: 22
+    [0] 1.2 Iterative Modification
+    [1] 6.2 Toolchain Operation + 1.2 Iterative Modification
+    [2] 3.1 Planning & Decision Consultation
+    [3] 1.2 Iterative Modification
+    [4] 1.2 Iterative Modification
+    [5] 6.2 Toolchain Operation + 1.2 Iterative Modification
+    [6] 2.3 Error Persistence
+    [7] 1.2 Iterative Modification
+    [8] 1.2 Iterative Modification
+    [9] 1.2 Iterative Modification
+    [10] 3.1 Planning & Decision Consultation
+    [11] 1.2 Iterative Modification + 4.2 Behavior Specification
+    [12] 6.2 Toolchain Operation
+    [13] 2.1 Log Paste
+    [14] 1.2 Iterative Modification
+    [15] 2.2 Symptom Description
+    [16] 1.2 Iterative Modification
+    [17] 1.2 Iterative Modification
+    [18] 1.2 Iterative Modification
+    [19] 1.2 Iterative Modification
+    [20] 1.2 Iterative Modification
+    [21] 1.2 Iterative Modification + 3.1 Planning & Decision Consultation
+
+  Example 12  (dist to medoid: 0.5167)
+  SHA: b770a2702a7eb2fc319c789a1cbcf5f9fc998540
+  Sequence length: 22
+    [0] 2.2 Symptom Description + 1.2 Iterative Modification
+    [1] 2.3 Error Persistence + 2.2 Symptom Description
+    [2] 1.2 Iterative Modification
+    [3] 1.2 Iterative Modification
+    [4] 1.3 Alignment Correction + 1.2 Iterative Modification
+    [5] 1.3 Alignment Correction + 4.1 Information Injection
+    [6] 1.3 Alignment Correction + 1.2 Iterative Modification
+    [7] 1.2 Iterative Modification
+    [8] 1.2 Iterative Modification
+    [9] 1.3 Alignment Correction + 1.2 Iterative Modification + 7.5 Sentiment Expression
+    [10] 1.3 Alignment Correction + 1.2 Iterative Modification
+    [11] 1.3 Alignment Correction + 2.2 Symptom Description
+    [12] 1.2 Iterative Modification
+    [13] 2.2 Symptom Description
+    [14] 7.3 Deferred Debugging
+    [15] 1.2 Iterative Modification
+    [16] 1.2 Iterative Modification
+    [17] 2.2 Symptom Description
+    [18] 5.1 Code Review
+    [19] 6.2 Toolchain Operation + 1.2 Iterative Modification
+    [20] 1.2 Iterative Modification
+    [21] 7.1 Confirmation
+
+  Example 13  (dist to medoid: 0.5167)
+  SHA: d04d496bd4c135b50202401a7d6490cbc7220dd7
+  Sequence length: 20
+    [0] 1.2 Iterative Modification
+    [1] 2.3 Error Persistence
+    [2] 2.3 Error Persistence + 1.2 Iterative Modification
+    [3] 2.3 Error Persistence
+    [4] 7.5 Sentiment Expression
+    [5] 1.2 Iterative Modification
+    [6] 1.3 Alignment Correction + 1.2 Iterative Modification
+    [7] 1.2 Iterative Modification
+    [8] 1.2 Iterative Modification
+    [9] 1.2 Iterative Modification
+    [10] 1.3 Alignment Correction + 1.2 Iterative Modification
+    [11] 1.2 Iterative Modification
+    [12] 2.2 Symptom Description + 1.2 Iterative Modification
+    [13] 2.3 Error Persistence + 1.2 Iterative Modification
+    [14] 1.3 Alignment Correction + 1.2 Iterative Modification
+    [15] 2.2 Symptom Description
+    [16] 1.2 Iterative Modification
+    [17] 1.2 Iterative Modification
+    [18] 1.3 Alignment Correction + 1.2 Iterative Modification
+    [19] 2.2 Symptom Description
+
+  Example 14  (dist to medoid: 0.5167)
+  SHA: 6e31c1bc778d068c90819eac6e5325f79455d127
+  Sequence length: 19
+    [0] 1.2 Iterative Modification
+    [1] 1.2 Iterative Modification
+    [2] 1.2 Iterative Modification
+    [3] 1.2 Iterative Modification
+    [4] 1.3 Alignment Correction + 1.2 Iterative Modification
+    [5] 2.3 Error Persistence
+    [6] 1.2 Iterative Modification
+    [7] 1.3 Alignment Correction + 1.2 Iterative Modification
+    [8] 1.2 Iterative Modification
+    [9] 1.3 Alignment Correction + 1.2 Iterative Modification
+    [10] 1.3 Alignment Correction + 1.2 Iterative Modification
+    [11] 1.2 Iterative Modification
+    [12] 1.2 Iterative Modification
+    [13] 1.2 Iterative Modification
+    [14] 1.2 Iterative Modification
+    [15] 1.2 Iterative Modification
+    [16] 2.2 Symptom Description
+    [17] 1.2 Iterative Modification
+    [18] 1.2 Iterative Modification
+
+  Example 15  (dist to medoid: 0.5183)
+  SHA: d7ae934a4556f93927bdb4c190daa7b4945e5627
+  Sequence length: 41
+    [0] 1.1 New Implementation
+    [1] 1.2 Iterative Modification
+    [2] 1.2 Iterative Modification
+    [3] 6.2 Toolchain Operation
+    [4] 6.2 Toolchain Operation + 2.2 Symptom Description
+    [5] 1.2 Iterative Modification
+    [6] 1.2 Iterative Modification
+    [7] 1.2 Iterative Modification
+    [8] 1.2 Iterative Modification
+    [9] 2.2 Symptom Description
+    [10] 1.2 Iterative Modification
+    [11] 2.2 Symptom Description
+    [12] 7.2 Continuation
+    [13] 1.2 Iterative Modification
+    [14] 1.2 Iterative Modification
+    [15] 1.2 Iterative Modification
+    [16] 1.2 Iterative Modification
+    [17] 1.2 Iterative Modification
+    [18] 1.3 Alignment Correction + 1.2 Iterative Modification
+    [19] 2.2 Symptom Description
+    [20] 7.1 Confirmation
+    [21] 1.2 Iterative Modification
+    [22] 1.2 Iterative Modification
+    [23] 1.2 Iterative Modification
+    [24] 4.1 Information Injection
+    [25] 6.1 Documentation
+    [26] 2.2 Symptom Description
+    [27] 7.1 Confirmation
+    [28] 6.2 Toolchain Operation
+    [29] 1.2 Iterative Modification
+    [30] 7.4 Deferred Implementation
+    [31] 6.2 Toolchain Operation
+    [32] 2.2 Symptom Description
+    [33] 7.1 Confirmation
+    [34] 1.2 Iterative Modification + 4.1 Information Injection
+    [35] 1.2 Iterative Modification
+    [36] 7.1 Confirmation
+    [37] 2.2 Symptom Description
+    [38] 7.1 Confirmation
+    [39] 2.3 Error Persistence
+    [40] 7.1 Confirmation
+
+  Example 16  (dist to medoid: 0.5190)
+  SHA: e0e46200c6ef89cb7ab4d0318de6b2ba6ce632cc
+  Sequence length: 35
+    [0] 3.2 Project Comprehension + 6.1 Documentation
+    [1] 6.1 Documentation + 3.2 Project Comprehension
+    [2] 1.2 Iterative Modification
+    [3] 1.2 Iterative Modification
+    [4] 1.3 Alignment Correction + 1.2 Iterative Modification + 2.2 Symptom Description
+    [5] 1.2 Iterative Modification
+    [6] 1.2 Iterative Modification
+    [7] 1.2 Iterative Modification
+    [8] 1.2 Iterative Modification
+    [9] 1.1 New Implementation
+    [10] 1.2 Iterative Modification
+    [11] 1.2 Iterative Modification
+    [12] 1.1 New Implementation
+    [13] 1.2 Iterative Modification
+    [14] 1.3 Alignment Correction + 1.2 Iterative Modification
+    [15] 1.3 Alignment Correction + 1.2 Iterative Modification
+    [16] 2.2 Symptom Description + 1.3 Alignment Correction
+    [17] 1.2 Iterative Modification
+    [18] 1.2 Iterative Modification
+    [19] 2.2 Symptom Description
+    [20] 1.2 Iterative Modification
+    [21] 1.2 Iterative Modification
+    [22] 1.2 Iterative Modification
+    [23] 1.2 Iterative Modification + 1.3 Alignment Correction
+    [24] 1.2 Iterative Modification
+    [25] 2.2 Symptom Description
+    [26] 1.2 Iterative Modification
+    [27] 2.2 Symptom Description
+    [28] 1.2 Iterative Modification
+    [29] 2.2 Symptom Description
+    [30] 1.1 New Implementation
+    [31] 1.2 Iterative Modification
+    [32] 2.2 Symptom Description
+    [33] 1.2 Iterative Modification + 4.2 Behavior Specification
+    [34] 1.2 Iterative Modification
+
+  Example 17  (dist to medoid: 0.5208)
+  SHA: 3e9f58df8a1412e06c4c77b8393f804f1352724f
+  Sequence length: 25
+    [0] 1.2 Iterative Modification
+    [1] 1.2 Iterative Modification + 2.2 Symptom Description
+    [2] 1.2 Iterative Modification + 2.2 Symptom Description
+    [3] 1.2 Iterative Modification
+    [4] 1.2 Iterative Modification
+    [5] 1.2 Iterative Modification + 1.3 Alignment Correction + 2.2 Symptom Description
+    [6] 1.2 Iterative Modification
+    [7] 2.2 Symptom Description
+    [8] 2.3 Error Persistence
+    [9] 1.2 Iterative Modification
+    [10] 2.2 Symptom Description + 1.2 Iterative Modification
+    [11] 1.3 Alignment Correction + 1.2 Iterative Modification
+    [12] 4.1 Information Injection
+    [13] 4.2 Behavior Specification
+    [14] 1.3 Alignment Correction + 2.3 Error Persistence + 7.5 Sentiment Expression
+    [15] 1.2 Iterative Modification
+    [16] 1.2 Iterative Modification
+    [17] 1.2 Iterative Modification + 1.3 Alignment Correction
+    [18] 2.2 Symptom Description + 1.2 Iterative Modification
+    [19] 1.2 Iterative Modification
+    [20] 1.2 Iterative Modification
+    [21] 1.2 Iterative Modification
+    [22] 3.2 Project Comprehension
+    [23] 2.2 Symptom Description
+    [24] 2.3 Error Persistence
+
+  Example 18  (dist to medoid: 0.5250)
+  SHA: 38bbb507912cb94250b610962a407920d6259d0a
+  Sequence length: 29
+    [0] 1.2 Iterative Modification
+    [1] 1.2 Iterative Modification
+    [2] 2.2 Symptom Description
+    [3] 1.2 Iterative Modification + 1.3 Alignment Correction
+    [4] 3.1 Planning & Decision Consultation + 2.2 Symptom Description
+    [5] 1.2 Iterative Modification
+    [6] 1.2 Iterative Modification
+    [7] 1.2 Iterative Modification
+    [8] 1.2 Iterative Modification
+    [9] 6.2 Toolchain Operation
+    [10] 1.2 Iterative Modification + 4.1 Information Injection
+    [11] 1.2 Iterative Modification
+    [12] 1.2 Iterative Modification
+    [13] 1.2 Iterative Modification
+    [14] 1.2 Iterative Modification
+    [15] 1.2 Iterative Modification
+    [16] 3.1 Planning & Decision Consultation
+    [17] 1.2 Iterative Modification
+    [18] 1.2 Iterative Modification
+    [19] 1.2 Iterative Modification
+    [20] 1.3 Alignment Correction + 1.2 Iterative Modification
+    [21] 1.2 Iterative Modification + 1.3 Alignment Correction
+    [22] 1.2 Iterative Modification
+    [23] 1.2 Iterative Modification
+    [24] 6.2 Toolchain Operation
+    [25] 1.2 Iterative Modification + 4.1 Information Injection
+    [26] 1.2 Iterative Modification
+    [27] 1.2 Iterative Modification
+    [28] 2.2 Symptom Description
+
+  Example 19  (dist to medoid: 0.5250)
+  SHA: 6133c6e2fba75693a940e74a3e81a7280a1d1eee
+  Sequence length: 24
+    [0] 1.2 Iterative Modification
+    [1] 4.1 Information Injection
+    [2] 2.2 Symptom Description
+    [3] 2.2 Symptom Description
+    [4] 1.2 Iterative Modification
+    [5] 2.2 Symptom Description
+    [6] 2.3 Error Persistence + 7.5 Sentiment Expression
+    [7] 1.2 Iterative Modification
+    [8] 1.2 Iterative Modification + 1.3 Alignment Correction
+    [9] 1.1 New Implementation
+    [10] 2.2 Symptom Description + 1.3 Alignment Correction
+    [11] 1.1 New Implementation
+    [12] 1.2 Iterative Modification
+    [13] 2.2 Symptom Description + 1.3 Alignment Correction
+    [14] 1.1 New Implementation
+    [15] 1.2 Iterative Modification
+    [16] 1.2 Iterative Modification
+    [17] 1.1 New Implementation
+    [18] 1.1 New Implementation
+    [19] 1.2 Iterative Modification
+    [20] 2.2 Symptom Description + 1.2 Iterative Modification
+    [21] 1.2 Iterative Modification
+    [22] 1.2 Iterative Modification
+    [23] 1.2 Iterative Modification
+
+  Example 20  (dist to medoid: 0.5250)
+  SHA: 076183fae6acef577cefb7464d2dd1b2bb03c15e
+  Sequence length: 35
+    [0] 1.2 Iterative Modification
+    [1] 1.2 Iterative Modification + 2.2 Symptom Description
+    [2] 1.2 Iterative Modification
+    [3] 1.2 Iterative Modification
+    [4] 1.2 Iterative Modification
+    [5] 1.2 Iterative Modification
+    [6] 1.2 Iterative Modification + 7.1 Confirmation
+    [7] 2.3 Error Persistence
+    [8] 2.2 Symptom Description
+    [9] 1.2 Iterative Modification
+    [10] 1.2 Iterative Modification
+    [11] 1.3 Alignment Correction + 2.2 Symptom Description
+    [12] 1.2 Iterative Modification
+    [13] 1.3 Alignment Correction + 1.2 Iterative Modification
+    [14] 2.3 Error Persistence + 2.2 Symptom Description
+    [15] 2.2 Symptom Description + 1.3 Alignment Correction
+    [16] 1.2 Iterative Modification + 3.1 Planning & Decision Consultation
+    [17] 1.3 Alignment Correction + 1.2 Iterative Modification
+    [18] 2.3 Error Persistence
+    [19] 7.1 Confirmation + 7.5 Sentiment Expression
+    [20] 1.2 Iterative Modification
+    [21] 1.2 Iterative Modification
+    [22] 2.2 Symptom Description
+    [23] 1.2 Iterative Modification
+    [24] 1.2 Iterative Modification + 2.2 Symptom Description
+    [25] 1.2 Iterative Modification
+    [26] 1.2 Iterative Modification
+    [27] 1.2 Iterative Modification
+    [28] 1.2 Iterative Modification
+    [29] 1.2 Iterative Modification
+    [30] 3.3 General Knowledge Query
+    [31] 1.2 Iterative Modification
+    [32] 2.2 Symptom Description + 3.2 Project Comprehension
+    [33] 1.3 Alignment Correction + 1.2 Iterative Modification
+    [34] 7.5 Sentiment Expression
+
+  Example 21  (dist to medoid: 0.5294)
+  SHA: 46b471053d83165cecc84d7e0d2985e70353c93c
+  Sequence length: 34
+    [0] 1.1 New Implementation + 4.1 Information Injection
+    [1] 2.2 Symptom Description
+    [2] 2.3 Error Persistence
+    [3] 2.3 Error Persistence + 2.1 Log Paste
+    [4] 2.3 Error Persistence + 3.2 Project Comprehension
+    [5] 1.2 Iterative Modification
+    [6] 2.3 Error Persistence + 2.2 Symptom Description
+    [7] 1.2 Iterative Modification
+    [8] 2.2 Symptom Description
+    [9] 2.3 Error Persistence + 2.2 Symptom Description
+    [10] 2.2 Symptom Description + 4.1 Information Injection
+    [11] 2.2 Symptom Description
+    [12] 1.2 Iterative Modification
+    [13] 1.2 Iterative Modification
+    [14] 2.2 Symptom Description + 1.3 Alignment Correction
+    [15] 2.3 Error Persistence + 2.2 Symptom Description
+    [16] 1.2 Iterative Modification + 2.2 Symptom Description
+    [17] 2.3 Error Persistence + 1.2 Iterative Modification
+    [18] 1.2 Iterative Modification
+    [19] 1.3 Alignment Correction + 1.2 Iterative Modification
+    [20] 2.3 Error Persistence + 1.3 Alignment Correction
+    [21] 1.3 Alignment Correction + 1.2 Iterative Modification + 6.2 Toolchain Operation
+    [22] 1.2 Iterative Modification
+    [23] 1.2 Iterative Modification
+    [24] 1.2 Iterative Modification
+    [25] 1.2 Iterative Modification
+    [26] 1.2 Iterative Modification
+    [27] 1.3 Alignment Correction
+    [28] 1.2 Iterative Modification + 1.3 Alignment Correction
+    [29] 2.2 Symptom Description
+    [30] 1.3 Alignment Correction + 1.2 Iterative Modification
+    [31] 1.3 Alignment Correction
+    [32] 1.2 Iterative Modification
+    [33] 2.2 Symptom Description
+
+  Example 22  (dist to medoid: 0.5298)
+  SHA: f6aa353e63a4b1934a702dcaadf85f62afe40b76
+  Sequence length: 42
+    [0] 1.1 New Implementation
+    [1] 1.1 New Implementation
+    [2] 6.1 Documentation
+    [3] 3.3 General Knowledge Query
+    [4] 3.3 General Knowledge Query
+    [5] 1.2 Iterative Modification
+    [6] 1.2 Iterative Modification
+    [7] 1.2 Iterative Modification
+    [8] 7.1 Confirmation
+    [9] 1.2 Iterative Modification
+    [10] 1.2 Iterative Modification
+    [11] 1.1 New Implementation
+    [12] 2.3 Error Persistence
+    [13] 4.1 Information Injection
+    [14] 2.2 Symptom Description
+    [15] 2.2 Symptom Description
+    [16] 2.1 Log Paste
+    [17] 2.1 Log Paste
+    [18] 1.2 Iterative Modification
+    [19] 2.3 Error Persistence
+    [20] 7.2 Continuation
+    [21] 1.2 Iterative Modification
+    [22] 4.2 Behavior Specification
+    [23] 1.2 Iterative Modification + 1.3 Alignment Correction
+    [24] 1.2 Iterative Modification
+    [25] 1.2 Iterative Modification
+    [26] 4.2 Behavior Specification
+    [27] 1.1 New Implementation
+    [28] 2.2 Symptom Description
+    [29] 7.1 Confirmation
+    [30] 1.2 Iterative Modification
+    [31] 1.2 Iterative Modification
+    [32] 1.2 Iterative Modification
+    [33] 2.3 Error Persistence
+    [34] 7.1 Confirmation
+    [35] 1.2 Iterative Modification
+    [36] 1.2 Iterative Modification
+    [37] 1.2 Iterative Modification
+    [38] 1.2 Iterative Modification
+    [39] 1.2 Iterative Modification
+    [40] 1.2 Iterative Modification + 1.3 Alignment Correction
+    [41] 1.2 Iterative Modification
+
+  Example 23  (dist to medoid: 0.5306)
+  SHA: c1bb52b12ee25237027969ff1549958d4c021924
+  Sequence length: 18
+    [0] 1.2 Iterative Modification
+    [1] 1.2 Iterative Modification
+    [2] 7.3 Deferred Debugging
+    [3] 1.2 Iterative Modification
+    [4] 1.2 Iterative Modification
+    [5] 1.2 Iterative Modification
+    [6] 3.1 Planning & Decision Consultation
+    [7] 1.2 Iterative Modification
+    [8] 1.2 Iterative Modification
+    [9] 1.2 Iterative Modification
+    [10] 1.2 Iterative Modification
+    [11] 1.2 Iterative Modification
+    [12] 1.2 Iterative Modification
+    [13] 2.2 Symptom Description + 1.2 Iterative Modification + 3.2 Project Comprehension
+    [14] 1.1 New Implementation
+    [15] 1.2 Iterative Modification
+    [16] 1.2 Iterative Modification
+    [17] 2.2 Symptom Description
+
+  Example 24  (dist to medoid: 0.5333)
+  SHA: f5a4c9970a79856d07fe95312f7ad0e5d7249ab8
+  Sequence length: 28
+    [0] 6.2 Toolchain Operation
+    [1] 1.2 Iterative Modification
+    [2] 1.2 Iterative Modification
+    [3] 1.2 Iterative Modification
+    [4] 1.2 Iterative Modification
+    [5] 1.2 Iterative Modification
+    [6] 1.2 Iterative Modification
+    [7] 1.2 Iterative Modification
+    [8] 1.2 Iterative Modification
+    [9] 1.2 Iterative Modification
+    [10] 2.2 Symptom Description
+    [11] 1.2 Iterative Modification
+    [12] 1.2 Iterative Modification
+    [13] 1.2 Iterative Modification
+    [14] 2.3 Error Persistence
+    [15] 2.3 Error Persistence + 2.2 Symptom Description
+    [16] 2.3 Error Persistence
+    [17] 2.3 Error Persistence
+    [18] 2.2 Symptom Description + 1.2 Iterative Modification
+    [19] 2.3 Error Persistence
+    [20] 2.3 Error Persistence
+    [21] 1.2 Iterative Modification
+    [22] 1.2 Iterative Modification
+    [23] 1.2 Iterative Modification
+    [24] 1.2 Iterative Modification
+    [25] 2.2 Symptom Description
+    [26] 1.2 Iterative Modification
+    [27] 1.3 Alignment Correction + 1.2 Iterative Modification
+
+  Example 25  (dist to medoid: 0.5333)
+  SHA: 15c376d7b36100aa7fa5a51f3c1cbf343b95c83c
+  Sequence length: 17
+    [0] 1.2 Iterative Modification + 4.2 Behavior Specification
+    [1] 1.3 Alignment Correction + 1.2 Iterative Modification
+    [2] 1.2 Iterative Modification
+    [3] 1.2 Iterative Modification + 1.3 Alignment Correction
+    [4] 1.2 Iterative Modification
+    [5] 1.2 Iterative Modification
+    [6] 1.2 Iterative Modification
+    [7] 1.2 Iterative Modification
+    [8] 1.2 Iterative Modification
+    [9] 1.2 Iterative Modification
+    [10] 1.3 Alignment Correction + 1.2 Iterative Modification
+    [11] 1.2 Iterative Modification
+    [12] 1.2 Iterative Modification
+    [13] 1.2 Iterative Modification
+    [14] 1.1 New Implementation
+    [15] 1.3 Alignment Correction + 1.2 Iterative Modification
+    [16] 1.2 Iterative Modification
+
+  Example 26  (dist to medoid: 0.5333)
+  SHA: a92e4d2ca66644c17c6d0ffe973bf91794549027
+  Sequence length: 20
+    [0] 6.2 Toolchain Operation + 3.2 Project Comprehension
+    [1] 6.2 Toolchain Operation
+    [2] 6.1 Documentation
+    [3] 1.2 Iterative Modification
+    [4] 1.2 Iterative Modification
+    [5] 1.2 Iterative Modification
+    [6] 1.2 Iterative Modification + 4.1 Information Injection
+    [7] 1.2 Iterative Modification
+    [8] 1.2 Iterative Modification + 7.1 Confirmation
+    [9] 1.2 Iterative Modification
+    [10] 1.2 Iterative Modification
+    [11] 1.2 Iterative Modification
+    [12] 1.3 Alignment Correction + 1.2 Iterative Modification
+    [13] 3.1 Planning & Decision Consultation
+    [14] 7.1 Confirmation
+    [15] 1.2 Iterative Modification
+    [16] 4.1 Information Injection
+    [17] 1.2 Iterative Modification + 4.1 Information Injection
+    [18] 1.2 Iterative Modification
+    [19] 1.3 Alignment Correction + 1.2 Iterative Modification
+
+  Example 27  (dist to medoid: 0.5333)
+  SHA: 03a7dc59d9edcf9bbc33a60f7c8bd147e170edbe
+  Sequence length: 19
+    [0] 1.1 New Implementation
+    [1] 1.3 Alignment Correction + 1.2 Iterative Modification
+    [2] 1.3 Alignment Correction
+    [3] 1.2 Iterative Modification
+    [4] 1.2 Iterative Modification
+    [5] 1.3 Alignment Correction + 4.2 Behavior Specification
+    [6] 1.3 Alignment Correction + 2.2 Symptom Description
+    [7] 1.2 Iterative Modification
+    [8] 2.2 Symptom Description
+    [9] 4.1 Information Injection
+    [10] 2.1 Log Paste
+    [11] 2.3 Error Persistence + 2.2 Symptom Description
+    [12] 2.2 Symptom Description
+    [13] 1.3 Alignment Correction
+    [14] 2.2 Symptom Description
+    [15] 1.2 Iterative Modification + 1.3 Alignment Correction
+    [16] 1.2 Iterative Modification
+    [17] 1.2 Iterative Modification
+    [18] 1.2 Iterative Modification
+
+  Example 28  (dist to medoid: 0.5333)
+  SHA: ba60e21d31fbfc3cd7cae8a9e7bf22c74ebe66e9
+  Sequence length: 26
+    [0] 4.1 Information Injection
+    [1] 1.2 Iterative Modification
+    [2] 1.2 Iterative Modification
+    [3] 1.2 Iterative Modification
+    [4] 1.3 Alignment Correction
+    [5] 1.2 Iterative Modification
+    [6] 1.2 Iterative Modification
+    [7] 1.3 Alignment Correction
+    [8] 1.2 Iterative Modification + 4.1 Information Injection
+    [9] 1.2 Iterative Modification
+    [10] 3.2 Project Comprehension
+    [11] 1.2 Iterative Modification
+    [12] 1.3 Alignment Correction + 1.2 Iterative Modification
+    [13] 1.2 Iterative Modification
+    [14] 2.2 Symptom Description
+    [15] 1.2 Iterative Modification
+    [16] 1.2 Iterative Modification
+    [17] 1.1 New Implementation + 4.1 Information Injection
+    [18] 7.5 Sentiment Expression
+    [19] 2.2 Symptom Description
+    [20] 1.2 Iterative Modification
+    [21] 3.2 Project Comprehension
+    [22] 3.2 Project Comprehension
+    [23] 1.2 Iterative Modification
+    [24] 1.3 Alignment Correction + 1.2 Iterative Modification
+    [25] 2.2 Symptom Description
+
+  Example 29  (dist to medoid: 0.5357)
+  SHA: 3821c928df1bdc7f14099c094af102571425845d
+  Sequence length: 35
+    [0] 1.1 New Implementation
+    [1] 1.3 Alignment Correction + 1.2 Iterative Modification
+    [2] 2.2 Symptom Description
+    [3] 1.2 Iterative Modification
+    [4] 1.2 Iterative Modification
+    [5] 3.2 Project Comprehension
+    [6] 3.2 Project Comprehension
+    [7] 1.2 Iterative Modification
+    [8] 6.2 Toolchain Operation
+    [9] 5.1 Code Review + 4.1 Information Injection
+    [10] 6.2 Toolchain Operation
+    [11] 2.2 Symptom Description
+    [12] 3.1 Planning & Decision Consultation
+    [13] 3.2 Project Comprehension
+    [14] 1.2 Iterative Modification
+    [15] 1.2 Iterative Modification
+    [16] 1.1 New Implementation
+    [17] 2.2 Symptom Description
+    [18] 1.3 Alignment Correction
+    [19] 2.3 Error Persistence + 1.3 Alignment Correction
+    [20] 1.2 Iterative Modification
+    [21] 1.2 Iterative Modification
+    [22] 1.2 Iterative Modification
+    [23] 1.2 Iterative Modification
+    [24] 2.2 Symptom Description
+    [25] 3.3 General Knowledge Query
+    [26] 1.2 Iterative Modification
+    [27] 1.2 Iterative Modification
+    [28] 1.2 Iterative Modification
+    [29] 1.2 Iterative Modification
+    [30] 1.2 Iterative Modification
+    [31] 1.2 Iterative Modification
+    [32] 1.2 Iterative Modification
+    [33] 3.2 Project Comprehension
+    [34] 7.3 Deferred Debugging
+
+  Example 30  (dist to medoid: 0.5375)
+  SHA: b2890b51893016d841cf1ae42cafedbcb1001dc7
+  Sequence length: 21
+    [0] 1.1 New Implementation
+    [1] 1.1 New Implementation
+    [2] 1.2 Iterative Modification
+    [3] 1.2 Iterative Modification
+    [4] 2.2 Symptom Description + 1.2 Iterative Modification
+    [5] 1.2 Iterative Modification
+    [6] 2.2 Symptom Description
+    [7] 1.2 Iterative Modification
+    [8] 1.2 Iterative Modification + 1.3 Alignment Correction
+    [9] 5.1 Code Review
+    [10] 5.1 Code Review
+    [11] 2.2 Symptom Description + 1.3 Alignment Correction
+    [12] 1.3 Alignment Correction + 1.2 Iterative Modification
+    [13] 7.2 Continuation
+    [14] 7.2 Continuation
+    [15] 1.3 Alignment Correction + 1.2 Iterative Modification
+    [16] 1.2 Iterative Modification
+    [17] 1.3 Alignment Correction + 1.2 Iterative Modification
+    [18] 1.2 Iterative Modification
+    [19] 2.2 Symptom Description + 1.2 Iterative Modification
+    [20] 2.2 Symptom Description
+
+================================================================================
+CLUSTER 5  |  615 sessions  |  medoid: 0220d52ae08b...
+================================================================================
+
+  Example 1  (dist to medoid: 0.0000)
+  SHA: 0220d52ae08b0dd11eb362297fa998604b776fd7
+  Sequence length: 4
+    [0] 6.2 Toolchain Operation
+    [1] 6.2 Toolchain Operation
+    [2] 6.2 Toolchain Operation
+    [3] 6.2 Toolchain Operation
+
+  Example 2  (dist to medoid: 0.0000)
+  SHA: 724018edff0d7e200e76b6cf347d0534706e3fac
+  Sequence length: 4
+    [0] 6.2 Toolchain Operation
+    [1] 6.2 Toolchain Operation
+    [2] 6.2 Toolchain Operation
+    [3] 6.2 Toolchain Operation
+
+  Example 3  (dist to medoid: 0.0625)
+  SHA: c968edf346dbb21dc34279c34a261d18aa396f90
+  Sequence length: 4
+    [0] 6.2 Toolchain Operation
+    [1] 6.2 Toolchain Operation
+    [2] 6.2 Toolchain Operation
+    [3] 6.1 Documentation + 6.2 Toolchain Operation
+
+  Example 4  (dist to medoid: 0.1250)
+  SHA: af46df391cf5a7a68eda7da02110623e88cf7bfa
+  Sequence length: 4
+    [0] 6.2 Toolchain Operation + 4.2 Behavior Specification
+    [1] 6.2 Toolchain Operation
+    [2] 6.2 Toolchain Operation
+    [3] 6.2 Toolchain Operation
+
+  Example 5  (dist to medoid: 0.1250)
+  SHA: 752a147b206beac66bd9a8bb0fff5f220e2f93ed
+  Sequence length: 4
+    [0] 6.2 Toolchain Operation + 4.2 Behavior Specification
+    [1] 6.2 Toolchain Operation
+    [2] 6.2 Toolchain Operation
+    [3] 6.2 Toolchain Operation
+
+  Example 6  (dist to medoid: 0.1250)
+  SHA: d4f1920e230cda67163ee7e7c2cdc18fd343126d
+  Sequence length: 4
+    [0] 6.2 Toolchain Operation + 5.2 Runtime Inspection
+    [1] 6.2 Toolchain Operation
+    [2] 6.2 Toolchain Operation
+    [3] 6.2 Toolchain Operation
+
+  Example 7  (dist to medoid: 0.1250)
+  SHA: c29aaf34ec2b9a91ecac39bdb4b4e7ae32f77b1c
+  Sequence length: 4
+    [0] 6.2 Toolchain Operation
+    [1] 6.2 Toolchain Operation
+    [2] 6.2 Toolchain Operation + 5.1 Code Review
+    [3] 6.2 Toolchain Operation
+
+  Example 8  (dist to medoid: 0.2000)
+  SHA: 9d96e210d884e5dc898d9183f16a7fc3ddbfb3c9
+  Sequence length: 5
+    [0] 6.2 Toolchain Operation
+    [1] 6.2 Toolchain Operation
+    [2] 4.2 Behavior Specification
+    [3] 6.2 Toolchain Operation
+    [4] 6.2 Toolchain Operation
+
+  Example 9  (dist to medoid: 0.2000)
+  SHA: 80da4cd57191ec6c7002521fd13409cb7b9852b3
+  Sequence length: 5
+    [0] 6.2 Toolchain Operation
+    [1] 6.2 Toolchain Operation
+    [2] 6.2 Toolchain Operation
+    [3] 6.2 Toolchain Operation
+    [4] 6.2 Toolchain Operation + 1.1 New Implementation
+
+  Example 10  (dist to medoid: 0.2000)
+  SHA: 28fbda806815ca4d1e7bca775abbf76ff1203b0f
+  Sequence length: 5
+    [0] 6.2 Toolchain Operation
+    [1] 6.2 Toolchain Operation
+    [2] 6.2 Toolchain Operation
+    [3] 6.2 Toolchain Operation
+    [4] 6.2 Toolchain Operation
+
+  Example 11  (dist to medoid: 0.2000)
+  SHA: effbf80502b0ab7249ea27da8cc97819343b60d5
+  Sequence length: 5
+    [0] 6.2 Toolchain Operation
+    [1] 6.2 Toolchain Operation
+    [2] 6.2 Toolchain Operation
+    [3] 6.2 Toolchain Operation
+    [4] 6.2 Toolchain Operation + 6.1 Documentation
+
+  Example 12  (dist to medoid: 0.2500)
+  SHA: 4b13582351a6a707381b1834056eb0c68c14b7fb
+  Sequence length: 4
+    [0] 6.1 Documentation
+    [1] 6.2 Toolchain Operation
+    [2] 6.2 Toolchain Operation
+    [3] 6.2 Toolchain Operation + 4.1 Information Injection
+
+  Example 13  (dist to medoid: 0.3000)
+  SHA: 7a64feef7cf605dfd34814632b618e13e1b35649
+  Sequence length: 5
+    [0] 3.1 Planning & Decision Consultation + 4.1 Information Injection
+    [1] 6.2 Toolchain Operation
+    [2] 6.2 Toolchain Operation
+    [3] 6.2 Toolchain Operation
+    [4] 6.2 Toolchain Operation + 4.1 Information Injection
+
+  Example 14  (dist to medoid: 0.3125)
+  SHA: a2af36226c17b3b186bd2f4606c21e9c910f1584
+  Sequence length: 4
+    [0] 6.2 Toolchain Operation + 6.1 Documentation
+    [1] 6.2 Toolchain Operation
+    [2] 6.2 Toolchain Operation + 6.1 Documentation
+    [3] 6.1 Documentation + 3.1 Planning & Decision Consultation
+
+  Example 15  (dist to medoid: 0.3125)
+  SHA: 0ea4bbc0ac5c5402913f3f9fec1a5791354c79c4
+  Sequence length: 4
+    [0] 2.1 Log Paste + 2.2 Symptom Description
+    [1] 6.2 Toolchain Operation
+    [2] 6.2 Toolchain Operation + 6.1 Documentation
+    [3] 6.2 Toolchain Operation
+
+  Example 16  (dist to medoid: 0.3125)
+  SHA: 7ff53f11f0d406c7e25e16d7fbabe95f0cb53063
+  Sequence length: 4
+    [0] 6.2 Toolchain Operation + 4.2 Behavior Specification
+    [1] 6.2 Toolchain Operation
+    [2] 6.1 Documentation + 1.2 Iterative Modification
+    [3] 6.2 Toolchain Operation
+
+  Example 17  (dist to medoid: 0.3333)
+  SHA: 3605264356ea3afb55abb35fe319dda5c99d73ea
+  Sequence length: 6
+    [0] 6.2 Toolchain Operation
+    [1] 6.2 Toolchain Operation
+    [2] 6.2 Toolchain Operation
+    [3] 6.2 Toolchain Operation
+    [4] 6.1 Documentation
+    [5] 3.2 Project Comprehension
+
+  Example 18  (dist to medoid: 0.3333)
+  SHA: 088fa6dd2048341f2ced477bd725371a232af37a
+  Sequence length: 6
+    [0] 6.2 Toolchain Operation + 4.1 Information Injection
+    [1] 6.2 Toolchain Operation
+    [2] 6.2 Toolchain Operation
+    [3] 6.2 Toolchain Operation + 1.3 Alignment Correction
+    [4] 6.2 Toolchain Operation
+    [5] 6.2 Toolchain Operation
+
+  Example 19  (dist to medoid: 0.3500)
+  SHA: a9da07b24d86c90cbdc6cb89289dfbab37ffe6f3
+  Sequence length: 5
+    [0] 6.2 Toolchain Operation
+    [1] 2.2 Symptom Description
+    [2] 6.2 Toolchain Operation + 6.1 Documentation
+    [3] 6.2 Toolchain Operation
+    [4] 6.1 Documentation
+
+  Example 20  (dist to medoid: 0.3500)
+  SHA: 7fedb4efb91247ab423ae9c7a9db8979fbcdd50d
+  Sequence length: 5
+    [0] 4.1 Information Injection
+    [1] 1.1 New Implementation + 6.2 Toolchain Operation
+    [2] 6.2 Toolchain Operation
+    [3] 6.2 Toolchain Operation
+    [4] 6.1 Documentation + 6.2 Toolchain Operation
+
+  Example 21  (dist to medoid: 0.3750)
+  SHA: 245d294e6c405d0b24fa69966179bb46be73031e
+  Sequence length: 4
+    [0] 6.2 Toolchain Operation + 1.2 Iterative Modification
+    [1] 6.2 Toolchain Operation
+    [2] 6.2 Toolchain Operation
+    [3] 1.2 Iterative Modification
+
+  Example 22  (dist to medoid: 0.3750)
+  SHA: caf2a892b767a919aea693a56d41df7af68c69d6
+  Sequence length: 4
+    [0] 1.2 Iterative Modification + 3.1 Planning & Decision Consultation
+    [1] 6.2 Toolchain Operation
+    [2] 6.2 Toolchain Operation + 1.2 Iterative Modification
+    [3] 6.2 Toolchain Operation
+
+  Example 23  (dist to medoid: 0.3750)
+  SHA: ddc1b1bc9c4dddea4a45255c7de3d9d33bc6c714
+  Sequence length: 4
+    [0] 6.1 Documentation
+    [1] 3.1 Planning & Decision Consultation
+    [2] 6.2 Toolchain Operation
+    [3] 6.2 Toolchain Operation
+
+  Example 24  (dist to medoid: 0.3750)
+  SHA: 7aa39ca4f2fd0b9c22a4d912d18ceb573623f846
+  Sequence length: 4
+    [0] 6.1 Documentation
+    [1] 6.2 Toolchain Operation
+    [2] 1.2 Iterative Modification
+    [3] 6.2 Toolchain Operation
+
+  Example 25  (dist to medoid: 0.3750)
+  SHA: cbc15d38804923a899894e96ebfe5b97570d1e91
+  Sequence length: 4
+    [0] 6.2 Toolchain Operation + 4.1 Information Injection
+    [1] 1.2 Iterative Modification
+    [2] 6.2 Toolchain Operation
+    [3] 6.2 Toolchain Operation
+
+  Example 26  (dist to medoid: 0.3750)
+  SHA: 27a2a8049e10130026e7a01e01e9c2cc3e4979df
+  Sequence length: 4
+    [0] 6.1 Documentation + 6.2 Toolchain Operation
+    [1] 6.2 Toolchain Operation
+    [2] 6.1 Documentation + 4.1 Information Injection
+    [3] 6.1 Documentation
+
+  Example 27  (dist to medoid: 0.3750)
+  SHA: 1e7434470b133cd9408b92034be90da962585e24
+  Sequence length: 4
+    [0] 6.1 Documentation
+    [1] 6.1 Documentation
+    [2] 6.1 Documentation
+    [3] 6.2 Toolchain Operation
+
+  Example 28  (dist to medoid: 0.3750)
+  SHA: 2f267a714817e8dd4b9768edd18b8ffdb4c034c7
+  Sequence length: 6
+    [0] 6.2 Toolchain Operation + 6.1 Documentation
+    [1] 2.1 Log Paste
+    [2] 6.2 Toolchain Operation
+    [3] 2.2 Symptom Description
+    [4] 6.2 Toolchain Operation
+    [5] 6.2 Toolchain Operation
+
+  Example 29  (dist to medoid: 0.3750)
+  SHA: 510c07e04825bf197bc77cbd5217161a78dc4c46
+  Sequence length: 4
+    [0] 6.2 Toolchain Operation
+    [1] 6.2 Toolchain Operation
+    [2] 6.2 Toolchain Operation + 1.2 Iterative Modification
+    [3] 7.2 Continuation
+
+  Example 30  (dist to medoid: 0.3750)
+  SHA: 22db0f0139d3de9ff42ece4d30e80ec17349c96b
+  Sequence length: 4
+    [0] 6.2 Toolchain Operation + 1.2 Iterative Modification
+    [1] 4.1 Information Injection
+    [2] 6.2 Toolchain Operation
+    [3] 6.2 Toolchain Operation

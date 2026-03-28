@@ -1,0 +1,12 @@
+pandas
+tqdm
+ipykernel
+openai
+anthropic
+langid
+matplotlib
+seaborn
+scikit-learn
+scikit-learn-extra
+networkx
+setuptools

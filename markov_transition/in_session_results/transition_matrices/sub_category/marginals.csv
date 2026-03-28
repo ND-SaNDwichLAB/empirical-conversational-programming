@@ -1,0 +1,21 @@
+,marginal
+1.1 New Implementation,0.040597611987839864
+1.2 Iterative Modification,0.19116346500658327
+1.3 Alignment Correction,0.043155895317191696
+2.1 Log Paste,0.07041637975857554
+2.2 Symptom Description,0.10975557772749968
+2.3 Error Persistence,0.027864045380662575
+3.1 Planning & Decision Consultation,0.06376315678531794
+3.2 Project Comprehension,0.07099300646889918
+3.3 General Knowledge Query,0.03363499669762932
+4.1 Information Injection,0.05753830515778811
+4.2 Behavior Specification,0.03600216410674389
+5.1 Code Review,0.019717026648491908
+5.2 Runtime Inspection,0.008292931989900837
+6.1 Documentation,0.04740096401118609
+6.2 Toolchain Operation,0.07781837429678208
+7.1 Confirmation,0.024774103792807856
+7.2 Continuation,0.0527196544923952
+7.3 Deferred Debugging,0.005506293241148006
+7.4 Deferred Implementation,0.0067335572387496895
+7.5 Sentiment Expression,0.012152489893808911

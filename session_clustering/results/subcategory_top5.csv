@@ -1,0 +1,31 @@
+cluster_id,cluster_name,rank,subcategory,count,pct_messages
+0,Planning & Comprehension,1,3.1 Planning & Decision Consultation,1592,20.99
+0,Planning & Comprehension,2,3.2 Project Comprehension,1545,20.37
+0,Planning & Comprehension,3,4.1 Information Injection,777,10.25
+0,Planning & Comprehension,4,3.3 General Knowledge Query,744,9.81
+0,Planning & Comprehension,5,6.1 Documentation,671,8.85
+1,Failure-Driven Debugging,1,2.2 Symptom Description,2198,29.74
+1,Failure-Driven Debugging,2,2.1 Log Paste,1848,25.00
+1,Failure-Driven Debugging,3,1.2 Iterative Modification,1279,17.30
+1,Failure-Driven Debugging,4,2.3 Error Persistence,567,7.67
+1,Failure-Driven Debugging,5,4.1 Information Injection,534,7.23
+2,Focused Iterative Refinement,1,1.2 Iterative Modification,4208,48.98
+2,Focused Iterative Refinement,2,1.3 Alignment Correction,1013,11.79
+2,Focused Iterative Refinement,3,2.2 Symptom Description,968,11.27
+2,Focused Iterative Refinement,4,4.1 Information Injection,684,7.96
+2,Focused Iterative Refinement,5,1.1 New Implementation,655,7.62
+3,Continuation-Driven Delegation,1,7.2 Continuation,1580,31.00
+3,Continuation-Driven Delegation,2,6.2 Toolchain Operation,679,13.32
+3,Continuation-Driven Delegation,3,4.2 Behavior Specification,596,11.69
+3,Continuation-Driven Delegation,4,6.1 Documentation,497,9.75
+3,Continuation-Driven Delegation,5,4.1 Information Injection,473,9.28
+4,Extended Iterative Co-Development,1,1.2 Iterative Modification,8710,27.95
+4,Extended Iterative Co-Development,2,2.2 Symptom Description,5296,17.00
+4,Extended Iterative Co-Development,3,1.3 Alignment Correction,2812,9.02
+4,Extended Iterative Co-Development,4,2.1 Log Paste,2807,9.01
+4,Extended Iterative Co-Development,5,6.2 Toolchain Operation,2701,8.67
+5,Toolchain-Oriented Operations,1,6.2 Toolchain Operation,1721,38.55
+5,Toolchain-Oriented Operations,2,6.1 Documentation,915,20.50
+5,Toolchain-Oriented Operations,3,4.2 Behavior Specification,519,11.63
+5,Toolchain-Oriented Operations,4,1.2 Iterative Modification,443,9.92
+5,Toolchain-Oriented Operations,5,4.1 Information Injection,434,9.72
