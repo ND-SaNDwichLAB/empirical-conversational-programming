@@ -45,7 +45,7 @@ data/
 └── languages.json            # Repository language statistics
 ```
 
-Due to copyright and privacy considerations, raw data (including chat sessions and repository characteristics) are not included in this package; only aggregated analysis results are retained. Researchers interested in accessing the raw data or discussing the project are welcome to contact [Ningzhi Tang](https://www.nztang.com/).
+Due to copyright and privacy considerations (most source repositories do not carry explicit redistribution licenses), raw data (including chat sessions and repository characteristics) are not included in this package; only aggregated analysis results are retained. Researchers interested in accessing the raw data or discussing the project are welcome to contact [Ningzhi Tang](https://www.nztang.com/).
 
 ## Citation
 
@@ -61,4 +61,4 @@ If you use this package, please cite our paper:
 
 ## Acknowledgments
 
-This research was supported in part by an AnalytiXIN Faculty Fellowship, an NVIDIA Academic Hardware Grant, a Google Cloud Research Credit Award, a Google Research Scholar Award, and NSF grants CCF-2211428, CCF-2315887, and CCF-2100035. Any opinions, findings, or recommendations expressed here are those of the authors and do not necessarily reflect the views of the sponsors. The authors thank Yuqi Wang from CREVIK for introducing us to SpecStory, without which this study would not have been possible.
+This research was supported in part by an NVIDIA Academic Hardware Grant, a Google Cloud Research Credit Award, and NSF grants CCF-2211428, CCF-2315887, and CCF-2100035. Any opinions, findings, or recommendations expressed here are those of the authors and do not necessarily reflect the views of the sponsors. The authors thank Yuqi Wang from CREVIK for introducing us to SpecStory, without which this study would not have been possible.
