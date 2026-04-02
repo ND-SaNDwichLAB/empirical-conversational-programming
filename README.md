@@ -1,6 +1,6 @@
 # Empirical Conversational Programming
 
-Replication package for the paper "Programming by Chat: A Large-Scale Behavioral Analysis of 11,579 Real-World AI-Assisted IDE Sessions". Read the full paper on [arXiv](https://arxiv.org/abs/xxxx.yyyyy).
+Replication package for the paper "Programming by Chat: A Large-Scale Behavioral Analysis of 11,579 Real-World AI-Assisted IDE Sessions". Read the full paper on [arXiv](https://arxiv.org/abs/2604.00436).
 
 ## Repository Structure
 
@@ -54,7 +54,7 @@ If you use this package, please cite our paper:
 @article{tang2026programming,
   title={Programming by Chat: A Large-Scale Behavioral Analysis of 11,579 Real-World AI-Assisted IDE Sessions},
   author={Tang, Ningzhi and Chen, Chaoran and Fang, Zihan and Xu, Gelei and Dhakal, Maria and Shi, Yiyu and McMillan, Collin and Huang, Yu and Li, Toby Jia-Jun},
-  journal={arXiv preprint arXiv:xxxx.yyyyy},
+  journal={arXiv preprint arXiv:2604.00436},
   year={2026}
 }
 ```
