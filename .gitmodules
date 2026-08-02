@@ -1,0 +1,3 @@
+[submodule "data_scraping"]
+	path = data_scraping
+	url = https://github.com/TTangNingzhi/vibe-coding-scraper.git

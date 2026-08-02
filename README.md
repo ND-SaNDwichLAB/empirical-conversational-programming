@@ -4,6 +4,7 @@ Replication package for the paper "Programming by Chat: A Large-Scale Behavioral
 
 ## Repository Structure
 
+- `data_scraping/`: Scrape and parse raw chat-history traces and GitHub metadata into structured JSON files.
 - `intent_classification/`: Classifies the behavioral intent of each user message based on an [established taxonomy](intent_classification/codebook.txt) and analyzes the distribution of behavioral intent categories. Results are saved to `data/classifications/`.
     > **Note**: Intent classification is a prerequisite for most other analyses, which generally depend on `data/classifications/classifications_for_analysis.csv`. See the full [data specification](intent_classification/data_spec.md).
 - `session_clustering/`: Clusters user sessions based on their sequence of behavioral intent categories. Results are saved to `data/clusters/` (including pre-computed distances). An interactive t-SNE visualization is accessible [here](https://conversational-programming-clusters.netlify.app/).
@@ -24,6 +25,7 @@ All data should be placed under the `data/` directory. The full data structure i
 data/
 ├── classifications/          # Behavioral intent classification results
 ├── clusters/                 # Session clustering results and pre-computed distances
+├── contents/                 # Raw chat-history blobs (base64)
 ├── sub_classifications/      # Sub-classification results
 ├── detected_langs/           # Language detection results
 ├── repo_characteristics.csv  # Repository-level characteristics
@@ -31,6 +33,7 @@ data/
 ├── metadata.json             # Dataset metadata (scrape date, author)
 ├── searches/                 # Raw GitHub search results
 ├── searches.json             # Combined search records
+├── mapping.csv               # Session-to-repository mapping table
 ├── markdowns/                # Raw chat-history Markdown files
 ├── markdowns_cli/            # CLI-agent style chat traces
 ├── parsed_chats/             # Structured parsed chat records
@@ -45,7 +48,7 @@ data/
 └── languages.json            # Repository language statistics
 ```
 
-Due to copyright and privacy considerations (most source repositories do not carry explicit redistribution licenses), raw data (including chat sessions and repository characteristics) are not included in this package; only aggregated analysis results are retained. Researchers interested in accessing the raw data or discussing the project are welcome to contact [Ningzhi Tang](https://www.nztang.com/).
+Due to copyright and privacy considerations (most source repositories do not carry explicit redistribution licenses), raw data (including chat sessions and repository characteristics) are not included in this package; only aggregated analysis results are retained. However, the data can be fully recollected via the [provided scraping pipeline](https://github.com/TTangNingzhi/vibe-coding-scraper). Researchers interested in accessing the raw data or discussing the project are welcome to contact [Ningzhi Tang](https://www.nztang.com/).
 
 ## Citation
 
