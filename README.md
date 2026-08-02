@@ -1,6 +1,6 @@
 # Empirical Conversational Programming
 
-Replication package for the paper "Programming by Chat: A Large-Scale Behavioral Analysis of 11,579 Real-World AI-Assisted IDE Sessions". Read the full paper on [arXiv](https://arxiv.org/abs/2604.00436).
+Replication package for the paper "Programming by Chat: A Large-Scale Behavioral Analysis of 11,579 Real-World AI-Assisted IDE Sessions", accepted at the 41st IEEE/ACM International Conference on Automated Software Engineering (ASE 2026). The full paper is available on [arXiv](https://arxiv.org/abs/2604.00436).
 
 ## Repository Structure
 
@@ -51,14 +51,14 @@ Due to copyright and privacy considerations (most source repositories do not car
 
 If you use this package, please cite our paper:
 ```bibtex
-@article{tang2026programming,
+@inproceedings{tang2026programming,
   title={Programming by Chat: A Large-Scale Behavioral Analysis of 11,579 Real-World AI-Assisted IDE Sessions},
   author={Tang, Ningzhi and Chen, Chaoran and Fang, Zihan and Xu, Gelei and Dhakal, Maria and Shi, Yiyu and McMillan, Collin and Huang, Yu and Li, Toby Jia-Jun},
-  journal={arXiv preprint arXiv:2604.00436},
+  booktitle={2026 41st IEEE/ACM International Conference on Automated Software Engineering (ASE)},
   year={2026}
 }
 ```
 
 ## Acknowledgments
 
-This research was supported in part by an NVIDIA Academic Hardware Grant, a Google Cloud Research Credit Award, and NSF grants CCF-2211428, CCF-2315887, and CCF-2100035. Any opinions, findings, or recommendations expressed here are those of the authors and do not necessarily reflect the views of the sponsors. The authors thank Yuqi Wang from CREVIK for introducing us to SpecStory, without which this study would not have been possible.
+This research was supported in part by a Google Cloud Research Credit Award, a Google Research Scholar Award, a gift from Adobe, an Edison Innovation Fellowship from the Notre Dame IDEA Center, and NSF grants CCF-2211428, CCF-2315887, CCF-2100035, CCF-2211429, and CCF-2442682. Any opinions, findings, or recommendations expressed here are those of the authors and do not necessarily reflect the views of the sponsors. The authors thank Yuqi Wang from CREVIK for introducing us to SpecStory, without which this study would not have been possible.
