@@ -2,6 +2,8 @@
 
 Replication package for the paper "Programming by Chat: A Large-Scale Behavioral Analysis of 11,579 Real-World AI-Assisted IDE Sessions", accepted at the 41st IEEE/ACM International Conference on Automated Software Engineering (ASE 2026). The full paper is available on [arXiv](https://arxiv.org/abs/2604.00436).
 
+> The data scraping and parsing scripts are available at [TTangNingzhi/vibe-coding-scraper](https://github.com/TTangNingzhi/vibe-coding-scraper).
+
 ## Repository Structure
 
 - `data_scraping/`: Scrape and parse raw chat-history traces and GitHub metadata into structured JSON files.
